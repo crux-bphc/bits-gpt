@@ -1,6 +1,7 @@
 import os
 import fitz
 
+
 def convert_pdf_to_text(pdf_path, output_path):
     try:
         with fitz.open(pdf_path) as pdf_document:
@@ -16,6 +17,7 @@ def convert_pdf_to_text(pdf_path, output_path):
     except Exception as e:
         print(f"Conversion failed for {pdf_path}. Error: {e}")
 
+
 def convert_pdfs_in_directory(input_dir, output_dir):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -23,8 +25,11 @@ def convert_pdfs_in_directory(input_dir, output_dir):
     for filename in os.listdir(input_dir):
         if filename.endswith(".pdf"):
             pdf_path = os.path.join(input_dir, filename)
-            output_path = os.path.join(output_dir, os.path.splitext(filename)[0] + ".txt")
+            output_path = os.path.join(
+                output_dir, os.path.splitext(filename)[0] + ".txt"
+            )
             convert_pdf_to_text(pdf_path, output_path)
+
 
 if __name__ == "__main__":
     input_directory = "./data"
