@@ -1,0 +1,84 @@
+29/06/2018Headers
+A Guide To DC
+What is DC?
+
+How It Works
+
+Installation
+
+What Next?
+
+Troubleshooting
+
+Common Errors
+
+Sharing issues
+
+List of Hubs
+
+Active Hubs
+
+Inactive Hubs
+
+Other Sharing Methods
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+DC++ is in essence a software that allows you to share files over our
+ LAN, or the internal network of the campus. Collectively, us BITSians 
+have shared over 100 TB of data (try to assess that figure in your 
+head), ranging from the latest movies, TV shows and PC games, to class 
+notes, video tutorials, softwares and books. There is very little you 
+cannot find on the network and you will be missing a lot if you remain 
+unfamiliar with DC++.
+DC++ works on the principle of sharing. When you’re connected to the 
+network, the files you have shared are available for others to download.
+ Other users can search and download the files you have shared, but only
+ when you’re online. As you can see, it is essential for everyone to 
+share their files so that everyone can benefit from it. Keeping this in 
+mind, most of the campus hubs/networks have a minimum share limit 
+(usually 25GB/50GB) – unless you share the minimum amount of files, 
+you’re not allowed to connect to the hub.
+So, you’ve successfully connected to LegendHub! Well, you could 
+search for your favourite movies or TV shows (using the small magnifying
+ glass icon). A list of results will pop up in a new tab. Double click 
+on the one you like to start downloading to the default directory (you 
+can change it to prevent your drive getting filled up). Alternatively, 
+you could also browse the ‘file list’ of some user by right clicking on 
+their name (in the users panel on the right hand side) and selecting 
+‘Browse file list’.
+We also have a Facebook Group
+ for DC, named “Stronger DC for BPHC”, containing news about the latest 
+files that have been added to the network. You can also post requests 
+and interact with fellow DC users here.
+172.16.71.71 – LegendHub – 25GB share 
+172.16.34.159 – Billi’s Den – 50GB share
+(They may be restarted some day, though. You can try once in a while.)
+172.16.116.225 – Marvel – 50GB share 
+172.16.119.187 – Maithri – 50GB share 
+172.16.120.250 – Exotica – 200GB share
+In case you don’t know, the BITSMAIL (your_id_number@hyderabad.bits-pilani.ac.in) you are issued comes with unlimited storage space on Google Drive.  You can use this to backup the 1000s of pictures you’ll take over the  next few years, or to share large files with your batch-mates. Google  Drive links are often used to share files with BITSians who are not on  campus or during summers to share files. To request a file when you’re  not on campus, just make a post on the Stronger DC Facebook Group, and mention you want a drive link.
+A few general rules for Google Drive links are:
+Happy downloading, and remember, sharing is caring!
+
+            
+
+Campus News, FAQ
+
+
+
+
+
+
