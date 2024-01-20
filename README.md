@@ -7,7 +7,7 @@ Your campus buddy chatbot for advice, resources and making student life easier.
 1. Clone the repository
 
 ```bash
-git clone
+git clone https://github.com/crux-bphc/bits-gpt.git
 ```
 
 2. Create a virtual environment
