@@ -28,10 +28,12 @@ pip install -r requirements.txt
 python create_database.py
 ```
 
-5. Run the server
+5. Setup environment variables (OpenAI API Key)
+
+6. Run the server
 
 ```bash
 python server.py
 ```
 
-6. Go to http://localhost:8000/talk/playground/ to open the playground
+7. Go to http://localhost:8000/talk/playground/ to open the playground
