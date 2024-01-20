@@ -16,7 +16,7 @@ hf_embeddings = get_hf_embeddings()
 
 
 def load_documents() -> list[Document]:
-    loader = DirectoryLoader(DATA_PATH, glob="**/*.txt")
+    loader = DirectoryLoader(DATA_PATH, glob="**/*.md")
     documents = loader.load()
     return documents
 
