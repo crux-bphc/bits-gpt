@@ -1,17 +1,9 @@
 from query_db import query_chroma
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
+from server import PROMPT_TEMPLATE
 import dotenv
 
-PROMPT_TEMPLATE = """
-Answer the question based only on the following context:
-
-{context}
-
----
-
-Answer the question normally without saying anything about the context: {question}
-"""
 
 
 def ask_question_open_ai(question: str):

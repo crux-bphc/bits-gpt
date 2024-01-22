@@ -19,13 +19,16 @@ model = ChatOpenAI(model="gpt-3.5-turbo")
 retriever = get_retriever()
 
 PROMPT_TEMPLATE = """
-Answer the question based only on the following context:
+You are BitsGPT, a friendly chatbot for helping college students with their college life.
+Don't create up advice on your own. Instead, use the following context to answer the question.
 
 {context}
 
 ---
 
-Answer the question normally without saying anything about the context: {question}
+Answer the question without using the word context: {question}
+
+Also at the end link the source(s) of your answer.
 """
 
 prompt = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
