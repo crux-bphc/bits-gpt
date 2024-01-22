@@ -15,8 +15,9 @@ DATA_PATH = "data"
 hf_embeddings = get_hf_embeddings()
 
 
-def load_documents() -> list[Document]:
-    loader = DirectoryLoader(DATA_PATH, glob="**/*.md")
+def load_documents(extension="txt") -> list[Document]:
+    print(f"Loading {extension} documents...")
+    loader = DirectoryLoader(DATA_PATH, glob=f"**/*.{extension}")
     documents = loader.load()
     return documents
 
@@ -54,8 +55,12 @@ def save_to_chroma(chunks: list[Document]):
 
 def generate_data_store():
     print(f"Loading documents in {DATA_PATH}...")
-    documents = load_documents()
+
+    documents = load_documents("md")
     chunks = split_text(documents)
+
+    documents = load_documents("pdf")
+    chunks.extend(split_text(documents))
 
     print("Loading web documents...")
     web_documents = load_web_documents()
