@@ -25,7 +25,7 @@ pip install -r requirements.txt
 4. Create the vector database
 
 ```bash
-python script/create_database.py
+python src/create_database.py
 ```
 
 5. Setup environment variables (OpenAI API Key, Cohere API Key)

@@ -8,7 +8,7 @@ from langchain_community.document_loaders import (
     SitemapLoader,
 )
 from langchain.vectorstores.chroma import Chroma
-from src.embeddings import get_embeddings
+from embeddings import get_embeddings
 
 CHROMA_PATH = "chroma"
 DATA_PATH = "data"
