@@ -1,28 +1,4 @@
----
-layout: post
-title: Food Stalls Reviews - Orbe Novo 2022
-date: 2022-04-01 19:38:38.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  timeline_notification: '1648822121'
-  _thumbnail_id: '1507'
-  _publicize_job_id: '70879854998'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800959
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/04/01/food-stalls-reviews-orbe-novo-2022/"
----
+
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list {"ordered":true} --></p>

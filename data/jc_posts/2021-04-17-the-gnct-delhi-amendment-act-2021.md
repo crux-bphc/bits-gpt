@@ -1,28 +1,3 @@
----
-layout: post
-title: The GNCT Delhi Amendment Act 2021
-date: 2021-04-17 18:13:54.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _publicize_job_id: '57269363628'
-  timeline_notification: '1618663438'
-  _thumbnail_id: '1361'
-  _last_editor_used_jetpack: block-editor
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800808
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2021/04/17/the-gnct-delhi-amendment-act-2021/"
----
 <p><!-- wp:paragraph --></p>
 <p><em>The Lieutenant Governor and state government of the National capital of Delhi always had trouble with sharing of power. It's not unusual for countries to have a special administration system for their capital cities as in the case of Washington DC (The USA), Brasilia(Brazil), etc and so has been with Delhi. Earlier there was confusion as to whether it should be a state or union territory which was resolved in 1991 with the introduction of a Legislative Assembly having most of the powers of a state government and hence providing Delhi with partial statehood. Since then Delhi has had seven chief ministers all of whom had conflicts with their LG counterparts, though sometimes even&nbsp; belonging to the same parties. Now, the central government has introduced a new act to change the current existing framework which reduces the status of the elected government to less than a municipality, as from now on the word “Government of Delhi” would refer to the “Lieutenant Governor”.</em></p>
 <p><!-- /wp:paragraph --></p>

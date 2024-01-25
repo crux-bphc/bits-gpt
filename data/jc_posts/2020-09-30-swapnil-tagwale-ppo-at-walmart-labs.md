@@ -1,27 +1,3 @@
----
-layout: post
-title: Swapnil Tagwale - PPO at Walmart Labs
-date: 2020-09-30 19:08:12.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _thumbnail_id: '1303'
-  _publicize_job_id: '49402451201'
-  timeline_notification: '1601473096'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800801
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/09/30/swapnil-tagwale-ppo-at-walmart-labs/"
----
 <p><!-- wp:paragraph --></p>
 <p>Swapnil Tagwale is a 2016 batch's M.Sc. Mathematics and B.E. Computer Science student in his fifth year currently. He got a Summer Internship at Walmart Labs along with 14 others from our campus. The internship was ten weeks long and the stipend being Rs. 58,000. Walmart is supposed to be on a hiring spree leading to a pre-placement offer to 14 interns from our campus.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

@@ -1,31 +1,3 @@
----
-layout: post
-title: Uddeshya Chaudhary - PPO at Futures First
-date: 2020-09-11 19:08:31.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Career
-- Summer Internships
-tags:
-- Career Series
-- Summer Internship Series
-meta:
-  timeline_notification: '1599831515'
-  _publicize_job_id: '48707700016'
-  _thumbnail_id: '1241'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800880
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/09/11/uddeshya-chaudhary-ppo-at-futures-first/"
----
 <p><!-- wp:paragraph --></p>
 <p>Uddeshya Chaudhary, a 4th-year Manufacturing Engineering student from our campus, secured a Pre-Placement Offer at the finance firm Futures First, after a Summer Internship. Ten others also got offers to intern at the firm in summer of 2020, while three finally bagged a PPO. Uddeshya Chaudhary is one of them. He was the President of The Wall Street Club for the academic year 2019-2020, and is also the Pitching Head at the Placement Unit for Semester 2, 2020-2021. Through this interview by the Journal Club, he shares his journey to his achievement, experiences in college life, and many more.</p>
 <p><!-- /wp:paragraph --></p>

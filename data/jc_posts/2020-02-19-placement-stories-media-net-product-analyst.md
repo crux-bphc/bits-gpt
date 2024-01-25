@@ -1,31 +1,3 @@
----
-layout: post
-title: 'Placement Stories: Media.Net Product Analyst'
-date: 2020-02-19 00:52:47.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Career
-- Placement Stories
-tags:
-- non-tech
-- Placements 2019-20
-meta:
-  _publicize_job_id: '40844464401'
-  timeline_notification: '1582053770'
-  _thumbnail_id: '888'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800785
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/02/19/placement-stories-media-net-product-analyst/"
----
 <p><!-- wp:paragraph --></p>
 <p>The recruitment process for this role as a product analyst in Media.net, the second-largest contextual advertising network in the world by revenue, was an off-campus process which was a part of the Placement Drive this year. There was one final select for the role of Product Analyst: Gokul Karthik.</p>
 <p><!-- /wp:paragraph --></p>

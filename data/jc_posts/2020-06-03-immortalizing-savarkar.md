@@ -1,27 +1,3 @@
----
-layout: post
-title: Immortalizing Savarkar - An Opinion-Editorial
-date: 2020-06-03 18:27:08.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _thumbnail_id: '1085'
-  _publicize_job_id: '45027659044'
-  timeline_notification: '1591189032'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801038
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/06/03/immortalizing-savarkar/"
----
 <p><!-- wp:paragraph {"align":"center"} --></p>
 <p class="has-text-align-center"><em>आर्तरक्षणार्थ घेति शस्त्र देवही करीं / शस्त्र पाप ना स्वयेंचि / शस्त्र पुण्य ना स्वयें / इष्टता अनिष्टताहि त्यास हेतुनेंच ये</em></p>
 <p><!-- /wp:paragraph --></p>

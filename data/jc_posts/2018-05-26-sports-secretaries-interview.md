@@ -1,31 +1,3 @@
----
-layout: post
-title: A Word With The Sports Secretaries
-date: 2018-05-26 14:36:44.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Arena
-- Campus News
-- Fests
-tags:
-- Arena 2018
-meta:
-  _wp_old_date: '2019-06-19'
-  timeline_notification: '1560935344'
-  _publicize_job_id: '31976796135'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801010
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/05/26/sports-secretaries-interview/"
----
 <p><!-- wp:heading --></p>
 <h2>What are the responsibilities you have as the sports secretary?</h2>
 <p><!-- /wp:heading --></p>

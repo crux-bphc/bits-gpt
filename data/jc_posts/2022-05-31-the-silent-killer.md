@@ -1,28 +1,3 @@
----
-layout: post
-title: The Silent Killer
-date: 2022-05-31 16:18:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  timeline_notification: '1653994083'
-  _thumbnail_id: '1566'
-  _publicize_job_id: '73133781131'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800992
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/05/31/the-silent-killer/"
----
 <p><!-- wp:paragraph --></p>
 <p>What if I failed to execute my plans today? I'll make up for it tomorrow. This was the second consecutive day Sandeep had wasted without studying a single page. His mid-semester tests were going on, and Sandeep was getting increasingly frustrated. At this point, staring at the small table clock, which displayed five minutes to one o'clock in the night, he felt very helpless. "Oh no. How can I screw up the only test with a weekend's worth of gap before it?"<br />Sandeep was an outstanding student during his school days. He was not as sharp as some of his classmates, but he had two remarkable qualities about him- perseverance and ambition. Ambition to be the best in his class. Sandeep managed to balance his studies and extra-curricular activities perfectly. Overall, he was a happy child who seemed to have everything in life. The question is, what went wrong over the course of a few years? How did a jovial, confident kid turn into a frustrated, anxious young adult?<br />Intense academic pressure during the years leading up to his engineering entrance examination had taken a toll on his mental health. Sandeep was no more the fighter he once was. Challenges scared him now. Though he somehow managed to get into a decent college, he developed a very deep scar in his mind. Fear engulfed him- his self-confidence was at an all-time low, and he developed self-esteem issues and insecurity, among other negative traits.<br />The scary thing is, there are many Sandeeps all around us. We often fail to recognize them. We fail to find out who the Sandeep in our friend group is because Sandeep is a great actor. He acts day and night to make it appear as if everything is okay with him. The need to act and put on a mask largely stems from a major chunk of Indians' insensitivity towards mental health issues. This is no joke, considering 12,526 students died by suicide in India in 2021 alone [NCRB data]. That amounts to more than one student lost to suicide every hour. We have relatively reliable data about the number of student suicides. What we don't have any idea about is the enormous number of students that get scarred for life running the brutal rat race they are forced into.<br />Indians are obsessed with merit and excellence, and this obsession manifests itself in the form of unrealistic expectations. Then there are coaching centers and money-hungry educational organizations with their false promises. Not all students can keep up with these expectations. All the five fingers of the hand are not the same. When a layman observes someone like Sandeep going downhill in terms of academic performance, they interpret it as a lack of effort and dedication, which is not always true. When a certain Sandeep fails in his interpersonal relationships, we attribute it to faults in his personal nature. What we don't do is try to understand his unfavorable circumstances. However painful it may sound, lack of empathy from elders and friends is what drives many troubled souls to the edge. Do we not realize that it does not get better with time by itself? Do we not realize that waking up early in the morning cannot be a solution to every problem in the world? Or do we choose not to, out of the fear of what society may think? As stated very precisely by late mental health campaigner and suicide prevention activist Gill Hayes, "…depression is not a weakness, nor a character flaw. It's a debilitating illness that affects how we think, feel, and function."</p>
 <p><!-- /wp:paragraph --></p>

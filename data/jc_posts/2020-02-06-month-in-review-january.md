@@ -1,39 +1,3 @@
----
-layout: post
-title: 'Month in Review:  January 2020'
-date: 2020-02-06 19:00:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- Arena
-- Arena 2020
-- Month in Review
-- Verba Maximus
-meta:
-  _thumbnail_id: '791'
-  timeline_notification: '1580823965'
-  _publicize_job_id: '40306325819'
-  _oembed_4b0aa49a5c72a9b455ff43b6e0a26864: "{{unknown}}"
-  _oembed_56515077db7c75771e9ba2f4f97ab548: "{{unknown}}"
-  _oembed_1f079b0a6bb0de516deb2779c188c1e0: "{{unknown}}"
-  _oembed_5832021e1df8e3a4324fd0dff88ec83e: "{{unknown}}"
-  _oembed_5e7a3b21cbe14f11f225d3621223f870: "{{unknown}}"
-  _oembed_156d1ae362537abda9cc1db564ca447b: "{{unknown}}"
-  _wp_old_date: '2020-02-04'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801065
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/02/06/month-in-review-january/"
----
 <p><!-- wp:paragraph --></p>
 <p>January was quite an eventful month, in terms of campus life and college activities. As soon as students came back from their long and much needed winter break, a line of events kept them preoccupied throughout the month.</p>
 <p><!-- /wp:paragraph --></p>

@@ -1,28 +1,3 @@
----
-layout: post
-title: P.S Diaries - Week 1
-date: 2022-06-18 20:55:26.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1619'
-  _publicize_job_id: '73792248007'
-  timeline_notification: '1655565929'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800964
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/06/18/p-s-diaries-week-1/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Kamlesh:</strong> Why are you guys so silent? Helu helu, guys speak up, you know my shoulders hurt from carrying all our conversations…. Ahh did you guys leave? Lemme check the tab.</p>
 <p><!-- /wp:paragraph --></p>

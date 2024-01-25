@@ -1,28 +1,3 @@
----
-layout: post
-title: An Interview with the Technical Secretary
-date: 2023-01-17 17:41:56.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1770'
-  _publicize_job_id: '80629179264'
-  timeline_notification: '1673957521'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1673957644
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2023/01/17/an-interview-with-the-technical-secretary-2/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Divyesh Agrawal</strong>: Alright, we have the Technical Secretary - Bhavya Jain - with us. I'm Divyesh Agrawal and I'm joined by Shounak Acharya for the interview. So the first question we would like to ask is that with ATMOS concluded, how do you feel like your tenure as Technical Secretary is proceeding? Could you give us a general overview?</p>
 <p><!-- /wp:paragraph --></p>

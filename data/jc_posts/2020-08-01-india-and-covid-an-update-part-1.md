@@ -1,27 +1,3 @@
----
-layout: post
-title: 'India and COVID- An Update: Part 1'
-date: 2020-08-01 19:14:32.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _thumbnail_id: '1166'
-  _publicize_job_id: '47230964012'
-  timeline_notification: '1596289478'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800998
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/08/01/india-and-covid-an-update-part-1/"
----
 <p><!-- wp:paragraph --></p>
 <p>Recently, India ranked third in the list of countries with the most COVID-19 cases. With over 1.5 million confirmed cases, the situation in India seems undoubtedly stark. Decoding the daily headline- “Another Record High Number of Cases”, one of the things to come to terms with is that record highs will increase until the peak is reached which may still be between 2-6 weeks in the future. Only after the peak can we see a constant and gradual reduction in the daily new cases. A positive takeaway, however, is that India’s Test Positivity rate, which is the percentage of COVID-19 tests that test positive has not surged like the cases and has found stability around the 9% zone, which is better than WHO’s 10% target rate. Though this is much higher than we saw during the initial days of the pandemic, with the surge in the number of tests conducted, an increase in the test positivity rate was only natural.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

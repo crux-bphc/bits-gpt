@@ -1,27 +1,3 @@
----
-layout: post
-title: 'MS Admits: Interview with Tushar Kanth'
-date: 2020-04-28 12:25:23.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _thumbnail_id: '1056'
-  _publicize_job_id: '43571334918'
-  timeline_notification: '1588056927'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800806
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/04/28/interview-with-tushar-kanth/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Where and for which programs did you receive offers?</strong></p>
 <p><!-- /wp:paragraph --></p>

@@ -1,28 +1,3 @@
----
-layout: post
-title: Why Your Vote Matters?
-date: 2022-07-03 16:39:07.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1635'
-  _publicize_job_id: '74306609820'
-  timeline_notification: '1656846550'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800779
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/07/03/why-your-vote-matters/"
----
 <p><!-- wp:paragraph --></p>
 <p>So elections are underway. You've probably already seen the campaign videos, been exposed to a million "Vote For X" WhatsApp forwards and been coralled into GMeets where you're told how you should exercise your vote.</p>
 <p><!-- /wp:paragraph --></p>

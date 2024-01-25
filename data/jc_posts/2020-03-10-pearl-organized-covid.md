@@ -1,28 +1,3 @@
----
-layout: post
-title: 'COVID19: Should Pearl Be Organized?'
-date: 2020-03-10 22:24:21.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags: []
-meta:
-  _publicize_job_id: '41637456832'
-  timeline_notification: '1583859265'
-  _wp_old_slug: '946'
-  _thumbnail_id: '947'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/03/10/pearl-organized-covid/"
----
 <p><!-- wp:paragraph --></p>
 <p>From sporting events and concerts across Europe [1] to IIT Delhi’s technical fest [2] and NLS Bangalore’s annual debate tournament [3], a plethora of events around the world are seeing cancellations and delays as the novel Coronavirus propagates fear through the general public. An advisory from the University Grants Commission on the 5th of March to all universities directing them to “avoid large gatherings” [4] is perhaps responsible for a lot of these cancellations. While it is undeniable that a lot of time, effort and money has already gone towards organizing Pearl 2020 and cancelling it would come at a considerable cost in terms of resources and time already spent, the undeniable health risks associated with organising a large event with plenty of outsiders must also be taken into account. With less than 10 days to go for our cultural festival, Pearl 2020, let’s take a detailed look at some factors that should come into play while deciding to organise Pearl or not.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

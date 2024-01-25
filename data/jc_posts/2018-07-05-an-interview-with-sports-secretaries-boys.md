@@ -1,33 +1,3 @@
----
-layout: post
-title: An interview with Sports Secretaries candidates (Boys)
-date: 2018-07-05 23:59:39.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Politics
-- WITW
-tags:
-- interview
-- suc
-- WITW v1.4
-meta:
-  _wp_old_date: '2019-09-19'
-  timeline_notification: '1568917893'
-  _publicize_job_id: '35461732899'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800870
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/07/05/an-interview-with-sports-secretaries-boys/"
----
 <p><!-- wp:heading --></p>
 <h2>Sohith Deva</h2>
 <p><!-- /wp:heading --></p>

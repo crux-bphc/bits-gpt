@@ -1,26 +1,3 @@
----
-layout: post
-title: Fresher Under Pressure
-date: 2017-08-23 08:00:59.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _wp_old_date: '2019-12-28'
-  _publicize_job_id: '38941484269'
-  timeline_notification: '1577554156'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2017/08/23/fresher-under-pressure/"
----
 <p><!-- wp:paragraph --></p>
 <p>Hello batch of 2017. You have been through a hectic first few weeks: interactions, inductions, classes, and a little video making along the way has taken its toll on you. But now, it’s your time to shine. You have the chance to become a part of the most powerful body on campus, the Students’ Union Council. This is the only chance a fresher has, to take on a responsibility otherwise reserved only for third yearites. You’ve probably heard a lot about Hostel representatives and a decent part of that would be criticism, but this article sheds light on the facts behind the stories.</p>
 <p><!-- /wp:paragraph --></p>

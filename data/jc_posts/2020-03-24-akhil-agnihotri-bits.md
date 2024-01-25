@@ -1,33 +1,3 @@
----
-layout: post
-title: 'Thesis Tales: Carnegie Mellon University'
-date: 2020-03-24 14:15:06.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Research
-tags:
-- Mechanical
-- Robotics
-- Thesis Tales
-meta:
-  _thumbnail_id: '956'
-  _rest_api_published: '1'
-  _rest_api_client_id: '2697'
-  _publicize_job_id: '42155202799'
-  timeline_notification: '1585039695'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801031
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/03/24/akhil-agnihotri-bits/"
----
 <p><!-- wp:paragraph --></p>
 <p>In this Thesis Tales article, Journal Club talks to Akhil Agnihotri, a 2016 batch Mechanical student from BITS Hyderabad who worked at the Safe AI Laboratory, Carnegie Mellon University, USA last semester, as an off-campus thesis. </p>
 <p><!-- /wp:paragraph --></p>

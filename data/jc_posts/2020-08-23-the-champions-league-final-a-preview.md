@@ -1,26 +1,3 @@
----
-layout: post
-title: The Champions League Final - A Preview
-date: 2020-08-23 18:04:34.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _thumbnail_id: '1188'
-  _publicize_job_id: '48029989402'
-  timeline_notification: '1598186078'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/08/23/the-champions-league-final-a-preview/"
----
 <p><!-- wp:paragraph --></p>
 <p>This season of the Champions League has been a refreshing departure from the competition's last few editions. We witnessed some surprise early exits and some fairly big upsets with teams like Atalanta, Leipzig, and Lyon, making it much further than most people would've have expected them too. And with Real Madrid's Champions League dominance all but over, many major teams are in the rebuilding phase; it's an exciting time for wishers for a more level competition. Things were only made more interesting, with the competition being affected by the COVID-19 pandemic. Many wondered if the league would even conclude. There were also concerns over player's fitness, and experts predicted that the teams taking fitness seriously during the lockdown were going to be the ones that come out on top.</p>
 <p><!-- /wp:paragraph --></p>

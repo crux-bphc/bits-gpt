@@ -1,33 +1,3 @@
----
-layout: post
-title: 'SUC Report Cards 2019: Yasaswi Thota'
-date: 2019-12-27 20:00:57.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- FAQ
-- Spotlight
-tags: []
-meta:
-  _rest_api_client_id: '2697'
-  _rest_api_published: '1'
-  _thumbnail_id: '563'
-  _publicize_job_id: '38906696325'
-  timeline_notification: '1577457519'
-  _wp_old_date: '2019-12-28'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801178
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2019/12/27/suc-report-cards-2019-yasaswi-thota/"
----
 <p><!-- wp:paragraph --></p>
 <p>As of the First Semester 2019-20, the Cultural Secretary (Girls) has fulfilled 3/7 of her manifesto points, while 4/7 are in progress. You can find her original manifesto <a href="https://www.facebook.com/pg/ElectionCommissionBPHC/photos/?tab=album&amp;album_id=2315900885320233">here</a>.</p>
 <p><!-- /wp:paragraph --></p>

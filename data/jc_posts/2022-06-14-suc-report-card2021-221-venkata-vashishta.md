@@ -1,28 +1,3 @@
----
-layout: post
-title: 'SUC Report Card(2021-221): Venkata Vashishta'
-date: 2022-06-14 17:48:07.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1599'
-  _publicize_job_id: '73646566219'
-  timeline_notification: '1655209090'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801085
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/06/14/suc-report-card2021-221-venkata-vashishta/"
----
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>

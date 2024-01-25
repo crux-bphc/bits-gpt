@@ -1,31 +1,3 @@
----
-layout: post
-title: Interview with Queer BITSians
-date: 2019-09-06 18:41:16.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- interview
-- Pride
-- Queer
-- Student Interview
-meta:
-  _publicize_job_id: '34999377561'
-  timeline_notification: '1567775481'
-  _thumbnail_id: '314'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2019/09/06/interview-with-queer-bitsians/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Interview 1</strong></p>
 <p><!-- /wp:paragraph --></p>

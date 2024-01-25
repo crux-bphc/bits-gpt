@@ -1,28 +1,3 @@
----
-layout: post
-title: Sneaky Getaways Ft. COVID-19
-date: 2022-04-21 15:33:29.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1530'
-  _publicize_job_id: '71646008197'
-  timeline_notification: '1650535412'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801045
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/04/21/sneaky-getaways-ft-covid-19/"
----
 <p><!-- wp:paragraph --></p>
 <p>Years of watching Mission Impossible movies ought to have made this easier. It didn’t. Everyone who’d done it before made it look easy, so I assumed it’d be a cakewalk. I closed my eyes and made a mental checklist of the things I had to do to pull this off.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

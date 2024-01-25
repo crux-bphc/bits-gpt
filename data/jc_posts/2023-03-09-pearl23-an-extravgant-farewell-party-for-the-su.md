@@ -1,28 +1,3 @@
----
-layout: post
-title: 'Pearl''23: An Extravgant Farewell Party for the SU?'
-date: 2023-03-09 17:37:55.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  wordads_ufa: s:wpcom-ufa-v3-beta:1678368795
-  _thumbnail_id: '1810'
-  timeline_notification: '1678363678'
-  _publicize_job_id: '82159186737'
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2023/03/09/pearl23-an-extravgant-farewell-party-for-the-su/"
----
 <p><!-- wp:paragraph --></p>
 <p>The Student Union Council is back again to stir up drama in our monotonous pre-midsem week with PEARL’23’s budget. Just a year ago, the SUC’22 presented before us a <strong>1.2 Crore in-house fest with Rs.700 deductions</strong>, which was honestly nothing more than an overpriced extravagant 5-day college party for us BITSians. The deductions were then justified by stating that it was Pearl+Atmos, and <strong><em>the closing accounts for this fest still seem to remain an unsolved query.&nbsp;</em></strong></p>
 <p><!-- /wp:paragraph --></p>

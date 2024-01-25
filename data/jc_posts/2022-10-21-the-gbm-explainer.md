@@ -1,28 +1,3 @@
----
-layout: post
-title: The GBM Explainer
-date: 2022-10-21 19:28:49.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1733'
-  _publicize_job_id: '77939118682'
-  timeline_notification: '1666360732'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1666360958
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/10/21/the-gbm-explainer/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Q: What is a GBM?</strong></p>
 <p><!-- /wp:paragraph --></p>

@@ -1,28 +1,3 @@
----
-layout: post
-title: A Toxic Checklist
-date: 2023-02-12 16:17:22.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1788'
-  _publicize_job_id: '81434790237'
-  timeline_notification: '1676198845'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1676198997
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2023/02/12/a-toxic-checklist/"
----
 <p><!-- wp:paragraph --></p>
 <p>THE FOLLOWING ARTICLE IS PURELY FICTITIOUS. ANY RESEMBLANCE TO REAL PERSONS, LIVING OR DEAD, IS PURELY COINCIDENTAL.</p>
 <p><!-- /wp:paragraph --></p>

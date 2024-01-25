@@ -1,27 +1,3 @@
----
-layout: post
-title: The Cossack Humbles The Knight
-date: 2021-10-06 14:21:04.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1418'
-  timeline_notification: '1633510266'
-  _publicize_job_id: '63831334915'
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2021/10/06/the-cossack-humbles-the-knight/"
----
 <p><!-- wp:paragraph --></p>
 <p>On 25th September 2021, the Tottenham Hotspur Stadium in London, England, played host to perhaps the most enthralling boxing match in recent years. Former Undisputed Cruiserweight World Champion and 2012 London Olympics Heavyweight Champion Oleksandr Usyk faced local boy, unified Heavyweight Champion, and fellow London Olympics Super Heavyweight, gold medallist Anthony Joshua in a 12 round heavyweight world championship bout in front of a 67,000 strong crowd. Billed as “<strong>The Perfect Storm” </strong>by promoters, this fight happened only after negotiations of an all-British title unification bout between Joshua and current WBC world champion Tyson Fury failed after an arbitration forced Fury first to defend his title against former champion, Deontay Wilder.</p>
 <p><!-- /wp:paragraph --></p>

@@ -1,27 +1,3 @@
----
-layout: post
-title: 'MS Admits: Interview with Ritika Sridharan'
-date: 2020-04-25 19:25:03.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _publicize_job_id: '43465747064'
-  _thumbnail_id: '1049'
-  timeline_notification: '1587822906'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801004
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/04/25/interview-with-ritika-sridharan/"
----
 <p><!-- wp:heading {"level":4} --></p>
 <h4><strong>Q. Where and which programme have you been offered?</strong></h4>
 <p><!-- /wp:heading --></p>

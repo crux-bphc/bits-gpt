@@ -1,27 +1,3 @@
----
-layout: post
-title: 'MS in Computer Engineering: an Interview with Kasyap'
-date: 2020-05-05 18:38:10.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _thumbnail_id: '1067'
-  _publicize_job_id: '43865653134'
-  timeline_notification: '1588684093'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800964
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/05/05/ms-in-computer-engineering-an-interview-with-kasyap/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>What was your master’s admission process like? How was it different from your undergrad admission procedure?</strong></p>
 <p><!-- /wp:paragraph --></p>

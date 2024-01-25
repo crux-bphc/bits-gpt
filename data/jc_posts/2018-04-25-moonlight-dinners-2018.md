@@ -1,32 +1,3 @@
----
-layout: post
-title: Moonlight Dinners 2018
-date: 2018-04-25 16:02:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Spotlight
-tags:
-- Deductions
-- Mess
-- Moonlight Dinner
-- SMC
-meta:
-  _wp_old_date: '2019-09-19'
-  timeline_notification: '1568889320'
-  _publicize_job_id: '35447968145'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/04/25/moonlight-dinners-2018/"
----
 <p><!-- wp:paragraph --></p>
 <p>On the midnight of 21st February 2018, the SMC announced a “Moonlight Dinner<sup>1</sup>”<br />
  (MLD) scheduled for 25th of the same month. It was intended to be a<br />

@@ -1,32 +1,3 @@
----
-layout: post
-title: North vs South
-date: 2018-07-05 23:34:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Politics
-- WITW
-tags:
-- clubs
-- WITW v1.4
-meta:
-  _wp_old_date: '2019-09-19'
-  timeline_notification: '1568917195'
-  _publicize_job_id: '35461406032'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800952
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/07/05/north-south/"
----
 <p><!-- wp:paragraph --></p>
 <p>From the title, it is clear, what the matter in this article is going to be. Elections are one of the worst times in college life. Only one thing is not fake during this period, which is the below the belt campaigning and dirty manipulation just for the sake of a position. This article is not an exaggeration but is as presented, witnessed, recalled and processed by the people concerned.</p>
 <p><!-- /wp:paragraph --></p>

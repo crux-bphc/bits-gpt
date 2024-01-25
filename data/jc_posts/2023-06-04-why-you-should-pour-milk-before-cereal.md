@@ -1,28 +1,3 @@
----
-layout: post
-title: Why you should pour milk before cereal?
-date: 2023-06-04 19:06:21.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1824'
-  _publicize_job_id: '84628983379'
-  timeline_notification: '1685885784'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1685894172
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2023/06/04/why-you-should-pour-milk-before-cereal/"
----
 <p><!-- wp:paragraph --></p>
 <p>I know what you're thinking. That's the single most revolting statement you've ever heard in your uninspiring life. Pouring milk before your cereal? That's plain preposterous! You probably feel like having a convulsion, throwing up, and then writing an absurdly long paragraph on how I'm so wrong to fill the void in your life. But hear me out, you plebeian fools, would you go against society's standards of what's considered conventional or enjoy dissolving away in a puddle of soggy cereal? Do you not care about the life of a whole grain of cereal developed out of one of many billion factories mass-producing this breakfast food? What euphoric high would you achieve from watching cereal perish away in the milky whirlpool?</p>
 <p><!-- /wp:paragraph --></p>

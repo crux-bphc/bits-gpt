@@ -1,30 +1,3 @@
----
-layout: post
-title: Of Guardians and Generals
-date: 2021-02-04 19:14:19.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- General News
-- World News
-tags: []
-meta:
-  _publicize_job_id: '54327177447'
-  _thumbnail_id: '1356'
-  _last_editor_used_jetpack: block-editor
-  timeline_notification: '1612446263'
-  wordads_ufa: u:wpcom-ufa-v3-beta:1663801026
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2021/02/04/of-guardians-and-generals/"
----
 <p><!-- wp:paragraph --></p>
 <p><em>Barely a month of 2021 has passed. We have already witnessed two major conflicts - a failed attempt at attacking the US senate's elected leaders and a military coup in Myanmar that overthrew the elected government. The army's takeover has led to the detention of several leaders of the National League of Democracy (NLD), including Aung San Suu Ki, a Nobel Peace Prize winner and the State Counsellor Myanmar. The commonality in both these events was that both were aimed at disrespecting the vote of the people on claims of election fraud without significant evidence. The Tatmadaw, led by Min Aung Hlaing, its Commander-in-Chief, has declared a state of emergency in Myanmar for a year. While the Coup raises several questions, the most important ones are how it will influence democracies around the world, especially the ones locked in a fragile state. Can such an event trigger downfalls in other countries as well? Or will this be another internal test of endurance for the people of Myanmar in their struggle towards democratic independence?</em></p>
 <p><!-- /wp:paragraph --></p>

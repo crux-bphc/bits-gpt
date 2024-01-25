@@ -1,29 +1,3 @@
----
-layout: post
-title: Flashbacks
-date: 2018-07-05 12:39:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- WITW
-tags:
-- WITW v1.1
-meta:
-  _wp_old_date: '2019-09-16'
-  timeline_notification: '1568617980'
-  _publicize_job_id: '35332686393'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/07/05/flashbacks/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Independence Day</strong> On the morning of 15th August, BPHC woke up to a patriotic vibe on a  lovely midweek morning. The tricolour was unfurled by the director Dr.  G. Sundar followed by a marathon and some cultural events, including a  visit to the local school by NSS. Later in the day the Quiz club  conducted an Independence Day quiz. Some people reportedly woke up with  swollen eyes from last night’s GoT marathon, oblivious to the day’s  significance only to realise that breakfast has been missed, yet again.</p>
 <p><!-- /wp:paragraph --></p>

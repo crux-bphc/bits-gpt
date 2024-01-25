@@ -1,28 +1,3 @@
----
-layout: post
-title: Food Stall Reviews - ATMOS Edition
-date: 2022-11-26 19:51:17.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _publicize_job_id: '79087710017'
-  _thumbnail_id: '1742'
-  timeline_notification: '1669472480'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1669535758
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/11/26/food-stall-reviews-atmos-edition/"
----
 <p><!-- wp:list {"ordered":true} --></p>
 <ol><!-- wp:list-item --></p>
 <li>Conical Gaufres</li>

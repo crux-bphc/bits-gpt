@@ -1,30 +1,3 @@
----
-layout: post
-title: A Tale of Two Crises
-date: 2020-03-29 19:12:01.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _rest_api_published: '1'
-  _rest_api_client_id: '2697'
-  _publicize_job_id: '42367306544'
-  timeline_notification: '1585489333'
-  _thumbnail_id: '973'
-  _oembed_038bb182fe90e2f360ed8fad9a96e6f1: "{{unknown}}"
-  _oembed_3c3eada2fb186c7de42a936bb0b7a69f: "{{unknown}}"
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2020/03/29/a-tale-of-two-crises/"
----
 <p><!-- wp:paragraph --></p>
 <p>The world has officially stopped. It might be weird to fathom that large of a concept- but it well and truly has. The Coronavirus pandemic ravaging the world right now has jolted the world shut. While this does sound like something out of a sci-fi television show - it’s true. Around a quarter of the world’s population is currently in some form of a lockdown due to the spread of CoVID-19, and that’s a dystopian sobering thought.</p>
 <p><!-- /wp:paragraph --></p>

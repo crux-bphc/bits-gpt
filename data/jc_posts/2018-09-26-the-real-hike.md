@@ -1,29 +1,3 @@
----
-layout: post
-title: The Real Hike?
-date: 2018-09-26 19:00:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Fests
-tags: []
-meta:
-  _wp_old_date: '2019-09-08'
-  _publicize_job_id: '35070077537'
-  timeline_notification: '1567956567'
-  _thumbnail_id: '319'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/09/26/the-real-hike/"
----
 <p><!-- wp:paragraph --></p>
 <p>Fests are an important aspect of every student’s college life, albeit they may prove to be a little expensive sometimes. As BPHC gears up for the GBM tomorrow, this opinion editorial brings to you a brief on the deductions over the past years.</p>
 <p><!-- /wp:paragraph --></p>

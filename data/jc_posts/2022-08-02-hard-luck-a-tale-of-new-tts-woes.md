@@ -1,28 +1,3 @@
----
-layout: post
-title: Hard Luck - A tale of New TT's woes
-date: 2022-08-02 18:52:51.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1668'
-  _publicize_job_id: '75365023871'
-  timeline_notification: '1659446574'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1659446775
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/08/02/hard-luck-a-tale-of-new-tts-woes/"
----
 <p><!-- wp:paragraph --></p>
 <p>With the dark, ominous rain clouds taking presidency over the campus, a shadow of gloom had also befallen its residents. After all, the goodbyes were exchanged, and cab doors were shut; only the New TT kids with unspoken feelings of separation and confusion (and some relief) remained behind. As they tried to celebrate and rejoice in the completion of their midsems (because we've all chosen to live in denial as a communal coping mechanism), they were innocently oblivious to what the rains would bring along with them.</p>
 <p><!-- /wp:paragraph --></p>

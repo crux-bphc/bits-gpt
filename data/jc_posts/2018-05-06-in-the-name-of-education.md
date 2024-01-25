@@ -1,30 +1,3 @@
----
-layout: post
-title: In the Name of Education
-date: 2018-05-06 07:00:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- Fee Hike Protests
-meta:
-  _publicize_job_id: '39860346866'
-  _wp_old_date: '2020-01-23'
-  timeline_notification: '1579773541'
-  _thumbnail_id: '678'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800974
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/05/06/in-the-name-of-education/"
----
 <p><!-- wp:paragraph --></p>
 <p><em>An opinion editorial by Sharad Hotha, who talks about the state of academics on campus</em></p>
 <p><!-- /wp:paragraph --></p>

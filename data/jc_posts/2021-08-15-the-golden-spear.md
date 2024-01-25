@@ -1,27 +1,3 @@
----
-layout: post
-title: The Golden Spear
-date: 2021-08-15 19:26:45.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1379'
-  _publicize_job_id: '61892094401'
-  timeline_notification: '1629035808'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2021/08/15/the-golden-spear/"
----
 <p><!-- wp:paragraph --></p>
 <p><em>"Milkha Singh had this dream of an Indian athlete winning a medal at athletics in the Olympics; he always wanted someone to win gold, it has now been fulfilled, but he is not here with us. He would have felt proud if he was here. I will dedicate this medal to him and PT Usha. PT Usha had missed out on a medal by a whisker; I think her dream has also been fulfilled," From winning a gold medal at the IAAF World U20 Championships in 2016 to finishing first at the Tokyo 2020 Olympics, the 23-year-old youngster, Neeraj Chopra stunned the sports world with a massive second-round throw of 87.58m in the men's javelin final to end India's 100-year wait for an Olympic track and field gold.</em></p>
 <p><!-- /wp:paragraph --></p>

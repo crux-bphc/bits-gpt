@@ -1,27 +1,3 @@
----
-layout: post
-title: An Ode To BST
-date: 2020-07-14 18:30:39.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _thumbnail_id: '1145'
-  _publicize_job_id: '46559805092'
-  timeline_notification: '1594731643'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800974
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2020/07/14/an-ode-to-bst/"
----
 <p><!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":19}}} --></p>
 <p class="has-text-align-center" style="font-size:19px;"><strong>About 4 years ago</strong></p>
 <p><!-- /wp:paragraph --></p>

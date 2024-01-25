@@ -1,33 +1,3 @@
----
-layout: post
-title: Vighnesh Shenoy - PPO at Microsoft
-date: 2020-09-22 17:30:51.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Career
-- Summer Internships
-tags:
-- Career Series
-- Summer Internship Series
-meta:
-  _publicize_job_id: '49100067144'
-  timeline_notification: '1600776055'
-  _wp_old_slug: '1277'
-  _thumbnail_id: '1286'
-  _last_editor_used_jetpack: block-editor
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801236
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/09/22/vighnesh-shenoy-ppo-at-microsoft/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Q1. Hello, before we get started with the interview. Could you introduce yourself</strong>?</p>
 <p><!-- /wp:paragraph --></p>

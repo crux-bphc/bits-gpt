@@ -1,28 +1,3 @@
----
-layout: post
-title: The Art Of Shonen
-date: 2023-03-05 14:39:01.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  wordads_ufa: s:wpcom-ufa-v3-beta:1678007507
-  _thumbnail_id: '1807'
-  _publicize_job_id: '82039178311'
-  timeline_notification: '1678007344'
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2023/03/05/the-art-of-shonen/"
----
 <p><!-- wp:paragraph --></p>
 <p>Shonen, which literally translates into a 'few years', is a genre of anime that has ruled the industry since the 1970s, but why? Why is shonen so popular? is it because of the flurry of powers across the screen which make you go into a trance, or is it the human tendency deeply wired into our psyche to support underdogs somewhere deep down in your heart (bruh if you don't root for underdogs, you weird-weird).</p>
 <p><!-- /wp:paragraph --></p>

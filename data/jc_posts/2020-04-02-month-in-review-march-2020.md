@@ -1,35 +1,3 @@
----
-layout: post
-title: Month In Review - March 2020
-date: 2020-04-02 16:42:27.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _thumbnail_id: '984'
-  _oembed_ab6da4cca0a4b774f6d1f3e5bf1d74d1: "{{unknown}}"
-  _oembed_f301105ba60d508849c4c06c393e70b5: "{{unknown}}"
-  _oembed_eac2b1d521dbfd3db6571d4de6b5233d: "{{unknown}}"
-  _oembed_83c98992d204bd534d93a440795b78c9: "{{unknown}}"
-  _oembed_3c3eada2fb186c7de42a936bb0b7a69f: "{{unknown}}"
-  _publicize_job_id: '42528832298'
-  timeline_notification: '1585825952'
-  _oembed_29424f444c64b1b06616c1db66fb3dfb: "{{unknown}}"
-  _oembed_04f63ca47cb5369e3e9462d059cf67fc: "{{unknown}}"
-  _oembed_038bb182fe90e2f360ed8fad9a96e6f1: "{{unknown}}"
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801239
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2020/04/02/month-in-review-march-2020/"
----
 <p><!-- wp:paragraph --></p>
 <p>April is already here, and all of us are restlessly tapping our feet and homes, ready to pack up again at a moment’s notice. This eerie silence and the confusion about the various decisions that the administration might take, however, does not stop us from reminiscing about our campus life. So, here we look back at the various events during March.</p>
 <p><!-- /wp:paragraph --></p>

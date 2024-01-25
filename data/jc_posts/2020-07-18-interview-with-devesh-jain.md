@@ -1,27 +1,3 @@
----
-layout: post
-title: Interview with Devesh Jain
-date: 2020-07-18 16:53:46.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _publicize_job_id: '46709979943'
-  _thumbnail_id: '1151'
-  timeline_notification: '1595071430'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801033
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/07/18/interview-with-devesh-jain/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>How did you collaborate with Jio Glass team and how was your experience?</strong></p>
 <p><!-- /wp:paragraph --></p>

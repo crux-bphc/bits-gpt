@@ -1,29 +1,3 @@
----
-layout: post
-title: 'SUC Report Cards 2019: Deep Shah'
-date: 2019-12-28 20:45:34.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- FAQ
-tags: []
-meta:
-  timeline_notification: '1577546638'
-  _publicize_job_id: '38938529983'
-  _thumbnail_id: '585'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801245
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2019/12/28/suc-report-cards-2019-deep-shah/"
----
 <p><!-- wp:paragraph --></p>
 <p>As of the First Semester 2019-20, the Cultural Secretary (Boys) has fulfilled 2/9 of his manifesto points, while 4/9 are in progress and 3/9 have not been fulfilled yet. You can find his manifesto <a href="https://www.facebook.com/pg/ElectionCommissionBPHC/photos/?tab=album&amp;album_id=2315897858653869">here</a>, on the Election Commission Facebook page.</p>
 <p><!-- /wp:paragraph --></p>

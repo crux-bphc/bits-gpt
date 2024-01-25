@@ -1,29 +1,3 @@
----
-layout: post
-title: Thesis Tales - Harsha Sista
-date: 2020-04-11 20:26:47.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _publicize_job_id: '42902252070'
-  _rest_api_published: '1'
-  timeline_notification: '1586617016'
-  _rest_api_client_id: '2697'
-  _last_editor_used_jetpack: block-editor
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800997
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2020/04/11/thesis-tales-harsha-sista/"
----
 <p><!-- wp:image {"id":1001,"sizeSlug":"large"} --></p>
 <figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/2020/04/received_212693886821530.jpeg?w=1024" alt="" class="wp-image-1001" /></figure>
 <p><!-- /wp:image --></p>

@@ -1,30 +1,3 @@
----
-layout: post
-title: Interview with Abhinav Eitireddy, SUC President 2017-18
-date: 2018-05-25 15:01:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- ATMOS
-- Campus News
-- Fests
-tags:
-- ATMOS 2017
-meta:
-  _wp_old_date: '2019-07-22'
-  _publicize_job_id: '33135489757'
-  timeline_notification: '1563787990'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/05/25/interview-with-abhinav-eitireddy-suc-president-2017-18/"
----
 <p><!-- wp:heading {"level":3} --></p>
 <h3><a href="https://github.com/journal-club/wiki-data/blob/master/news/fests/atmos-17/president-interview.md#firstly-how-are-the-preparations-going"></a>Firstly, how are the preparations going?</h3>
 <p><!-- /wp:heading --></p>

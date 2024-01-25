@@ -1,28 +1,3 @@
----
-layout: post
-title: Revenge of the animals - Monkey Menance
-date: 2022-12-11 14:03:31.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  wordads_ufa: s:wpcom-ufa-v3-beta:1670747782
-  _thumbnail_id: '1757'
-  _publicize_job_id: '79534096364'
-  timeline_notification: '1670747614'
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/12/11/revenge-of-the-animals-monkey-menance/"
----
 <p><!-- wp:paragraph --></p>
 <p>30th of August 2022, the first day of the new academic session for Akshat. In a cheerful mood," I will have a quick bath, finish my breakfast on time, and then head off to acad block to attend all my classes for the first time; yay!!" he exclaimed happily, making his way to the bathroom, right next to his room. You see, readers, till now, everything had fallen into place for our protagonist. Last semester, he had chosen the most excellent wingmates comprising all kinds of people from Ghots to tech pros to super Litesians. He was allotted the best room with the best view on campus overlooking the Old football field.</p>
 <p><!-- /wp:paragraph --></p>

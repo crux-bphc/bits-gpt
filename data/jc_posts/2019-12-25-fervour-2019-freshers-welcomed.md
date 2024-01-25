@@ -1,30 +1,3 @@
----
-layout: post
-title: 'Fervour 2019: Freshers Welcomed?'
-date: 2019-12-25 21:05:42.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- FAQ
-- Spotlight
-tags: []
-meta:
-  _publicize_job_id: '38844411799'
-  timeline_notification: '1577288148'
-  _thumbnail_id: '549'
-  _last_editor_used_jetpack: block-editor
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2019/12/25/fervour-2019-freshers-welcomed/"
----
 <p><!-- wp:paragraph --></p>
 <p>It is the dream of every young adult who enters into a college campus to have a wild fresher’s night; one where the shy kids would burst out of their bubble, where fleeting eyes would lock over a dance floor and where euphoric memories with cliques, crushes, and camaraderie would aid the jump into the “college experience”.</p>
 <p><!-- /wp:paragraph --></p>

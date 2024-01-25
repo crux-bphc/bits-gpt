@@ -1,27 +1,3 @@
----
-layout: post
-title: Month In Review
-date: 2018-02-05 20:04:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- WITW
-tags: []
-meta:
-  timeline_notification: '1568903924'
-  _wp_old_date: '2019-09-19'
-  _publicize_job_id: '35454969988'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/02/05/month-in-review/"
----
 <p><!-- wp:paragraph --></p>
 <p>The month of January began with the delayed appearance of CGPA<br />
 causing the added burden of suspense before the infliction of trauma.<br />

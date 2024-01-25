@@ -1,28 +1,3 @@
----
-layout: post
-title: Interview with Anindo Basu
-date: 2017-05-21 08:00:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _wp_old_date: '2019-12-28'
-  timeline_notification: '1577553843'
-  _publicize_job_id: '38941368198'
-  _thumbnail_id: '597'
-  wordads_ufa: u:wpcom-ufa-v3-beta:1663801047
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2017/05/21/interview-with-anindo-basu/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>What is it that attracts you towards photography?</strong> The first thing that attracts me towards photography is the essence of what I can capture. Everything can be made beautiful with a camera.</p>
 <p><!-- /wp:paragraph --></p>

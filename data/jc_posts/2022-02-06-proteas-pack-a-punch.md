@@ -1,29 +1,3 @@
----
-layout: post
-title: Proteas Pack a Punch
-date: 2022-02-06 20:08:04.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Sports
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1446'
-  _publicize_job_id: '68636807562'
-  timeline_notification: '1644158287'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801004
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/02/06/proteas-pack-a-punch/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>First Test</strong></p>
 <p><!-- /wp:paragraph --></p>

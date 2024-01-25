@@ -1,33 +1,3 @@
----
-layout: post
-title: Sivaramakrishnan KN - PPO at Oracle
-date: 2020-10-30 17:12:48.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Career
-- Placement Stories
-- Summer Internships
-tags:
-- Career Series
-- Summer Internship Series
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1327'
-  _publicize_job_id: '50502146047'
-  timeline_notification: '1604058172'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800800
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/10/30/sivaramakrishnan-kn-ppo-at-oracle/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Q.1. </strong>Could you introduce yourself and your SI?</p>
 <p><!-- /wp:paragraph --></p>

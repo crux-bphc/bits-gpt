@@ -1,28 +1,3 @@
----
-layout: post
-title: List of Facebook Groups and Pages to Follow
-date: 2018-06-30 19:46:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- FAQ
-tags: []
-meta:
-  _wp_old_date: '2019-07-24'
-  timeline_notification: '1563978569'
-  _publicize_job_id: '33221583194'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/06/30/list-of-facebook-groups-and-pages-to-follow/"
----
 <p><!-- wp:separator --></p>
 <hr class="wp-block-separator" />
 <!-- /wp:separator --></p>

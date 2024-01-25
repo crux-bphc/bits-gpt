@@ -1,27 +1,3 @@
----
-layout: post
-title: The Digital Confine - A Retrospect on Social Media
-date: 2020-10-21 17:39:03.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags:
-- Opinion-Editorial
-meta:
-  _thumbnail_id: '1322'
-  _publicize_job_id: '50172603829'
-  timeline_notification: '1603282146'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/10/21/the-digital-confine-a-retrospect-on-social-media/"
----
 <p><!-- wp:paragraph --></p>
 <p>Hey there! You've probably come here from Facebook. And you were probably on Instagram before? Oh, what's that? WhatsApp notification? It comes as no surprise that we have become slaves to our phones. Our phones decide what time we go to bed. They dictate how we spend our lunch hour. And although it may not be obvious, they do, for the most part, influence our opinions and how we think.</p>
 <p><!-- /wp:paragraph --></p>

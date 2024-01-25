@@ -1,32 +1,3 @@
----
-layout: post
-title: Sexual Harassment in Universities
-date: 2018-11-28 16:09:28.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Spotlight
-tags:
-- ICC
-- Sexual Harrassment
-meta:
-  _publicize_pending: '1'
-  _wp_old_date: '2019-09-19'
-  timeline_notification: '1568889645'
-  _publicize_job_id: '35448110149'
-  wordads_ufa: u:wpcom-ufa-v3-beta:1663800938
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/11/28/sexual-harassment-in-universities/"
----
 <p><!-- wp:paragraph --></p>
 <p>Sexual harassment is frighteningly common. The UGC reported a 50%<br />
 increase in the number of cases since 2017. A total of 188 cases were<br />

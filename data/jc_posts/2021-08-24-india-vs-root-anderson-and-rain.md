@@ -1,28 +1,3 @@
----
-layout: post
-title: India vs Root, Anderson, and Rain
-date: 2021-08-24 18:26:54.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1385'
-  _publicize_job_id: '62220719672'
-  timeline_notification: '1629809817'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800988
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2021/08/24/india-vs-root-anderson-and-rain/"
----
 <p><!-- wp:paragraph --></p>
 <p><em>After the heroics in Australia, to spinning webs around the English when they came to visit, to the heartbreak of the World Test Championship Final, Indian test cricket has been on a rollercoaster ride since the resumption of the format post-COVID break. After choking once again in an ICC knockout, the pressure couldn’t be higher for team India and Kohli for them to reassert their dominance as the best test team in the world.</em></p>
 <p><!-- /wp:paragraph --></p>

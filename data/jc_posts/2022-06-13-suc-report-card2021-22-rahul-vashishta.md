@@ -1,28 +1,3 @@
----
-layout: post
-title: 'SUC Report Card(2021-22): Rahul Vashishta'
-date: 2022-06-13 16:35:20.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1584'
-  timeline_notification: '1655118323'
-  _publicize_job_id: '73606555658'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801181
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/06/13/suc-report-card2021-22-rahul-vashishta/"
----
 <p><!-- wp:paragraph --></p>
 <p>In the academic year 2021-2022, the Sports Secretary (Boys) has <strong>fulfilled 1/5</strong> of his manifesto points, <strong>3/5 are in progress</strong> and <strong>1/5 have not been fulfilled</strong> at all. You can read his original manifesto <a href="https://drive.google.com/file/d/1yJQSVYY31UAN__6JmKbzXFlXM-XEJNn3/view?usp=sharing">here</a>.</p>
 <p><!-- /wp:paragraph --></p>

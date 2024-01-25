@@ -1,30 +1,3 @@
----
-layout: post
-title: Pre-ATMOS Events
-date: 2018-05-25 20:11:17.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- ATMOS
-- Campus News
-- Fests
-tags:
-- ATMOS 2017
-meta:
-  _wp_old_date: '2019-06-19'
-  timeline_notification: '1560955472'
-  _publicize_job_id: '31985717030'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/05/25/pre-atmos-events/"
----
 <p><!-- wp:heading --></p>
 <h2>Tech Expo</h2>
 <p><!-- /wp:heading --></p>

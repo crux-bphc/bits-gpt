@@ -1,30 +1,3 @@
----
-layout: post
-title: Interview with the SMC 2019-20
-date: 2020-02-28 19:22:45.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- interview
-- SMC
-meta:
-  _publicize_job_id: '41214258418'
-  _thumbnail_id: '919'
-  timeline_notification: '1582897970'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801026
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/02/28/interview-with-the-smc-2019-20/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>What comes under the purview of the SMC?</strong><br />The Students’ Mess Council deals with all things pertaining to/in the messes. This includes the ANC, Juice, Frankie and puff stalls. We deal with everything from the menus, food quality checks to kitchen hygiene. However, it is important to remember that we are a bridge between, the caterers, General Body and administration.</p>
 <p><!-- /wp:paragraph --></p>

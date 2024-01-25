@@ -1,33 +1,3 @@
----
-layout: post
-title: Social Media, Speech and Society
-date: 2020-03-28 20:11:33.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- General News
-tags:
-- Facebook
-- Fake News
-- social media
-meta:
-  _rest_api_published: '1'
-  _rest_api_client_id: '2697'
-  _publicize_job_id: '42332226065'
-  timeline_notification: '1585406531'
-  _thumbnail_id: '962'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800969
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/03/28/social-media-and-society/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Introduction</strong></p>
 <p><!-- /wp:paragraph --></p>

@@ -1,31 +1,3 @@
----
-layout: post
-title: 'SUC Report Cards 2019: Praneeth Setty'
-date: 2019-12-22 19:23:29.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Spotlight
-tags:
-- SUC 2019-20
-- SUC Report Cards
-meta:
-  timeline_notification: '1577022813'
-  _publicize_job_id: '38742694872'
-  _thumbnail_id: '523'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801097
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2019/12/22/suc-report-cards-2019-praneeth-setty/"
----
 <p><!-- wp:paragraph --></p>
 <p>As of the First Semester 2019-20, the Sports Secretary (Boys) has fulfilled 3/13 of his manifesto points, while 8/13 are in progress, and 2/13 have not been fulfilled yet. You can find his original manifesto <a href="https://www.facebook.com/ElectionCommissionBPHC/photos/?tab=album&amp;album_id=2315903245319997&amp;ref=page_internal">here</a>. The writers have taken liberty in some aspects of the report such as grouping or splitting points (from the original manifesto) together if they believe it enhances readability and reduces redundancy in the same. Also some points such as the handling of “General Issues” and promises of “Adaptability and Responsibility” have not been discussed at all in this article, since there’s no way to objectively measure fulfillment of these qualities. </p>
 <p><!-- /wp:paragraph --></p>

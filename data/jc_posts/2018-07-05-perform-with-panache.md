@@ -1,27 +1,3 @@
----
-layout: post
-title: Perform With Panache
-date: 2018-07-05 20:12:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- WITW
-tags: []
-meta:
-  timeline_notification: '1568904350'
-  _wp_old_date: '2019-09-19'
-  _publicize_job_id: '35455162469'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/07/05/perform-with-panache/"
----
 <p><!-- wp:paragraph --></p>
 <p>If you want to get your mind blown away by the impeccable acting of<br />
 our very talented students, then Ankush Rawat is your go to man! He<br />

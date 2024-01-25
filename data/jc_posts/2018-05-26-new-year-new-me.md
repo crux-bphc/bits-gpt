@@ -1,30 +1,3 @@
----
-layout: post
-title: New Year, New Me
-date: 2018-05-26 14:21:08.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Arena
-- Campus News
-- Fests
-tags:
-- Arena 2018
-meta:
-  _wp_old_date: '2019-06-19'
-  timeline_notification: '1560934359'
-  _publicize_job_id: '31976379631'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/05/26/new-year-new-me/"
----
 <p><!-- wp:paragraph --></p>
 <p>Undoubtedly the new version of you has decided to be fitter this<br />
 2018. January always sees a heavy influx of people in the gym. It is no<br />

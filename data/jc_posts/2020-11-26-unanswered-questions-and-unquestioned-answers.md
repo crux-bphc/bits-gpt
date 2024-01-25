@@ -1,32 +1,3 @@
----
-layout: post
-title: Unanswered Questions and Unquestioned Answers
-date: 2020-11-26 18:57:13.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Spotlight
-tags:
-- "#gbm"
-- "#suc"
-meta:
-  _last_editor_used_jetpack: block-editor
-  timeline_notification: '1606397237'
-  _publicize_job_id: '51504990874'
-  _thumbnail_id: '1339'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801021
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/11/26/unanswered-questions-and-unquestioned-answers/"
----
 <p><!-- wp:paragraph --></p>
 <p>The last General Body Meeting dated the '10th of October 2020' organized by the Election Council was supposed to clear all doubts regarding the new Acting Council appointment and functionalities. As a general trend, the attendance of the General Body was low. A few members of the GB did raise concerns about this Ordinance being a violation of the Constitution. The EC chose to respond by stating that the Acting Council decision is supposedly an instruction from the administration to replace the previous Students Union Council. Hence, the Acting Council members were selected by a few interviews conducted by the Students Union Council of the previous academic year, the administration, and the concerned student bodies involved. What is to be noted is that there was no consensus from the General Body as it was an administrative decision from the very beginning. As a sort of counter, the Acting Council was given limited discretionary powers.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

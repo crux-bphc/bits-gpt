@@ -1,30 +1,3 @@
----
-layout: post
-title: India Down Under - A Look Back
-date: 2021-01-20 18:27:55.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Sports
-tags:
-- Cricket
-meta:
-  _last_editor_used_jetpack: block-editor
-  timeline_notification: '1611147479'
-  _publicize_job_id: '53679860070'
-  _thumbnail_id: '1352'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801065
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2021/01/20/india-down-under-a-look-back/"
----
 <p><!-- wp:paragraph --></p>
 <p>It is the 19th of January, 1:11 P.M. IST when Rishabh Pant drives a low full toss from Josh Hazelwood down the ground, beating the fielder at mid-off and sending the ball into the boundary, along with sending the hearts of 1.3 billion Indians, who paid very intense, curious and yet nervous concentration towards the happenings on that very 22-yard strip of Brisbane soil, into unbounded happiness. We claimed victory against 'them'. Yes, 'they', who have always nibbled at us, bit-by-bit, at regular intervals, very much akin to a Kangaroo. 'They', who prided themselves on the invincibility of having never lost at the very stadium this match was held, Gabba, since 1988, and finally, 'they', who coated themselves with several layers of confidence before the start of this test match. Indeed, Australia. India beat Australia by 3 wickets to claim the Border-Gavaskar Series 2-1.</p>
 <p><!-- /wp:paragraph --></p>

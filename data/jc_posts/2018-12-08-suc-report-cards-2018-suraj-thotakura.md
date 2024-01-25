@@ -1,29 +1,3 @@
----
-layout: post
-title: 'SUC Report Cards 2018: Suraj Thotakura'
-date: 2018-12-08 12:10:20.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- SUC 2018-19
-meta:
-  _publicize_job_id: '31939072588'
-  timeline_notification: '1560841561'
-  _thumbnail_id: '71'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801078
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/12/08/suc-report-cards-2018-suraj-thotakura/"
----
 <p><!-- wp:paragraph --></p>
 <p>The General Secretary's <a href="https://www.facebook.com/ElectionCommissionBPHC/photos/a.2073503136226677/2073503149560009/?type=1&amp;theater">manifesto</a>  was categorised broadly into 6 categories based on the type of problems  he wanted to work on: Campus Health Improvement, Skill Development,  Food Standards Improvement, Living Standards Improvement, Campus Culture  and other general issues.<strong> Out of 13 manifesto points, 2 were fulfilled  and 6 are in progress.</strong></p>
 <p><!-- /wp:paragraph --></p>

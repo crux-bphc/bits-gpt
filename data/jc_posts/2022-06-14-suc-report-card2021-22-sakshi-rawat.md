@@ -1,28 +1,3 @@
----
-layout: post
-title: 'SUC Report Card(2021-22): Sakshi Rawat'
-date: 2022-06-14 17:52:26.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1601'
-  _publicize_job_id: '73646688002'
-  timeline_notification: '1655209348'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801050
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/06/14/suc-report-card2021-22-sakshi-rawat/"
----
 <p><!-- wp:paragraph --></p>
 <p>The Cultural Secretary (Girls) Sakshi Rawat built her campaign supporting themes of encouraging participation, improving accessibility to competitions, and rekindling the campus culture. As of the Second Semester 2021-22, she has fulfilled 2/6 of her manifesto promises, while 1/6 is unfulfilled and the remaining 3/6 are in progress. You can find her manifesto <a href="https://drive.google.com/file/d/1zOesmMDrZZC-C3WSQX6hxI4pbefF3TkL/view?usp=sharing">here</a>.</p>
 <p><!-- /wp:paragraph --></p>

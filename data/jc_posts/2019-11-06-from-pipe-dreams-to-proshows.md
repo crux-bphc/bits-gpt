@@ -1,34 +1,3 @@
----
-layout: post
-title: From Pipe Dreams to Proshows
-date: 2019-11-06 19:45:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- ATMOS
-- Campus News
-- Fests
-tags:
-- ATMOS 2019
-- DoPE
-- interview
-meta:
-  _thumbnail_id: '455'
-  timeline_notification: '1573050609'
-  _publicize_job_id: '37141774299'
-  _last_editor_used_jetpack: block-editor
-  wordads_ufa: s:wpcom-ufa-v3-beta:1675188002
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2019/11/06/from-pipe-dreams-to-proshows/"
----
 <p><!-- wp:paragraph --></p>
 <p>Proshows are one of the most exhilarating parts of any fest. Bright nights filled with adrenaline, dancing and laughter. But what kind of work goes behind these proshows? We sat down with the COSTAAN of DoPE (Department of Professional Events) of 2019-20, Nikhil Bhasin to find out. </p>
 <p><!-- /wp:paragraph --></p>

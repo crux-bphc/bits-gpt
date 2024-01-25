@@ -1,32 +1,3 @@
----
-layout: post
-title: Ayush Laddha - PPO at Mathworks
-date: 2020-10-05 18:30:26.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Career
-- Summer Internships
-tags:
-- Career Series
-- Summer Internship Series
-meta:
-  _thumbnail_id: '1307'
-  _publicize_job_id: '49584728319'
-  timeline_notification: '1601902830'
-  _last_editor_used_jetpack: block-editor
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800866
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/10/05/ayush-laddha-ppo-at-mathworks/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Q.1. Could you please introduce yourself and describe your SI?</strong></p>
 <p><!-- /wp:paragraph --></p>

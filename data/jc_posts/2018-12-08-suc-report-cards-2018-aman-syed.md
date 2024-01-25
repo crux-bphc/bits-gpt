@@ -1,30 +1,3 @@
----
-layout: post
-title: 'SUC Report Cards 2018: Aman Syed'
-date: 2018-12-08 12:44:16.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- SUC 2018-19
-meta:
-  _wp_old_date: '2019-06-18'
-  _publicize_job_id: '31939356719'
-  timeline_notification: '1560842240'
-  _thumbnail_id: '77'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801028
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/12/08/suc-report-cards-2018-aman-syed/"
----
 <p><!-- wp:paragraph --></p>
 <p>The President’s manifesto consisted of 13 ideas, some of which aimed  at improving existing systems on campus and others which were completely  novel initiatives. At the end of the first semester of 2018-19, <strong>1 has  been fulfilled, 7 of these are still in progress and 5 of these have not  been fulfilled.</strong> <a href="https://www.facebook.com/ElectionCommissionBPHC/posts/2073502346226756">Click here</a> to view the manifesto on the Election Commission page.</p>
 <p><!-- /wp:paragraph --></p>

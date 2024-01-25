@@ -1,27 +1,3 @@
----
-layout: post
-title: Monkeyminds
-date: 2018-07-05 20:02:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- WITW
-tags: []
-meta:
-  timeline_notification: '1568903626'
-  _wp_old_date: '2019-09-19'
-  _publicize_job_id: '35454833877'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/07/05/monkeyminds/"
----
 <p><!-- wp:paragraph --></p>
 <p>To be the calm in a storm is an incredibly powerful thing to do. It’s<br />
  also necessary. The world has morphed into an unhinged monster,<br />

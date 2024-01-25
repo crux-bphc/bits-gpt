@@ -1,27 +1,3 @@
----
-layout: post
-title: An Interview with Raviteja Girijala
-date: 2020-08-31 18:37:06.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _publicize_job_id: '48314879844'
-  timeline_notification: '1598879229'
-  _thumbnail_id: '1204'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800788
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/08/31/an-interview-with-raviteja-girijala/"
----
 <p><!-- wp:paragraph --></p>
 <p>Mr. Raviteja Girijala, a graduate from BPHC, is a prominent editor of the Telugu Film industry. He has edited eight films in a short period of five years, of which one, '<em>Pellichoopulu</em>', was honored with a national award. His exceptional craft and his humility have led his films and his work to critically acclaim. We spoke to him about his journey from editing films in the VFx room on campus towards making it into the Telugu Film Industry</p>
 <p><!-- /wp:paragraph --></p>

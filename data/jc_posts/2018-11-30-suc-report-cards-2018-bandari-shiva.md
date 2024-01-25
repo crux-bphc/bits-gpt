@@ -1,30 +1,3 @@
----
-layout: post
-title: 'SUC Report Cards 2018: Bandari Shiva'
-date: 2018-11-30 18:55:11.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- SUC 2018-19
-meta:
-  _wp_old_date: '2019-05-27'
-  timeline_notification: '1558952180'
-  _publicize_job_id: '31225518623'
-  _thumbnail_id: '44'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800978
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/11/30/suc-report-cards-2018-bandari-shiva/"
----
 <p><!-- wp:paragraph --></p>
 <p>The Cultural Secretaries are responsible for all intra-college<br />
 cultural activities and initiating cultural exchange programmes with<br />

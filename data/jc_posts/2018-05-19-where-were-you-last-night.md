@@ -1,29 +1,3 @@
----
-layout: post
-title: Where Were You Last Night?
-date: 2018-05-19 15:07:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Spotlight
-tags: []
-meta:
-  _wp_old_date: '2019-07-22'
-  timeline_notification: '1563788490'
-  _publicize_job_id: '33135713266'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1670489051
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/05/19/where-were-you-last-night/"
----
 <p><!-- wp:paragraph --></p>
 <p>Two hours after midnight every day, BITS campus reverberates with the<br />
  sound of the hostel chowkidars’ whistle, signaling to all the nocturnal<br />

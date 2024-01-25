@@ -1,32 +1,3 @@
----
-layout: post
-title: Nishant Aggarwal - PPO at Micron
-date: 2020-10-18 14:05:20.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Career
-- Summer Internships
-tags:
-- Career Series
-- Summer Internship Series
-meta:
-  _thumbnail_id: '1319'
-  _publicize_job_id: '50053215739'
-  timeline_notification: '1603010125'
-  _last_editor_used_jetpack: block-editor
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800921
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/10/18/nishant-agarwal-ppo-at-micron/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Q.1. Could you please introduce yourself and describe your SI?</strong></p>
 <p><!-- /wp:paragraph --></p>

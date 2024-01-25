@@ -1,29 +1,3 @@
----
-layout: post
-title: India, England And A Summer to Remember
-date: 2021-09-12 18:22:29.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _publicize_job_id: '62923492090'
-  timeline_notification: '1631451152'
-  _thumbnail_id: '1397'
-  _oembed_aaeb8eac8348ae83b7f828f4f742ef3a: "{{unknown}}"
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801024
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2021/09/12/india-england-and-a-summer-to-remember/"
----
 <p><!-- wp:paragraph --></p>
 <p><em>With the first two tests done and team India possessing a rare away series lead, Captain Kohli and his men eye an opportunity to claim a series victory in England after 14 years. With every player who got an opportunity to play, making an impact so far, this certainly looks achievable.&nbsp;</em></p>
 <p><!-- /wp:paragraph --></p>

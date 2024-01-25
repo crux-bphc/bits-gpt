@@ -1,27 +1,3 @@
----
-layout: post
-title: The Hitchhiker's Guide to Surviving a Lockdown
-date: 2020-04-23 10:50:11.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  timeline_notification: '1587619214'
-  _publicize_job_id: '43368603547'
-  _thumbnail_id: '1041'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800956
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2020/04/23/the-hitchhikers-guide-to-surviving-a-lockdown/"
----
 <p><!-- wp:paragraph --></p>
 <p>The quarantine can get really boring and you must most definitely be looking for productive ways to spend your time. We at the Journal Club have compiled a list of online courses that you could try out to learn something new and explore some interesting fields of study.</p>
 <p><!-- /wp:paragraph --></p>

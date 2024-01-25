@@ -1,28 +1,3 @@
----
-layout: post
-title: An Interview with the Technical Secretary
-date: 2020-08-20 18:47:03.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _thumbnail_id: '1181'
-  _publicize_job_id: '47926434259'
-  timeline_notification: '1597929427'
-  _last_editor_used_jetpack: block-editor
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801021
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/08/20/an-interview-with-the-technical-secretary/"
----
 <p><!-- wp:paragraph --></p>
 <p>Q1. In your SOP, you have emphasized the importance of support from the industry to enhance technical culture. With several companies having to resort to extreme measures such as mass layoffs to ensure their sustenance, what assistance can we&nbsp;reasonably expect from them in this current environment?&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

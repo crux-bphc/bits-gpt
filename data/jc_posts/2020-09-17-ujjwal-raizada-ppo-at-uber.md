@@ -1,31 +1,3 @@
----
-layout: post
-title: Ujjwal Raizada - PPO at Uber
-date: 2020-09-17 16:51:02.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Career
-- Summer Internships
-tags:
-- Career Series
-- Summer Internship Series
-meta:
-  _thumbnail_id: '1251'
-  _publicize_job_id: '48918634150'
-  timeline_notification: '1600341666'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800931
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/09/17/ujjwal-raizada-ppo-at-uber/"
----
 <p><!-- wp:paragraph --></p>
 <p>Ujjwal Raizada is a 2017 batch CSE student. He was one of the few students to have secured a summer internship as well as a pre-placement offer with Uber, a ubiquitous taxi-hailing service. 4 students were selected for software engineering intern out of which 3 got a PPO. He has also served as the president of CRUx, the coding club of BPHC.</p>
 <p><!-- /wp:paragraph --></p>

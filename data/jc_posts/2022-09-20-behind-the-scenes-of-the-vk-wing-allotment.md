@@ -1,28 +1,3 @@
----
-layout: post
-title: Behind the scenes of the VK Wing allotment
-date: 2022-09-20 19:36:07.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1704'
-  _publicize_job_id: '76917102647'
-  timeline_notification: '1663682771'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663686406
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/09/20/behind-the-scenes-of-the-vk-wing-allotment/"
----
 <p><!-- wp:paragraph --></p>
 <p>As the sun slowly descended below the horizon, the most anticipated night of the semester arrived. Crows cawed and cats purred, as the devil himself took a seat and watched the scene with intense tenacity. It seemed as if the entire world sat and watched, as it all unfolded beneath their gaze. What happens, when you give 800 growling barbarians the power to reorganize their barracks? Chaos? Mutiny? War? Sacrifice? No. Vishwakarma Wing Allotment, that’s what happens.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

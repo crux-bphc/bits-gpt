@@ -1,28 +1,3 @@
----
-layout: post
-title: 'The Year That Was: A Talk With SUC 2016-17'
-date: 2017-07-21 20:00:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _wp_old_date: '2019-12-28'
-  timeline_notification: '1577555608'
-  _publicize_job_id: '38942047397'
-  _thumbnail_id: '620'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800978
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2017/07/21/the-year-that-was-a-talk-with-suc-2016-17/"
----
 <p><!-- wp:heading --></p>
 <h2>How did you people find working with each other?</h2>
 <p><!-- /wp:heading --></p>

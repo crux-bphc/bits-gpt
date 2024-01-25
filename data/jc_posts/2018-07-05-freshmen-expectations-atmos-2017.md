@@ -1,31 +1,3 @@
----
-layout: post
-title: 'Freshmen Expectations: ATMOS 2017'
-date: 2018-07-05 20:18:22.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- ATMOS
-- Campus News
-- Fests
-tags:
-- ATMOS 2017
-meta:
-  _wp_old_date: '2019-06-19'
-  timeline_notification: '1560955952'
-  _publicize_job_id: '31985941198'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1670402613
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/07/05/freshmen-expectations-atmos-2017/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Esha Gadia</strong>: Well it's a tech fest, so obviously lots of coding.</p>
 <p><!-- /wp:paragraph --></p>

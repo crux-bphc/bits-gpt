@@ -1,30 +1,3 @@
----
-layout: post
-title: IPL 2020 - A Preview (Part 2)
-date: 2020-09-19 18:37:43.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- General News
-- IPL
-- Sports
-tags:
-- ipl2020
-meta:
-  _thumbnail_id: '1274'
-  _publicize_job_id: '48994013094'
-  timeline_notification: '1600520867'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/09/19/ipl-2020-a-preview-part-2/"
----
 <p><!-- wp:paragraph --></p>
 <p>The Journal Club presents the second part in its Preview to IPL 2020 wherein we look at all 8 teams and see where they are likely to end up at the end of the group stage. In this piece, we present our thoughts on the Kolkata Knight Riders, the Royal Challengers Bangalore, the Rajasthan Royals and the Sunrisers Hyderabad. We take a look at the teams' strengths, weaknesses and provide our insight into their squads.</p>
 <p><!-- /wp:paragraph --></p>

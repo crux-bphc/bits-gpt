@@ -1,28 +1,3 @@
----
-layout: post
-title: Mantriyon ki Taiyaari – BITS Pilani
-date: 2020-04-30 18:52:49.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Spotlight
-tags: []
-meta:
-  _thumbnail_id: '1061'
-  _publicize_job_id: '43667872457'
-  timeline_notification: '1588252973'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/04/30/mantriyon-ki-taiyaari-bits-pilani/"
----
 <p><!-- wp:paragraph --></p>
 <p>Unless you have been living under a rock, welcome to 2020. Corona-chan has taken over the world. As the entire country has been placed under house arrest, students of BITS Hyderabad are in desperate need of seeking attention. Sure, playing Big Boss with Modiji and kicking out professors from online lectures was fun the first few times, but it still was not enough to alleviate the loneliness the 2017 batch was facing. With dreams of batch snaps, club farewells, and possible 3-2 memories all but washed down the drain, BITSians have diverted their attention towards the only validation they have left to receive: the 'Bon Voyage' awards. To all those who rue the lack of political thrillers being released on the silver screen, look no further than the Bon Voyage Awards Facebook group and the immense BT that come with.</p>
 <p><!-- /wp:paragraph --></p>

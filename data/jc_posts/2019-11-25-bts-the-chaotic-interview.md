@@ -1,29 +1,3 @@
----
-layout: post
-title: "#BehindTheScenes: Interviews: The Yellow Diary"
-date: 2019-11-25 13:13:02.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- ATMOS
-- Fests
-tags: []
-meta:
-  _publicize_job_id: '37777423460'
-  timeline_notification: '1574670377'
-  _thumbnail_id: '492'
-  _last_editor_used_jetpack: block-editor
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2019/11/25/bts-the-chaotic-interview/"
----
 <p><!-- wp:paragraph --></p>
 <p>The day had finally come.</p>
 <p><!-- /wp:paragraph --></p>

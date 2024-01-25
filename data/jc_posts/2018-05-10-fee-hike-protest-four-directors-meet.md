@@ -1,32 +1,3 @@
----
-layout: post
-title: 'Fee Hike: Meet with the Four Directors - Minutes'
-date: 2018-05-10 04:30:43.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- Fee Hike Protests
-meta:
-  _wp_old_date: '2019-05-27'
-  timeline_notification: '1558947737'
-  _publicize_job_id: '31224944649'
-  _wp_old_slug: fee-hike-protest-four-directors-meet__trashed
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801062
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/05/10/fee-hike-protest-four-directors-meet/"
-excerpt: A summary of what happened in 9th May tele-meet of the directors of the four
-  campuses of BITS Pilani and the student representatives of Indian campuses
----
 <p><!-- wp:paragraph --></p>
 <p>The meeting of the student representatives of the three campuses of<br />
 BITS Pilani with the directors of the campus began around 6.30PM on the<br />

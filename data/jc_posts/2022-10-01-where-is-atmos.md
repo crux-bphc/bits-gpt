@@ -1,28 +1,3 @@
----
-layout: post
-title: Where is ATMOS?
-date: 2022-10-01 17:20:23.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  timeline_notification: '1664625026'
-  _thumbnail_id: '1715'
-  _publicize_job_id: '77275537851'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1664626473
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/10/01/where-is-atmos/"
----
 <p><!-- wp:paragraph --></p>
 <p><em>We are late to the party, once again…and we might have to pay for it.</em></p>
 <p><!-- /wp:paragraph --></p>

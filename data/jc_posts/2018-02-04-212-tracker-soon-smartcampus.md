@@ -1,27 +1,3 @@
----
-layout: post
-title: Smart Campus Team Says 212 Tracker Coming Soon
-date: 2018-02-04 23:35:45.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _wp_old_date: '2019-12-28'
-  timeline_notification: '1577556456'
-  _publicize_job_id: '38942380352'
-  _wp_old_slug: smart-campus-team-says-212-tracker-coming-soon
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/02/04/212-tracker-soon-smartcampus/"
----
 <p><!-- wp:paragraph --></p>
 <p>With cashless ANC enabling students to not only make use of their "other advances" but also to order food in advance before even getting there, the Smart Campus team has managed to generate lakhs in revenue with this initiative that was also implemented at the food stalls during Verba Maximus and Arena. Now that the 212 tracker is expected to be functional within a few weeks, the team is reveling in their recent accomplishments and the excited to see their much awaited project go live soon.</p>
 <p><!-- /wp:paragraph --></p>

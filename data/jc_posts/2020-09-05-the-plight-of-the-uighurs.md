@@ -1,30 +1,3 @@
----
-layout: post
-title: The Plight of The Uighurs
-date: 2020-09-05 18:36:08.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- General News
-- World News
-tags:
-- International Affairs
-- Opinion-Editorial
-meta:
-  _thumbnail_id: '1226'
-  _publicize_job_id: '48497715271'
-  timeline_notification: '1599311171'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/09/05/the-plight-of-the-uighurs/"
----
 <p><!-- wp:paragraph --></p>
 <p>Uighurs, also spelled Uyghurs, are a Turkic minority ethnic group originating from Central and East Asia and recognized as native to the Xinjiang Uyghur Autonomous Region in Northwest China. They have their language, Uighur, a part of the Turkic group of Altaic languages, and they are considered to be one of the oldest Turkic-speaking people from Central Asia. They are mentioned in Chinese records dating as far back as the 3rd century CE. They first rose to prominence in the 8th century, when they established a kingdom along the Orhon River in current north-central Mongolia. However, in 840, this state was overrun by the Kyrgyz, and the Uighurs migrated southwestward to the area around the Tien Shan. The Uighurs formed another independent kingdom in the Turfan Depression region, but this was overthrown by the expanding Mongols in the 13th century.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

@@ -1,30 +1,3 @@
----
-layout: post
-title: 'Women Safety on Campus: Situation Far From Ideal'
-date: 2019-11-09 19:37:50.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- Sexual Harrassment
-meta:
-  _thumbnail_id: '468'
-  _publicize_job_id: '37242243463'
-  timeline_notification: '1573308475'
-  _wp_old_slug: women-safety-situation-far-from-ideal
-  wordads_ufa: u:wpcom-ufa-v3-beta:1663800839
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2019/11/09/women-safety-campus/"
----
 <p><!-- wp:paragraph --></p>
 <p>The recent cases of sexual harassment during ATMOS involving individuals from outside campus stalking a female from BPHC, has been discussed a lot on social media groups of the campus and in the recent General Body Meet. While this incident will hopefully ensure that any external students who engage in these sort of activities will be blacklisted from future fests, these sort of events are in no way unique to fests alone.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

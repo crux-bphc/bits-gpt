@@ -1,28 +1,3 @@
----
-layout: post
-title: State of Siege
-date: 2022-01-19 20:42:40.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  timeline_notification: '1642605162'
-  _publicize_job_id: '67877305885'
-  _thumbnail_id: '1423'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800808
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/01/19/state-of-siege/"
----
 <p><!-- wp:paragraph --></p>
 <p>Mathuresh Kadam looks up before he starts talking; his shoulders are hunched in a defeated position. “We were promised to be let out by 17th, but no response has come yet. I’ve stayed in this room for the past five days and my legs have begun to go numb. I came back with so many promises and dreams about roaming around the campus and enjoying the outdo...” Mathuresh’s voice breaks off as a single solitary tear starts to run down his cheeks. He looks down again and tries to take a spoonful of the delivered mess food, just rice and no curry. Mathuresh is one of many such victims who have been affected by the ongoing quarantine crisis that has plagued the student body.</p>
 <p><!-- /wp:paragraph --></p>

@@ -1,27 +1,3 @@
----
-layout: post
-title: 'The Verdict: A Look at the Fee Hike Protests and "The Deal"'
-date: 2018-07-16 17:31:24.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags: []
-meta:
-  _wp_old_date: '2019-06-16'
-  timeline_notification: '1560686661'
-  _publicize_job_id: '31880873124'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/07/16/2018-protest-and-deal/"
----
 <p><!-- wp:paragraph --></p>
 <p><em>United we stood, together we protested. Alumni and student - hand in hand, for change. Was this the change we were looking for?</em></p>
 <p><!-- /wp:paragraph --></p>

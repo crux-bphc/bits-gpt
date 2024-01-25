@@ -1,31 +1,3 @@
----
-layout: post
-title: 'GBMs: Nowhere To Be Seen'
-date: 2019-09-08 22:52:07.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- FAQ
-- Spotlight
-tags: []
-meta:
-  _publicize_job_id: '35072834911'
-  timeline_notification: '1567963331'
-  _thumbnail_id: '335'
-  _oembed_f494561c4360c306a9b30b685980abf6: "{{unknown}}"
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801019
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2019/09/08/gbms-nowhere-to-be-seen/"
----
 <p><!-- wp:paragraph --></p>
 <p>As we slowly venture into the new academic year, we have already begun noticing significant changes in the campus. From the introduction of the Freshers Guidance Program to the outrage over removal of previous years' Impartus videos, this semester has already started on a very happening note. While the newly elected SUC comes with fresh promises of transforming the campus, we at Journal Club take a moment to reflect on one of the neglected yet concerning issues on the campus - <strong>the absence of General Body Meetings</strong>.</p>
 <p><!-- /wp:paragraph --></p>

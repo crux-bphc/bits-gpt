@@ -1,32 +1,3 @@
----
-layout: post
-title: 'Pranab Da: The Ideal Statesman and Beyond'
-date: 2020-09-03 10:41:19.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _thumbnail_id: '1212'
-  _coblocks_attr: ''
-  _coblocks_dimensions: ''
-  _coblocks_responsive_height: ''
-  _coblocks_accordion_ie_support: ''
-  amp_status: enabled
-  spay_email: ''
-  timeline_notification: '1599110086'
-  _publicize_job_id: '48413490668'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/09/03/pranab-da-the-ideal-statesman-and-beyond/"
----
 <p><!-- wp:paragraph --></p>
 <p>There are only a few leaders in the Indian Political spectrum who will be remembered for time immemorial. And there are even fewer of those who were respected unconditionally across the aisle of the Parliament floor. Pranab Mukherjee belonged to this minority of those political leaders. Pranab Da, as he was affectionately called, started from the very bottom of the political hierarchy and rose to become the 13th President of our nation. Boasting a political career of over five decades, Mr. Mukherjee and his service to the country in the Government and the Parliament is indelible and will forever be enshrined in Indian history.</p>
 <p><!-- /wp:paragraph --></p>

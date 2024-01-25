@@ -1,26 +1,3 @@
----
-layout: post
-title: COVID-19 - Vaccines and Cures
-date: 2020-08-10 17:17:35.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _thumbnail_id: '1172'
-  _publicize_job_id: '47554410197'
-  timeline_notification: '1597060059'
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2020/08/10/covid-19-vaccines-and-cures/"
----
 <p><!-- wp:paragraph --></p>
 <p>The novel coronavirus SARS-CoV-2, responsible for the disease COVID-19, which is known to affect the respiratory system, has wreaked havoc across the globe. More than 18.9 million patients have been affected by the virus, with nearly 709,511 COVID related deaths worldwide. Scientists and research groups around the world are now in a race against time to develop a vaccine to combat the disease. The World Health Organisation is now tracking nearly 26 potential vaccine candidates at various stages of clinical trials and as many as 139 candidates in under preclinical trials. The organization is not directly involved with the research and findings but is only constituting reasonable checks to verify the legitimacy of the data presented by the research groups.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

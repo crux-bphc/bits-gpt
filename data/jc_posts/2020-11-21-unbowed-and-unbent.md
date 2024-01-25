@@ -1,28 +1,3 @@
----
-layout: post
-title: Unbowed and Unbroken
-date: 2020-11-21 18:38:45.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _publicize_job_id: '51320881996'
-  _thumbnail_id: '1333'
-  timeline_notification: '1605964130'
-  _oembed_39da664b62dc87932eac93052031f055: "{{unknown}}"
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/11/21/unbowed-and-unbent/"
----
 <p><!-- wp:paragraph --></p>
 <p>It has been more than eight months since we have been living our college life in a virtual mode. It's ironic how the generation of engineering students who are mostly placed in IT firms cannot adjust to the very thing we have to work for. Now it is obviously not the fault of the students here. We come from different parts of the nation, and a lot of us belong to remote areas. With a pandemic going on, it is unlikely that all of us have the facilities which one needs to survive an online semester, or rather instate them. Even if we take a stable internet connection and economic affordability for granted, more strings are attached to this ball game. When it comes to evaluations being conducted using online means, one needs to have a regular supply of electricity and proper working devices, and it would be naive to assume that one could have that when there is a pandemic going on and the supply for these services are dicey. God forbid one's family has to suffer the mishaps the virus could bring upon them, but at the same time, we cannot ignore the fact that these are uncertain times, and no one knows their fate. As the semester approaches its end, it's time for the scheduled comprehensive examination that usually happens at the end of the semester. What's new is the means by which the students will be taking the exam, which is something new for the administration as well.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

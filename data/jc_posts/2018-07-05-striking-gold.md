@@ -1,31 +1,3 @@
----
-layout: post
-title: Striking Gold
-date: 2018-07-05 00:58:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- WITW
-tags:
-- interview
-- WITW v1.1
-meta:
-  timeline_notification: '1568749338'
-  _wp_old_date: '2019-09-18'
-  _publicize_job_id: '35390541231'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800950
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/07/05/striking-gold/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>How did you feel when you first saw the Campus?</strong><br />
 I am a person who likes to explore, academically that is. So, my first<br />

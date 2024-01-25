@@ -1,31 +1,3 @@
----
-layout: post
-title: 'In Conversation With Drishti Nagda: Poet &amp; Entrepreneur'
-date: 2020-01-21 19:13:57.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- VM
-tags:
-- Poetry
-- Verba Maximus
-- VM 2019
-meta:
-  _publicize_job_id: '39791163792'
-  timeline_notification: '1579617681'
-  _thumbnail_id: '670'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800952
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/01/21/drishti-nagda-interview/"
----
 <p><!-- wp:paragraph --></p>
 <p>Drishti Nagda - poet, entrepreneur, and founding member of InkScape Co. and Hyderabad Poetry Project, was a judge for the Slam Finals at <em>Verba Maximus 2019</em>, the literary fest of the campus. We, at Journal Club, caught up with her before the event to find out more about her journey as a poet.</p>
 <p><!-- /wp:paragraph --></p>

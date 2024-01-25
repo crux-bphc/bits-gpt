@@ -1,27 +1,3 @@
----
-layout: post
-title: Interview with Chaitanya JV
-date: 2020-07-11 09:22:03.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _thumbnail_id: '1129'
-  _publicize_job_id: '46434685738'
-  timeline_notification: '1594439526'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800950
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/07/11/interview-with-mr-chaitanya-jv-by-journal-club-bphc/"
----
 <p><!-- wp:paragraph --></p>
 <p>In today's interview, Journal Club talks to a 2008 batch alumnus, Chaitanya JV, the first president of BPHC and the man behind the name "Pearl"</p>
 <p><!-- /wp:paragraph --></p>

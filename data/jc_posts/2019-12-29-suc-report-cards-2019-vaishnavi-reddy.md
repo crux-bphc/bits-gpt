@@ -1,29 +1,3 @@
----
-layout: post
-title: 'SUC Report Cards 2019: Vaishnavi Reddy'
-date: 2019-12-29 19:25:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags: []
-meta:
-  _edit_last: '158123112'
-  _thumbnail_id: '635'
-  _publicize_job_id: '38966034882'
-  timeline_notification: '1577627727'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800841
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2019/12/29/suc-report-cards-2019-vaishnavi-reddy/"
----
 <p><!-- wp:paragraph --></p>
 <p>Vaishnavi Reddy, the General Secretary of the Student Union Council has highlighted 8 issues in her election manifesto, with Mental Health, Campus Culture and FGP standing out amongst a host of other general issues. With point 8 talking about Harassment, she assures that the GB can reach out to the SUC at any point. Point 9 of the manifesto promises a dynamic manifesto which encompases the general isssues tackled which are outside her manifesto. <strong>Out of the other 7 issues (9 point manifesto) and her plans to address them, 1 has not been fulfilled, 5 have been partially completed or are in progress, and 1 has been fully fulfilled.</strong></p>
 <p><!-- /wp:paragraph --></p>

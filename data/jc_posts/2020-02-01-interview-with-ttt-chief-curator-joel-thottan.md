@@ -1,31 +1,3 @@
----
-layout: post
-title: 'Interview with TTT Chief Curator: Joel Thottan'
-date: 2020-02-01 16:47:42.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Fests
-- VM
-tags:
-- interview
-meta:
-  _thumbnail_id: '773'
-  _publicize_job_id: '40228412196'
-  timeline_notification: '1580643108'
-  _last_editor_used_jetpack: block-editor
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/02/01/interview-with-ttt-chief-curator-joel-thottan/"
----
 <p><!-- wp:paragraph --></p>
 <p>This year, during BPHC's annual literary fest, Verba Maximus 2020, Terribly Tiny Tales (TTT) held their flagship workshop on campus. After the workshop, we, at Journal Club had an opportunity to interview Joel Thottan, the Chief Curator of TTT wherein he talked about his experiences as the Chief Curator and his thoughts about writing and teaching.</p>
 <p><!-- /wp:paragraph --></p>

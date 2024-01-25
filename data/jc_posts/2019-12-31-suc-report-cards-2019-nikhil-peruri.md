@@ -1,36 +1,3 @@
----
-layout: post
-title: 'SUC Report Cards 2019: Nikhil Peruri'
-date: 2019-12-31 14:56:05.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Arena
-- ATMOS
-- Campus News
-- FAQ
-- Fests
-- Pearl
-- Spotlight
-- VM
-- WITW
-tags: []
-meta:
-  _thumbnail_id: '643'
-  _publicize_job_id: '39024407832'
-  timeline_notification: '1577784369'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801139
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2019/12/31/suc-report-cards-2019-nikhil-peruri/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Nikhil Peruri, President of the Student Union Council</strong> highlighted <strong>6 issues and promised to implement 20 programs to address them in his election manifesto</strong> – focusing heavily on the technical development of the campus and the safety and well-being of the General Body.</p>
 <p><!-- /wp:paragraph --></p>

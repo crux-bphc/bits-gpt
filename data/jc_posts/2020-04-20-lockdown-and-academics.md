@@ -1,27 +1,3 @@
----
-layout: post
-title: Lockdown and Academics
-date: 2020-04-20 19:26:47.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _thumbnail_id: '1006'
-  _publicize_job_id: '43258771748'
-  timeline_notification: '1587391011'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801124
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/04/20/lockdown-and-academics/"
----
 <p><!-- wp:paragraph --></p>
 <p>The unprecedented COVID-19 pandemic has certainly left every aspect of human life to a turmoil. The world has literally stopped. Academic activities in certain institutions across the country are not an exception here. The closure of academic activities in many institutions across the country clearly depicts the extremity of the situation. Apart from that, we have our own peers working in different firms and start-ups as interns for PS-2 in their second semester. In the times of defining the new norms, we have reported the modified working conditions through interviews for some of these students.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

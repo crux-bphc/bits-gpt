@@ -1,29 +1,3 @@
----
-layout: post
-title: Loans and Scholarships
-date: 2018-07-05 22:14:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- FAQ
-tags: []
-meta:
-  _wp_old_date: '2019-07-24'
-  timeline_notification: '1563986803'
-  _publicize_job_id: '33225705018'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801027
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/07/05/loans-and-scholarships/"
----
 <p><!-- wp:paragraph --></p>
 <p>With increasing costs of education everywhere, securing other sources<br />
  to fund your educational expenses is becoming a necessity. While the<br />

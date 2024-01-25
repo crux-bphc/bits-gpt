@@ -1,31 +1,3 @@
----
-layout: post
-title: 2017 Vote of Confidence
-date: 2018-05-24 15:19:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Spotlight
-tags:
-- Constitution
-- GBM
-meta:
-  _wp_old_date: '2019-07-22'
-  timeline_notification: '1563789098'
-  _publicize_job_id: '33135983174'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800942
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/05/24/2017-vote-of-confidence/"
----
 <p><!-- wp:paragraph --></p>
 <p>A General Body Meeting, with the agenda of voting on the motion of<br />
 confidence for Dhairya Patel and Shubham Malani was held on February 15,<br />

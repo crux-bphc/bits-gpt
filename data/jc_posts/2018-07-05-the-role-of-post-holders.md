@@ -1,32 +1,3 @@
----
-layout: post
-title: The role of post holders
-date: 2018-07-05 23:51:38.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Politics
-- WITW
-tags:
-- suc
-- WITW v1.4
-meta:
-  _wp_old_date: '2019-09-19'
-  timeline_notification: '1568917393'
-  _publicize_job_id: '35461497564'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801099
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/07/05/the-role-of-post-holders/"
----
 <p><!-- wp:paragraph --></p>
 <p>The Students’ Union Council is the supreme governing body of the Students’ Union and it only makes sense if you, the voter, have a better insight in the functions of the Council and if the candidate you have in mind for a post is fit enough to do the same.</p>
 <p><!-- /wp:paragraph --></p>

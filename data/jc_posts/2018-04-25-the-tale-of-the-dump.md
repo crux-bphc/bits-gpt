@@ -1,30 +1,3 @@
----
-layout: post
-title: The Tale of the Dump
-date: 2018-04-25 15:12:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Spotlight
-tags: []
-meta:
-  _wp_old_date: '2019-07-22'
-  timeline_notification: '1563788704'
-  _publicize_job_id: '33135807949'
-  _thumbnail_id: '223'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800798
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/04/25/the-tale-of-the-dump/"
----
 <p><!-- wp:paragraph --></p>
 <p>It’s a surprisingly breezy summer evening. You decide that the  weather is too good to be locked in your room, you open the door and  step out only to be bombarded by an extremely foul smell. The smell that  mostly emanates in the evenings or late at night is a problem for all  of us at BPHC. We have often wondered what the cause of the stench is.  After digging around we have found out that the root of our problem is  located about 3 km away from our campus, the Jawahar Nagar Dump Yard.  Spread over an area of 350 acres, the waste from the entirety of the  twin cities is dumped here.</p>
 <p><!-- /wp:paragraph --></p>

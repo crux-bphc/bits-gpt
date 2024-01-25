@@ -1,29 +1,3 @@
----
-layout: post
-title: In Conversation with Dr. Y Venugopal Reddy
-date: 2020-01-13 16:33:24.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- ATMOS
-- Economics
-tags:
-- ATMOS 2019
-meta:
-  _thumbnail_id: '657'
-  _publicize_job_id: '39533119909'
-  timeline_notification: '1579008770'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/01/13/y-v-reddy-interview/"
----
 <p><!-- wp:paragraph --></p>
 <p><em>Y Venugopal Reddy, ex-RBI Governor and IAS officer, visited BITS Hyderabad and addressed students during ATMOS 2019, the tehnical fest of the campus. We, at Journal Club, caught up with Dr. Y V Reddy after the talk to find out more about his career.  </em></p>
 <p><!-- /wp:paragraph --></p>

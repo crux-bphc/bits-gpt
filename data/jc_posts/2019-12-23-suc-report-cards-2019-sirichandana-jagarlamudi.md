@@ -1,30 +1,3 @@
----
-layout: post
-title: 'SUC Report Cards 2019: Sirichandana Jagarlamudi'
-date: 2019-12-23 21:04:59.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- FAQ
-- Spotlight
-tags: []
-meta:
-  _thumbnail_id: '529'
-  _publicize_job_id: '38778501624'
-  timeline_notification: '1577115302'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800956
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2019/12/23/suc-report-cards-2019-sirichandana-jagarlamudi/"
----
 <p><!-- wp:paragraph --></p>
 <p> As of the First Semester 2019-20, the Sports Secretary (Girls) has fulfilled 4/7 of her manifesto points, 2/7 are in progress and 1/7 have not been fulfilled at all. You can find her original manifesto <a href="https://www.facebook.com/pg/ElectionCommissionBPHC/photos/?tab=album&amp;album_id=2315904078653247&amp;ref=page_internal">here</a>.</p>
 <p><!-- /wp:paragraph --></p>

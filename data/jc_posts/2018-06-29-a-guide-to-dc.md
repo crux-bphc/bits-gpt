@@ -1,29 +1,3 @@
----
-layout: post
-title: A Guide To DC
-date: 2018-06-29 22:07:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- FAQ
-tags: []
-meta:
-  _wp_old_date: '2019-07-24'
-  timeline_notification: '1563986605'
-  _publicize_job_id: '33225614797'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800872
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/06/29/a-guide-to-dc/"
----
 <p><!-- wp:heading --></p>
 <h2>What is DC?</h2>
 <p><!-- /wp:heading --></p>

@@ -1,30 +1,3 @@
----
-layout: post
-title: 'Departments and Clubs: ATMOS 2017'
-date: 2018-05-25 19:57:32.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- ATMOS
-- Campus News
-- Fests
-tags:
-- ATMOS 2017
-meta:
-  _wp_old_date: '2019-06-19'
-  timeline_notification: '1560954553'
-  _publicize_job_id: '31985286340'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/05/25/departments-and-clubs-atmos-2017/"
----
 <p><!-- wp:heading {"level":1} --></p>
 <h1>Departments</h1>
 <p><!-- /wp:heading --></p>

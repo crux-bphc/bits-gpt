@@ -1,31 +1,3 @@
----
-layout: post
-title: 'Arena 2018: Done and Dusted'
-date: 2018-05-28 10:40:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Arena
-- Campus News
-- Fests
-tags:
-- Arena 2018
-meta:
-  _wp_old_date: '2019-06-19'
-  timeline_notification: '1560921117'
-  _publicize_job_id: '31971324740'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800992
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/05/28/done-and-dusted/"
----
 <p><!-- wp:paragraph --></p>
 <p>Arena, the sports fest of BITS Pilani, Hyderabad Campus, is one of<br />
 the three main  fests the campus is known across India for, and,<br />

@@ -1,28 +1,3 @@
----
-layout: post
-title: 'LOST: Old Impartus Videos'
-date: 2019-11-25 19:00:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags: []
-meta:
-  _publicize_job_id: '37788627463'
-  timeline_notification: '1574695355'
-  _thumbnail_id: '500'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800813
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2019/11/25/lost-old-impartus-videos/"
----
 <p><!-- wp:paragraph --></p>
 <p>Impartus is a word that is given a lot of importance here on campus, arguably one of the things that makes BITS Hyderabad what it is, in its unique and wonderful way. Impartus is a lecture recording system that records lectures conducted in a select set of classrooms (F101 to F106 and F208) allowing students to watch the video lectures online anytime they want. As well as storing lectures from the current academic year, Impartus also served as a repository for lectures over the past three years. </p>
 <p><!-- /wp:paragraph --></p>

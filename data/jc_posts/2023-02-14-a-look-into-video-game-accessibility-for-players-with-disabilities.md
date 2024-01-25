@@ -1,28 +1,3 @@
----
-layout: post
-title: A Look Into Video Game Accessibility for Players with Disabilities
-date: 2023-02-14 16:18:40.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1792'
-  _publicize_job_id: '81493538273'
-  timeline_notification: '1676371723'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1676371975
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2023/02/14/a-look-into-video-game-accessibility-for-players-with-disabilities/"
----
 <p><!-- wp:paragraph --></p>
 <p>I was inspired to write this partly after a particularly infuriating session of playing 'Marvel's Spider-Man' on PC, in which I had to fight off dozens of goons, executing well-timed attacks and takedowns while having a papercut on my playing finger. It got me thinking about how people with disabilities would manage to play a game like this. It wasn't even the toughest game I've ever played, and it still seemed a bit insane how I managed to learn all the controls of various games but can't remember what I studied the last sem. Of course, for someone with a learning disability, learning those controls would also be tough. And how would someone who was blind or had very poor vision play this game; indeed, were there any games they could play at all?<br />Accessibility in video games for disabled people is, surprisingly, not as overlooked as we would think. There have always existed options in games which help out regular gamers but also help out gamers with disabilities. Of course, building a video game takes a lot of time and money, and the things video game studios do to improve accessibility might not always be the best they could be or are sometimes just downright mind-boggling (looking at you, Bethesda, for whatever you did with DOOM's features for colourblind people). By accessibility in this context, we mean any feature of the game, either in the gameplay, the menus, or the game design itself, that is intended to ease the gameplay for a gamer with a certain disability. To get an idea of the existing features for accessibility across a large number of video games, and the things we can do to improve them, it's a good idea to methodically approach accessibility with respect to the disability it's targeting(and no, a papercut is not a valid disability):</p>
 <p><!-- /wp:paragraph --></p>

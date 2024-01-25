@@ -1,33 +1,3 @@
----
-layout: post
-title: An interview with the Sports Secretary candidate (girls)
-date: 2018-07-05 00:02:27.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Politics
-- WITW
-tags:
-- interview
-- suc
-- WITW v1.4
-meta:
-  timeline_notification: '1568918064'
-  _wp_old_date: '2019-09-20'
-  _publicize_job_id: '35461813618'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801015
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/07/05/an-interview-with-the-sports-secretary-candidate-girls/"
----
 <p><!-- wp:heading --></p>
 <h2>Kritika Kasliwal</h2>
 <p><!-- /wp:heading --></p>

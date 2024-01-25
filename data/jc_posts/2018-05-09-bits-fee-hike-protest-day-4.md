@@ -1,29 +1,3 @@
----
-layout: post
-title: 'BITS Fee Hike Protest: Day 4'
-date: 2018-05-09 06:00:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- Fee Hike Protests
-meta:
-  _publicize_job_id: '39860136709'
-  timeline_notification: '1579773135'
-  _wp_old_date: '2020-01-23'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801022
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/05/09/bits-fee-hike-protest-day-4/"
----
 <p><!-- wp:paragraph --></p>
 <p><em>An opinion editorial by Nikita Mandapati on the ongoing protests against the fee hike</em>.</p>
 <p><!-- /wp:paragraph --></p>

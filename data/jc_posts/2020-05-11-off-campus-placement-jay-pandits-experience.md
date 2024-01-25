@@ -1,28 +1,3 @@
----
-layout: post
-title: 'Off Campus Placement: Jay Pandit''s Experience'
-date: 2020-05-11 19:21:54.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _publicize_job_id: '44105702791'
-  _thumbnail_id: '1080'
-  timeline_notification: '1589205118'
-  _last_editor_used_jetpack: block-editor
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800903
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/05/11/off-campus-placement-jay-pandits-experience/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>When did you realize you wanted to get into consultancy? Why specifically did you choose consultancy?</strong></p>
 <p><!-- /wp:paragraph --></p>

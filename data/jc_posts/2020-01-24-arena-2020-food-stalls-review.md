@@ -1,31 +1,3 @@
----
-layout: post
-title: 'Arena 2020: Food Stalls Review'
-date: 2020-01-24 17:36:24.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Arena
-- Campus News
-tags:
-- Arena 2020
-meta:
-  _thumbnail_id: '740'
-  timeline_notification: '1579867588'
-  _publicize_job_id: '39902743749'
-  _last_editor_used_jetpack: block-editor
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801080
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/01/24/arena-2020-food-stalls-review/"
----
 <p><!-- wp:paragraph --></p>
 <p>ARENA 2020 is upon us and quite a few of us are mostly excited due to the huge variety of stalls available to satisfy our gastronomic needs. Braving the massive lines and crowds, you end up with a few brightly colored coupons clenched tightly in your fist. But the question is, where to go? What to buy? To solve this for you, BPHC's Journal Club has braved the crowds, sampled many food items across all of the stalls available, to help you decide where to spend your coupons. We've also compiled most of the menus of the food outlets to make it easier for you to decide what you want to have before setting out. <a href="http://bit.ly/arena-20-stalls">Click here</a> to download the PDFs.</p>
 <p><!-- /wp:paragraph --></p>

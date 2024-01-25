@@ -1,30 +1,3 @@
----
-layout: post
-title: 'ARENA 2020: Football and Frisbee'
-date: 2020-02-06 18:00:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Arena
-tags:
-- Arena 2020
-meta:
-  _publicize_job_id: '40386635471'
-  timeline_notification: '1580998928'
-  _oembed_5e7a3b21cbe14f11f225d3621223f870: "{{unknown}}"
-  _wp_old_date: '2020-02-07'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800959
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/02/06/arena-2020-football/"
----
 <p><!-- wp:paragraph --></p>
 <p>ARENA 2020 - the first time in BPHC history the our boys' football team won during ARENA for two years consecutively and the first time Ultimate Frisbee played during in the sports fest. Read on to find out more about the matches and the teams. </p>
 <p><!-- /wp:paragraph --></p>

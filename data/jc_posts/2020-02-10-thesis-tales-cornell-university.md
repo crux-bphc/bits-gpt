@@ -1,30 +1,3 @@
----
-layout: post
-title: 'Thesis Tales: Cornell University'
-date: 2020-02-10 19:00:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Research
-tags:
-- Mechanical
-- Thesis Tales
-meta:
-  _thumbnail_id: '862'
-  _publicize_job_id: '40529401732'
-  timeline_notification: '1581341574'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800664
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/02/10/thesis-tales-cornell-university/"
----
 <p><!-- wp:paragraph --></p>
 <p>In the first article of <em>Thesis Tales,</em> covering undergraduate thesis off-campus, we bring to you an account from Akula Sai Pratyush who did his thesis at Cornell University over the last semester. Ranked at #14 in the QS Global Rankings, Cornell University is located in New York, USA. </p>
 <p><!-- /wp:paragraph --></p>

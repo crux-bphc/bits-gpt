@@ -1,31 +1,3 @@
----
-layout: post
-title: 'The Chronicles of the Meet: SMC and The Chief Warden'
-date: 2020-02-20 19:30:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- Administration
-- Mess
-- SMC
-meta:
-  _thumbnail_id: '893'
-  _publicize_job_id: '40911978482'
-  timeline_notification: '1582207377'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801112
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/02/20/smc-admin-meet/"
----
 <p><!-- wp:paragraph --></p>
 <p>In response to the complaints over the mess management over the past few days, members of the Student Mess Council organized a meeting between the SMC, the Managers of Mess 1 and Mess 2 and the administration represented by Dr. CP Kiran, the Chief Warden on the 20th of February 2020. A representative from the Student’s Welfare Division and two representatives from Journal Club were invited to the meet as well. The SMC said that roughly ten such meetings with the admin were organised over this academic year to discuss various mess related issues.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

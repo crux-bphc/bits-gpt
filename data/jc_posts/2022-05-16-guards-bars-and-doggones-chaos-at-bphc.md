@@ -1,28 +1,3 @@
----
-layout: post
-title: Guards, Bars and Doggone Gang Wars - Chaos at BPHC
-date: 2022-05-16 19:08:53.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _publicize_job_id: '72581293239'
-  timeline_notification: '1652708336'
-  _thumbnail_id: '1552'
-  wordads_ufa: u:wpcom-ufa-v3-beta:1663801301
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/05/16/guards-bars-and-doggones-chaos-at-bphc/"
----
 <p><!-- wp:paragraph --></p>
 <p>The story begins on the night of the 15th. My colleague and I had just gotten our drinks from Amul and stood right outside the shop. Slowly, we noticed a crowd materialize in front of the volleyball court. There was tension in the air as people began to shout. A guy came up to us and asked whether we were here for the fight, but we replied that the only thing we were fighting was crippling depression. Suddenly, someone cried out, and people began rushing to the centre of the mob. An excited passer-by knocked my drink out of my hand. I realized that I would have to write 4 more articles to get paid enough to buy it back. Soon, we were pushed right into the centre with bodies bustling around us and shoving each other. There were shouts of “You wanna fight bro? You wanna fight?”, “You see these muscles, man?”, “I’ll send your ass back to Shankar basement” and the occasional “Modi Ji ki Jai.” In the midst of all the confusion, the guards and wardens came and began dispersing the students back to where they came from. As soon as the crowd cleared, we saw our editor looking at us from the pavement, a smile on his face – it was time to write another underpaying article.</p>
 <p><!-- /wp:paragraph --></p>

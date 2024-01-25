@@ -1,28 +1,3 @@
----
-layout: post
-title: When Whispers turned into Sirens
-date: 2021-10-03 16:07:27.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1412'
-  _publicize_job_id: '63715848849'
-  timeline_notification: '1633257450'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1681720739
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2021/10/03/when-whispers-turned-into-sirens/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Prologue</strong></p>
 <p><!-- /wp:paragraph --></p>

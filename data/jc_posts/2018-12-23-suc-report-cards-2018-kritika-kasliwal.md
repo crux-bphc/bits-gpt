@@ -1,29 +1,3 @@
----
-layout: post
-title: 'SUC Report Cards 2018: Kritika Kasliwal'
-date: 2018-12-23 13:06:25.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- SUC 2018-19
-meta:
-  _wp_old_date: '2019-06-18'
-  _publicize_job_id: '31939886987'
-  timeline_notification: '1560843578'
-  _thumbnail_id: '93'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/12/23/suc-report-cards-2018-kritika-kasliwal/"
----
 <p><!-- wp:paragraph --></p>
 <p>The Sport’s Secretary (Girls), Kritika Kasliwal’s manifesto put forth<br />
  9 points, of which 4 are fulfilled, 2 are in progress and 3 aren’t<br />

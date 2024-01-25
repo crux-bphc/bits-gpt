@@ -1,29 +1,3 @@
----
-layout: post
-title: Fest Coordinators
-date: 2018-04-25 15:33:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Spotlight
-tags:
-- GBM
-meta:
-  _wp_old_date: '2019-07-22'
-  timeline_notification: '1563789947'
-  _publicize_job_id: '33136397122'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/04/25/fest-coordinators/"
----
 <p><!-- wp:paragraph --></p>
 <p>On 19th April, 2018, the President of the SUC 2018-2019 posted a<br />
 notice on BPHC Shoutbox calling all students from the 2016 batch for<br />

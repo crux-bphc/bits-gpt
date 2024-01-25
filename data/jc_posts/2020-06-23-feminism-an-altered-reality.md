@@ -1,39 +1,3 @@
----
-layout: post
-title: Feminism- An Altered Reality?
-date: 2020-06-23 18:34:01.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _thumbnail_id: '1099'
-  _publicize_job_id: '45768455958'
-  timeline_notification: '1592917445'
-  _oembed_81a066882e65d4e57ce836453847e683: "{{unknown}}"
-  _oembed_fe0fee90aaebea5adaf307955c790214: "{{unknown}}"
-  _oembed_7ab6b99fc82d8715b7dba5dd19c2cc76: "{{unknown}}"
-  _oembed_5576f324c163dd90463a40f3899e6e09: <div class="embed-thenewyorktimes"><iframe
-    title="How George Floyd Was Killed in Police Custody" src="https://www.nytimes.com/svc/oembed/html/?url=https%3A%2F%2Fwww.nytimes.com%2F2020%2F05%2F31%2Fus%2Fgeorge-floyd-investigation.html"
-    scrolling="no" frameborder="0" allowtransparency="true" style="border:none;max-width:500px;min-width:300px;min-height:550px;display:block;width:100%;"></iframe></div>
-  _oembed_0d2fd8901f0494b6bb6f2845a0ff36c9: "{{unknown}}"
-  _oembed_time_5576f324c163dd90463a40f3899e6e09: '1593435539'
-  _oembed_3f5fd1348f45dce7adfc36bb9ea78124: <a href="https://variety.com/2020/digital/news/anonymous-hackers-minneapolis-police-department-website-george-floyd-1234621332/">Did
-    Hacktivist Group Anonymous Take Down Minneapolis PD&nbsp;Website?</a>
-  _oembed_time_3f5fd1348f45dce7adfc36bb9ea78124: '1593435539'
-  _oembed_5afa2ddfdb08dce21020a9623c6f8c2b: "{{unknown}}"
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801005
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/06/23/feminism-an-altered-reality/"
----
 <p><!-- wp:paragraph --></p>
 <p>Over the years, the Feminist movement has undergone a lot of changes, and the meaning and ideologies surrounding the movement have slowly evolved and expanded with time. This has often led to a lot of conflict between people due to the misrepresentation of terms and ideologies. This conflict has further been highlighted by the recent furor over certain incidents online and on the campus Facebook groups. We’ll attempt to take a deeper dive into the meaning of Feminism, along with taking a closer look at the term “pseudo-feminism”.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

@@ -1,28 +1,3 @@
----
-layout: post
-title: Frankly Speaking with Sandeep Jain - Founder of GeeksForGeeks
-date: 2023-01-14 15:48:29.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1765'
-  _publicize_job_id: '80537672943'
-  timeline_notification: '1673691513'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1673691694
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2023/01/14/frankly-speaking-with-sandeep-jain-founder-of-geeks-for-geeks/"
----
 <p><!-- wp:list --></p>
 <ul><!-- wp:list-item --></p>
 <li><strong><em>GeeksforGeeks, as a name, stays with the user right from the first interaction. How did you come up with this name?</em></strong></li>

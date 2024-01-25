@@ -1,32 +1,3 @@
----
-layout: post
-title: Horoscopes
-date: 2018-07-05 15:05:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- WITW
-tags:
-- Horoscope
-- Light-Hearted
-- WITW v1.1
-meta:
-  _publicize_pending: '1'
-  _wp_old_date: '2019-09-16'
-  _publicize_job_id: '35336587063'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801055
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/07/05/horoscopes/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>CAPRICORN</strong><br />
 <em>Representation</em>:Responsible,disciplined,<br />

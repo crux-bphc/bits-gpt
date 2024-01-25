@@ -1,27 +1,3 @@
----
-layout: post
-title: 'Troubled Waters: The Cost of In-Fighting'
-date: 2021-08-20 18:47:27.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1382'
-  _publicize_job_id: '62081015509'
-  timeline_notification: '1629465449'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2021/08/20/troubled-waters-the-cost-of-in-fighting/"
----
 <p><!-- wp:paragraph --></p>
 <p><em>As it is rightly said, there is no such thing as authentic, unalloyed jubilation. Some bitterness always mingles with the sweet. Though fond memories of our solitary gold and the hockey triumph might be nested in our thoughts, some events left much to be desired. From the arrest of wrestler Sushil Kumar and the miscommunication between tennis players and their association to the dissatisfaction of Vinesh Phogat on the unavailability of her physiotherapist, the controversies just did not end. In between the games, clashes between the coaches and the players, along with misfiring sporting equipment, added to the sour memories.&nbsp;&nbsp;</em></p>
 <p><!-- /wp:paragraph --></p>

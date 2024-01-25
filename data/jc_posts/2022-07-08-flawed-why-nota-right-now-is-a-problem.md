@@ -1,30 +1,3 @@
----
-layout: post
-title: "'Flawed' - why NOTA right now is a problem"
-date: 2022-07-08 21:19:44.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _oembed_7db6bdc32f0d4431a0ba36ef2711fa33: "{{unknown}}"
-  _oembed_0a66214467a79d0a5a70b0a49273f41f: "{{unknown}}"
-  _thumbnail_id: '1639'
-  _publicize_job_id: '74507500933'
-  timeline_notification: '1657295387'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800850
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/07/08/flawed-why-nota-right-now-is-a-problem/"
----
 <p><!-- wp:paragraph --></p>
 <p>The SUC Elections 2022 are just a couple of days away, and with the soapboxes coming to an end, it's time for all of us to finally make an informed decision on whom to vote for. With the interesting choice of candidates we have for certain positions, and after witnessing their even more interesting soapboxes, many of us might be inclined to consider NOTA for said positions.</p>
 <p><!-- /wp:paragraph --></p>

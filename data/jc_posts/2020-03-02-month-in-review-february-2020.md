@@ -1,33 +1,3 @@
----
-layout: post
-title: 'Month in Review: February 2020'
-date: 2020-03-02 20:11:48.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- Ignite
-- Launchpad
-- Month in Review
-- Tech-Week
-- TedX
-meta:
-  _thumbnail_id: '930'
-  _publicize_job_id: '41325880022'
-  timeline_notification: '1583160112'
-  wordads_ufa: u:wpcom-ufa-v3-beta:1663800959
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/03/02/month-in-review-february-2020/"
----
 <p><!-- wp:paragraph --></p>
 <p>Stressed out with the mid-sem exams? Missing February more than ever? As almost half the semester comes to an end, Journal Club takes a moment to go back and look at some highlights from the month of February 2020.</p>
 <p><!-- /wp:paragraph --></p>

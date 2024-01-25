@@ -1,28 +1,3 @@
----
-layout: post
-title: 'Wilted Dreams: A dive into the toxic nature of our education system'
-date: 2022-05-13 13:28:59.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  timeline_notification: '1652428741'
-  _thumbnail_id: '1540'
-  _publicize_job_id: '72464045598'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800817
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/05/13/wilted-dreams-a-dive-into-the-toxic-nature-of-our-education-system/"
----
 <p><!-- wp:paragraph --></p>
 <p>If you wanted to grab hold of someone, control everything that they could do, manipulate their mental and physical state and, in simple words, weave their entire reality - how would you do that? The most straightforward answer would be to start an educational institute and enroll them in it. This might sound absurd but think about it- who is unemployed yet bound to responsibilities and work, restricted to not do or say what they like, must bow to an authority that cannot be questioned, gives their time and leisure for pain and pressure and pays for their qualification to be judged? Bingo – it’s none other than us students.</p>
 <p><!-- /wp:paragraph --></p>

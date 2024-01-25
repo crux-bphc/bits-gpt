@@ -1,27 +1,3 @@
----
-layout: post
-title: Motoring To Glory
-date: 2018-07-05 20:10:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- WITW
-tags: []
-meta:
-  _wp_old_date: '2019-09-19'
-  timeline_notification: '1568904123'
-  _publicize_job_id: '35455059989'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/07/05/motoring-to-glory/"
----
 <p><!-- wp:heading --></p>
 <h2>How do you think our team will fare at the Mega-ATV competition?</h2>
 <p><!-- /wp:heading --></p>

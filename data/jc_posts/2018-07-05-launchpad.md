@@ -1,27 +1,3 @@
----
-layout: post
-title: LaunchPad
-date: 2018-07-05 00:39:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- WITW
-tags: []
-meta:
-  timeline_notification: '1568747435'
-  _wp_old_date: '2019-09-18'
-  _publicize_job_id: '35389683986'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/07/05/launchpad/"
----
 <p><!-- wp:paragraph --></p>
 <p>The second edition of LaunchPad was held on 18th February, in our<br />
 campus. BITS Pilani is no new player when it comes to producing the most<br />

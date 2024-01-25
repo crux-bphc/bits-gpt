@@ -1,30 +1,3 @@
----
-layout: post
-title: A Brief Interview with the Technical Secretary
-date: 2019-09-01 18:40:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags: []
-meta:
-  _publicize_job_id: '34719411989'
-  timeline_notification: '1567104828'
-  _wp_old_date: '2019-08-30'
-  _thumbnail_id: '293'
-  _last_editor_used_jetpack: block-editor
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801083
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2019/09/01/interview-with-the-technical-convener/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Can you please share your manifesto with us? What is your action plan as the next TC? </strong><br />So my aim and objective as the next Technical Secretary will be to improve the dormant technical culture on campus and help talented people with a technical inclination to achieve their full potential. To this end, I plan on streamlining and formalizing the ‘Technical Mentorship’ program in coordination with SU's ‘Student Mentorship Program’; provide support to teams and individuals in the form of funding; clearing administrative hurdles and providing other resources; hold regular technical competitions and hackathons; get mentorship from Alumni and teams from foreign universities, etc.</p>
 <p><!-- /wp:paragraph --></p>

@@ -1,30 +1,3 @@
----
-layout: post
-title: Sports and Politics
-date: 2018-05-26 14:23:14.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Arena
-- Campus News
-- Fests
-tags:
-- Arena 2018
-meta:
-  timeline_notification: '1560934476'
-  _wp_old_date: '2019-06-19'
-  _publicize_job_id: '31976426578'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/05/26/sports-politics/"
----
 <p><!-- wp:paragraph --></p>
 <p>From multiple nations bargaining for a coveted chance to host the<br />
 Olympics, to scandals involving selections in National and State sports<br />

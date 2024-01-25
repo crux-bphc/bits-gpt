@@ -1,30 +1,3 @@
----
-layout: post
-title: ATMOS Through The Ages
-date: 2018-05-25 19:49:33.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- ATMOS
-- Campus News
-- Fests
-tags:
-- ATMOS 2017
-meta:
-  _wp_old_date: '2019-06-19'
-  timeline_notification: '1560954315'
-  _publicize_job_id: '31985174513'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/05/25/atmos-through-the-ages/"
----
 <p><!-- wp:paragraph --></p>
 <p>BITS Pilani Hyderabad Campus, one of the most prestigious colleges in<br />
  India, keeps proving its distinction from time to time. While getting<br />

@@ -1,31 +1,3 @@
----
-layout: post
-title: Internet on Campus
-date: 2017-02-18 06:00:08.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-- Spotlight
-tags:
-- Campus Connectivity
-- Internet
-meta:
-  _wp_old_date: '2018-05-19'
-  timeline_notification: '1568889479'
-  _publicize_job_id: '35448038547'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800975
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2017/02/18/internet-on-campus/"
----
 <p><!-- wp:paragraph --></p>
 <p>At BPHC, it is possible for us to live without food for a day, but<br />
 not without internet, even for an hour. From Facebook and<br />

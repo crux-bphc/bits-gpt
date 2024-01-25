@@ -1,31 +1,3 @@
----
-layout: post
-title: Where Legends are Born
-date: 2018-05-26 10:44:00.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Arena
-- Campus News
-- Fests
-tags:
-- Arena 2018
-meta:
-  timeline_notification: '1560921340'
-  _wp_old_date: '2019-06-19'
-  _publicize_job_id: '31971417648'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800823
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/05/26/legends-are-born/"
----
 <p><!-- wp:paragraph --></p>
 <p>“<em>You will be nearer to Heaven through football than through study of Gita</em>”     -Swami Vivekananda</p>
 <p><!-- /wp:paragraph --></p>

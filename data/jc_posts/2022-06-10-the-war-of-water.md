@@ -1,28 +1,3 @@
----
-layout: post
-title: The War of Water
-date: 2022-06-10 21:00:43.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  timeline_notification: '1654875046'
-  _thumbnail_id: '1573'
-  _publicize_job_id: '73512200473'
-  wordads_ufa: u:wpcom-ufa-v3-beta:1663800792
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/06/10/the-war-of-water/"
----
 <p><!-- wp:paragraph --></p>
 <p>K and M slowly walked up the stairs, hearing the muffled noises of excitement and laughter as they whispered their plan between themselves. They were going to infiltrate the dunk fight, posing as VK students, and collect as much evidence as possible to evict the entirety of the hostel from their rooms. It wouldn’t be easy, as the VK boys had a strong brotherhood among themselves, but surely they wouldn’t suspect two innocent students like them, right? There had been numerous reports of the VK residents retaliating against the Gautam migrants (they called them refugees) for occupying the top floor, the haven with the balconies and the scenic views of the Campus (or Malviya, if one got the telescope positioning right). They had one sole objective, to make life a living hell for the Gautam residents. This retaliation was multi-faceted, from cat-calling them out on the open streets to covering their floor with soap water and then living out their ZNMD fantasies, only without the tomatoes, the pretty girls and Hrithik Roshan. A JC source had floated a whisper to the reporters about a plan to lock all the doors and then have a dunk fight in the open corridors.</p>
 <p><!-- /wp:paragraph --></p>

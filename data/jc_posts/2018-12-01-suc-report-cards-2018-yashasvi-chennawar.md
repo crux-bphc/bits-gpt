@@ -1,30 +1,3 @@
----
-layout: post
-title: 'SUC Report Cards 2018: Yashasvi Chennawar'
-date: 2018-12-01 12:48:29.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- SUC 2018-19
-meta:
-  _wp_old_date: '2019-06-18'
-  _publicize_job_id: '31939560401'
-  timeline_notification: '1560842749'
-  _thumbnail_id: '81'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800994
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/12/01/suc-report-cards-2018-yashasvi-chennawar/"
----
 <p><!-- wp:paragraph --></p>
 <p>The Cultural Secretary (Female), Yashasvi Chennawar’s <a href="https://www.facebook.com/pg/ElectionCommissionBPHC/photos/?tab=album&amp;album_id=2073506309559693&amp;ref=page_internal">manifesto</a> spoke  of <strong>18 points out of which 3 were fulfilled, 8 are under progress and 7  have not been fulfilled yet.</strong></p>
 <p><!-- /wp:paragraph --></p>

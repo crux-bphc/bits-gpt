@@ -1,28 +1,3 @@
----
-layout: post
-title: 'SUC Report Card(2021-22): Krishna Prajwal'
-date: 2022-06-17 17:05:45.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  timeline_notification: '1655465748'
-  _thumbnail_id: '1614'
-  _publicize_job_id: '73753789515'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800953
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/06/17/suc-report-card2021-22-krishna-prajwal/"
----
 <p><!-- wp:paragraph --></p>
 <p>Krishna Prajwal, the President of the Student Union Council of BPHC, has put forth a 19-point manifesto prior to the elections. Of these 19 points that ranged from improving the tech culture, conducting fests, and implementing multiple student programs, 7 were fulfilled, 5 were partially fulfilled or in progress, and 7 were not fulfilled. You can find his manifesto <a href="https://drive.google.com/file/d/1iuA2UU3zTawFfY6Ng8yOZ0OCCyuqfGKu/view?usp=sharing">here</a>.</p>
 <p><!-- /wp:paragraph --></p>

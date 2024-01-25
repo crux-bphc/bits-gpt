@@ -1,35 +1,3 @@
----
-layout: post
-title: Harivallabha Rangarajan - PPO at Microsoft
-date: 2020-09-29 19:33:27.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags:
-- Career Series
-- Summer Internship Series
-meta:
-  _thumbnail_id: '1290'
-  _coblocks_attr: ''
-  _coblocks_dimensions: ''
-  _coblocks_responsive_height: ''
-  _coblocks_accordion_ie_support: ''
-  amp_status: disabled
-  spay_email: ''
-  _publicize_job_id: '49365004239'
-  timeline_notification: '1601388211'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800861
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/09/29/harivallabha-rangarajan-ppo-at-microsoft/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Q1. Could you please introduce yourself and describe your SI? (branch, year, where you did SI, stipend, the time you spent working there, how many other people were selected, how many got PPO)</strong></p>
 <p><!-- /wp:paragraph --></p>

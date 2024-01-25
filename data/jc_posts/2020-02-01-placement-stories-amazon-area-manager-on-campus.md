@@ -1,34 +1,3 @@
----
-layout: post
-title: 'Placement Stories: Amazon Area Manager [On Campus]'
-date: 2020-02-01 16:30:20.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Placement Stories
-tags:
-- non-tech
-- Placements 2019-20
-meta:
-  _edit_last: '158124384'
-  timeline_notification: '1580555682'
-  _rest_api_published: '1'
-  _rest_api_client_id: '2697'
-  _publicize_job_id: '40194784855'
-  _thumbnail_id: '768'
-  _wp_old_date: '2020-02-02'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800662
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/02/01/placement-stories-amazon-area-manager-on-campus/"
----
 <p><!-- wp:paragraph --></p>
 <p>With this profile holding the record for the highest non-tech CTC this placement season, the job description for this role explains that an Area Manager at Amazon leads a team of 50 - 200 people at one of Amazon’s fulfilment centres (warehouses). The interviews for this role happened in January, and ten applicants were shortlisted for interviews after a test. Of the ten shortlisted candidates, five were from Mechanical Engineering branch, two from Manufacturing, two from civil, and one from Chemical Engineering, Only two students managed to clear the interviews and were offered jobs: Aditya Ramaswami and Abhinav Sparsh. </p>
 <p><!-- /wp:paragraph --></p>

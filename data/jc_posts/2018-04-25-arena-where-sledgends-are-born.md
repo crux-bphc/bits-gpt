@@ -1,31 +1,3 @@
----
-layout: post
-title: 'Arena: Where Sledgends Are Born'
-date: 2018-04-25 19:00:45.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Arena
-- Campus News
-- Fests
-tags:
-- Arena 2018
-meta:
-  _wp_old_date: '2019-06-19'
-  timeline_notification: '1560951823'
-  _publicize_job_id: '31983981372'
-  _thumbnail_id: '170'
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/04/25/arena-where-sledgends-are-born/"
----
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>

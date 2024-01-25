@@ -1,28 +1,3 @@
----
-layout: post
-title: 'SUC Report Card(2021-22): Shimoly Shrivastava'
-date: 2022-06-13 17:07:25.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1583'
-  timeline_notification: '1655120247'
-  _publicize_job_id: '73607457965'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800886
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/06/13/suc-report-card2021-22-shimoly-shrivastava/"
----
 <p><!-- wp:paragraph --></p>
 <p>In the academic year 2021-2022, the Sports Secretary (Girls) has fulfilled 2/7 of her manifesto points, 1/7 was partially fulfilled, and 4/7 have not been fulfilled at all. You can read her original manifesto <a href="https://drive.google.com/file/d/1dH08Up0iEVG-Re9UECgIkGY3Xue-Tl_g/view">here</a>.</p>
 <p><!-- /wp:paragraph --></p>

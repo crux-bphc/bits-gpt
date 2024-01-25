@@ -1,27 +1,3 @@
----
-layout: post
-title: BITS and Books
-date: 2020-07-06 18:35:21.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _thumbnail_id: '1117'
-  _publicize_job_id: '46253400726'
-  timeline_notification: '1594040725'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801075
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/07/06/small-data-analysis-of-reading-habits-of-bphc/"
----
 <p><!-- wp:paragraph --></p>
 <p>We live in the age of big data analysis. Nowadays, data analysis is being applied to all fields under the sun, and no field is immune to it. So why not apply it to something which has been a popular pastime for many decades. I refer to the practice of preparing a list of popular books or movies etc.</p>
 <p><!-- /wp:paragraph --></p>

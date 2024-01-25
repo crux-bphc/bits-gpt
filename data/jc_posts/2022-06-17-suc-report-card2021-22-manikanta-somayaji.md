@@ -1,28 +1,3 @@
----
-layout: post
-title: 'SUC Report Card(2021-22): Manikanta Somayaji'
-date: 2022-06-17 14:58:16.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  timeline_notification: '1655458099'
-  _publicize_job_id: '73750463115'
-  _thumbnail_id: '1606'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800963
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/06/17/suc-report-card2021-22-manikanta-somayaji/"
----
 <p><!-- wp:paragraph --></p>
 <p>Manikanta Somayaji, the General Secretary of the Student Union Council of BPHC, has put forth a 9-point manifesto (of which 6 points were meant for online GB communication and interaction and 3 points for offline) prior to the elections. Of these, mental health and improvement of campus culture are of the main concern. Of these 9 points mentioned,1 was fulfilled, 5 are partially fulfilled or in progress and 3 are not fulfilled. You can find his manifesto <a href="https://drive.google.com/file/d/1iuA2UU3zTawFfY6Ng8yOZ0OCCyuqfGKu/view?usp=sharing">here</a>.</p>
 <p><!-- /wp:paragraph --></p>

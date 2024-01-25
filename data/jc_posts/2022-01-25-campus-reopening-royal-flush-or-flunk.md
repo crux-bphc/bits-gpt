@@ -1,28 +1,3 @@
----
-layout: post
-title: Campus Reopening - Royal Flush or Flunk?
-date: 2022-01-25 15:35:34.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  timeline_notification: '1643105137'
-  _thumbnail_id: '1428'
-  _publicize_job_id: '68127401627'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800985
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2022/01/25/campus-reopening-royal-flush-or-flunk/"
----
 <p><!-- wp:paragraph --></p>
 <p>The administration and Student Union of BPHC had taken us all by surprise, that being an understatement, when they announced their decision to call students back to campus in a phased manner, despite our sister campuses deciding otherwise. With the 3rd wave increasing rapidly, the administration has unquestionably taken upon a considerable risk and responsibility upon themselves. While initially the decision was mostly received positively by the student body, with the rising cases on campus, we can’t help but question if reopening the campus is a not so wise decision?</p>
 <p><!-- /wp:paragraph --></p>

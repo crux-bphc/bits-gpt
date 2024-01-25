@@ -1,31 +1,3 @@
----
-layout: post
-title: Balaji Adithya- PPO at Analog Devices
-date: 2020-09-14 17:05:20.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Career
-- Summer Internships
-tags:
-- Career Series
-- Summer Internship Series
-meta:
-  timeline_notification: '1600083324'
-  _publicize_job_id: '48806036271'
-  _thumbnail_id: '1245'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800917
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/09/14/balaji-adithya-ppo-at-analog-devices/"
----
 <p><!-- wp:paragraph --></p>
 <p>Balaji Adithya is a current fourth-year ECE student . He was the only student who secured a summer internship at Analog Devices this year, a reputed core company among the electrical firms. He did his PS-1 at CEERI, Pilani last summer, and secured a PPO this year with a virtual internship. Analog Devices visited the campus for the new academic year's placement cycle, but there were no selects from any profiles.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

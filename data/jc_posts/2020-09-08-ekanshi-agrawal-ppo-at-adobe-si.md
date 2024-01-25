@@ -1,32 +1,3 @@
----
-layout: post
-title: Ekanshi Agrawal- PPO at Adobe SI
-date: 2020-09-08 17:53:38.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Career
-- Summer Internships
-tags:
-- Career Series
-- Placements 2020-21
-- Summer Internship Series
-meta:
-  _publicize_job_id: '48592721839'
-  _thumbnail_id: '1231'
-  timeline_notification: '1599567822'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800912
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2020/09/08/ekanshi-agrawal-ppo-at-adobe-si/"
----
 <p><!-- wp:paragraph --></p>
 <p>Adobe hired 12 interns from our campus for the summer of 2020 from CSE and Phoenix branches. The stipend for the said internship for both product development (10) and research (2) interns was Rs. 1L per month and all of them ended with a Pre Placement Offer. Ekanshi Agrawal- a 2017 CSE student was one of the product interns and she shares her experience with us through this interview.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

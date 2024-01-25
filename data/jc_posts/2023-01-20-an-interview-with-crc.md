@@ -1,28 +1,3 @@
----
-layout: post
-title: An Interview with CRC
-date: 2023-01-20 13:50:36.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _last_editor_used_jetpack: block-editor
-  _thumbnail_id: '1774'
-  _publicize_job_id: '80721633525'
-  timeline_notification: '1674202839'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1674202991
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2023/01/20/an-interview-with-crc/"
----
 <p><!-- wp:paragraph --></p>
 <p>Nikhita Upadhyaya: So today, we have one of the members of CRC, Chris Alex Mattam. I'm Nikhita Upadhyaya, and we also have Anika Agarwal. I'll now move on to Anika for the first question.</p>
 <p><!-- /wp:paragraph --></p>

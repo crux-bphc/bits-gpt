@@ -1,37 +1,3 @@
----
-layout: post
-title: 'SUC Report Cards 2018: Sohith Deva'
-date: 2018-12-25 12:59:58.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- SUC 2018-19
-meta:
-  _wp_old_date: '2019-06-18'
-  timeline_notification: '1560843233'
-  _publicize_job_id: '31939756550'
-  _thumbnail_id: '88'
-  _oembed_809758da9b524326011fef15a744b6cc: "{{unknown}}"
-  _oembed_742d976bbd10b83143b30a05ccd2645c: "{{unknown}}"
-  _oembed_65807d6bd46ae62e171d43d485dd2422: "{{unknown}}"
-  _oembed_c91f026fa8ae2517aed22c00e7a937ef: "{{unknown}}"
-  _oembed_96307f9e8f86c4ffc6bf7a20c297a3be: "{{unknown}}"
-  _oembed_7c9e12f95c9bfe3fc42de319b8d32568: "{{unknown}}"
-  _oembed_acdb0761aca209fc478619e9afa01524: "{{unknown}}"
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801024
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2018/12/25/suc-report-cards-2018-sohith-deva/"
----
 <p><!-- wp:paragraph --></p>
 <p>The Boys’ Sports Secretary, Sohith Deva’s manifesto aimed at the<br />
 overall enhancement of the Sports culture on campus along with<br />

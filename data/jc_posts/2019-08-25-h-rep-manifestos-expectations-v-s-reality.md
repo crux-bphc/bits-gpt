@@ -1,30 +1,3 @@
----
-layout: post
-title: 'H-Rep Manifestos: Expectations v/s Reality'
-date: 2019-08-25 16:14:01.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Campus News
-tags:
-- Elections 2019-20
-- H-Rep Elections
-meta:
-  _publicize_job_id: '34531814228'
-  timeline_notification: '1566729845'
-  _thumbnail_id: '276'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800842
-author:
-  login: jcbitshyd
-  email: journal@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: ''
-  last_name: ''
-permalink: "/2019/08/25/h-rep-manifestos-expectations-v-s-reality/"
----
 <p><!-- wp:paragraph --></p>
 <p>Every bhawan on campus has a hostel representative or H-Rep, who is elected by the residents of their respective bhawans. While this post can be held by students of any year, it is especially relevant to first-year students. It is the only opportunity for a fresher to be a member of the Student Union Council (SUC). The elections are conducted by the Election Commission early on in the first semester, usually by the end of August. This gives freshmen their first taste of student politics, in their college life. The H-Rep elections also allow students, including the ones not contesting, to become familiar with the election procedure on campus, all the way from nomination, to the actual voting and announcement of results. One of the most significant steps in the process is the release of the candidates' manifesto. The manifesto comprises of a list of targets and goals the candidate promises to achieve during their tenure if they are elected into the post.&nbsp;</p>
 <p><!-- /wp:paragraph --></p>

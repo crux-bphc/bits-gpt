@@ -1,29 +1,3 @@
----
-layout: post
-title: 'MS Admits: Interview with Ashwin Nallan'
-date: 2020-06-19 18:55:38.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _rest_api_published: '1'
-  _rest_api_client_id: '2697'
-  _publicize_job_id: '45627116597'
-  timeline_notification: '1592573166'
-  _thumbnail_id: '1092'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663801077
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2020/06/19/ms-admits-interview-with-ashwin-nallan/"
----
 <p><!-- wp:paragraph --></p>
 <p><strong>Where and which programme have you been offered?</strong></p>
 <p><!-- /wp:paragraph --></p>

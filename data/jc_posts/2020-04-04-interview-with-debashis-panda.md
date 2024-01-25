@@ -1,28 +1,3 @@
----
-layout: post
-title: 'On Campus Thesis and Research: Interview with Debashis Panda'
-date: 2020-04-04 16:27:49.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _publicize_job_id: '42612480335'
-  _thumbnail_id: '988'
-  timeline_notification: '1585997873'
-  _wp_old_slug: '987'
-  wordads_ufa: s:wpcom-ufa-v3-beta:1663800856
-author:
-  login: jcbphc21
-  email: f20181005@hyderabad.bits-pilani.ac.in
-  display_name: Journal Club, BPHC
-  first_name: Journal Club
-  last_name: BPHC
-permalink: "/2020/04/04/interview-with-debashis-panda/"
----
 <p><!-- wp:paragraph --></p>
 <p>Debashis Panda is a fourth-year B.E. (Chemical Engineering) student. He did an on-campus thesis for his 4-1 and has recently received a PhD admit from the Texas A&amp;M University (TAMU). We interviewed him as a part of the Thesis Tales Series to get his views on the research scenario in BITS.</p>
 <p><!-- /wp:paragraph --></p>
