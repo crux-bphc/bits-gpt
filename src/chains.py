@@ -1,21 +1,12 @@
-from fastapi import FastAPI
 from langchain.prompts import ChatPromptTemplate
 from langchain_openai.chat_models import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableParallel, RunnablePassthrough
-from langserve import add_routes
-from dotenv import load_dotenv
-from query_db import get_retriever
+from src.query_db import get_retriever
 import os
-
+from dotenv import load_dotenv
 
 load_dotenv()
-
-app = FastAPI(
-    title="BitsGPT LangChain Server",
-    version="1.0",
-    description="A simple api server for BitsGPT using Langchain's Runnable interfaces",
-)
 
 model = ChatOpenAI(model="gpt-3.5-turbo")
 retriever = get_retriever()
@@ -42,12 +33,6 @@ output_parser = StrOutputParser()
 
 talk_chain = setup_and_retrieval | prompt | model | output_parser
 
-add_routes(
-    app,
-    talk_chain,
-    path="/talk",
-)
-
 if os.getenv("COHERE_API_KEY") is not None:
     from langchain.retrievers import ContextualCompressionRetriever
     from langchain.retrievers.document_compressors import CohereRerank
@@ -62,14 +47,3 @@ if os.getenv("COHERE_API_KEY") is not None:
         {"context": compression_retriever, "question": RunnablePassthrough()}
     )
     cohere_talk_chain = cohere_setup_and_retrieval | prompt | model | output_parser
-
-    add_routes(
-        app,
-        cohere_talk_chain,
-        path="/cohere",
-    )
-
-if __name__ == "__main__":
-    import uvicorn
-
-    uvicorn.run(app, host="0.0.0.0", port=8000)

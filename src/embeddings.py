@@ -6,3 +6,7 @@ def get_hf_embeddings():
     model_kwargs = {"device": "cpu"}
     hf_embedding = HuggingFaceEmbeddings(model_name=model_id, model_kwargs=model_kwargs)
     return hf_embedding
+
+
+def get_embeddings():
+    return get_hf_embeddings()

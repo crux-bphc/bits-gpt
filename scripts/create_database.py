@@ -8,11 +8,11 @@ from langchain_community.document_loaders import (
     SitemapLoader,
 )
 from langchain.vectorstores.chroma import Chroma
-from embeddings import get_hf_embeddings
+from src.embeddings import get_embeddings
 
 CHROMA_PATH = "chroma"
 DATA_PATH = "data"
-hf_embeddings = get_hf_embeddings()
+embeddings = get_embeddings()
 
 
 def load_documents(extension="txt") -> list[Document]:
@@ -48,7 +48,7 @@ def save_to_chroma(chunks: list[Document]):
     if os.path.exists(CHROMA_PATH):
         shutil.rmtree(CHROMA_PATH)
 
-    db = Chroma.from_documents(chunks, hf_embeddings, persist_directory=CHROMA_PATH)
+    db = Chroma.from_documents(chunks, embeddings, persist_directory=CHROMA_PATH)
     db.persist()
     print(f"Saved {len(chunks)} chunks to {CHROMA_PATH}.")
 

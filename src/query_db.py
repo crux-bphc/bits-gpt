@@ -1,18 +1,18 @@
 from langchain.vectorstores.chroma import Chroma
-from embeddings import get_hf_embeddings
+from src.embeddings import get_embeddings
 
 CHROMA_PATH = "chroma"
-hf_embeddings = get_hf_embeddings()
+embeddings = get_embeddings()
 
 
 def query_chroma(query: str, k=5):
-    db = Chroma(persist_directory=CHROMA_PATH, embedding_function=hf_embeddings)
+    db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embeddings)
     results = db.similarity_search_with_relevance_scores(query, k=k)
     return results
 
 
 def get_retriever(**kwargs):
-    db = Chroma(persist_directory=CHROMA_PATH, embedding_function=hf_embeddings)
+    db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embeddings)
     retriever = db.as_retriever(**kwargs)
     return retriever
 
