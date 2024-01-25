@@ -5,7 +5,6 @@ from server import PROMPT_TEMPLATE
 import dotenv
 
 
-
 def ask_question_open_ai(question: str):
     results = query_chroma(question, k=2)
     # print(results)

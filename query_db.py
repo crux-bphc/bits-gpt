@@ -11,9 +11,9 @@ def query_chroma(query: str, k=5):
     return results
 
 
-def get_retriever():
+def get_retriever(**kwargs):
     db = Chroma(persist_directory=CHROMA_PATH, embedding_function=hf_embeddings)
-    retriever = db.as_retriever()
+    retriever = db.as_retriever(**kwargs)
     return retriever
 
 

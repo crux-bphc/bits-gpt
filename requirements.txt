@@ -17,6 +17,7 @@ charset-normalizer==3.3.2
 chroma-hnswlib==0.7.3
 chromadb==0.4.22
 click==8.1.7
+cohere==4.44
 colorama==0.4.6
 coloredlogs==15.0.1
 contourpy==1.2.0
@@ -29,6 +30,7 @@ docarray==0.40.0
 effdet==0.4.1
 emoji==2.10.0
 fastapi==0.109.0
+fastavro==1.9.3
 filelock==3.13.1
 filetype==1.2.0
 flatbuffers==23.5.26
