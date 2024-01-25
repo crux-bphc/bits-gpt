@@ -13,7 +13,7 @@ git clone https://github.com/crux-bphc/bits-gpt.git
 2. Create a virtual environment
 
 ```bash
-python -m venv venv
+python -m venv .venv
 ```
 
 3. Install dependencies
@@ -25,15 +25,15 @@ pip install -r requirements.txt
 4. Create the vector database
 
 ```bash
-python create_database.py
+python script/create_database.py
 ```
 
-5. Setup environment variables (OpenAI API Key)
+5. Setup environment variables (OpenAI API Key, Cohere API Key)
 
 6. Run the server
 
 ```bash
-python server.py
+python main.py
 ```
 
 7. Go to http://localhost:8000/talk/playground/ to open the playground
