@@ -1,0 +1,29 @@
+{
+  "average_score": 3.0,
+  "cases": [
+    {
+      "question": "Where to go for food? I missed lunch at mess.",
+      "expected_answer": "You can go to yummpy's, hotspot or vijay-vahini foods. Amul is located next to it, you can have an ice-cream dessert there.",
+      "actual_answer": "If you missed lunch at the mess, don't worry! There are plenty of options for food on campus. You can try out the various stalls near the dining halls, like Yummpy's or the other stalls outside the halls. They have delicious food options, including sandwiches, rolls, milkshakes, and more. Another option is Makers of Milkshakes, where you can enjoy tasty milkshakes. If you're looking for inexpensive food that you can get in less than ten minutes, you can also check out the special menu at Mess 1 for lunch and dinner. It's a great way to grab a quick and affordable meal. Happy eating!\n\nSource: [Arena 2020 Food Stalls Review](data\\jc_posts\\2020-01-24-arena-2020-food-stalls-review.md)",
+      "score": 3
+    },
+    {
+      "question": "Where should I buy books?",
+      "expected_answer": "Although you can buy new books from the book stores at CP, I'd recommend getting them from your seniors who'll sell them to you for cheap prices. Try not to get scammed though (ask multiple seniors)!",
+      "actual_answer": "You can buy books from seniors, who often sell them at a discount. Additionally, you can check out KARUTURI, a popular stationery shop on campus that offers a wide range of academic resources. Another option is to explore online platforms for purchasing books. (Source: WitW.md)",
+      "score": 3
+    },
+    {
+      "question": "Which clubs should I join if I'm into tech?",
+      "expected_answer": "Some tech clubs you could consider are Crux, IEEE, ARC, ACM, SEDS etc",
+      "actual_answer": "If you're into tech, there are a few clubs that might interest you. You can consider joining CRUx, which focuses on coding and machine learning, or ARC, the Automation and Robotics Club. Both clubs provide opportunities to learn and work on projects related to computing and programming. Additionally, you might want to check out IEEE, the Institute of Electrical and Electronic Engineers, which is the largest educational and scientific computing society. They work on numerous projects and train budding computing enthusiasts. These clubs can help you expand your knowledge and meet like-minded people in the tech field.\n\nSources:\n- [An Interview with the Technical Secretary](data\\jc_posts\\2020-08-20-an-interview-with-the-technical-secretary.md)\n- [What's in the Web (WITW)](data\\witw.md)",
+      "score": 3
+    },
+    {
+      "question": "Should I attend classes? The weightage is only like 10% of the course.",
+      "expected_answer": "Yes! 10% might not seem like a lot but trust me it matter a LOT. It will decide your grade in the end.",
+      "actual_answer": "Of course, you should attend your classes! Even if the weightage is only 10% of the course, attending classes has many benefits. You get to interact with your professors and peers, ask questions, and clarify any doubts you may have. Plus, you never know what valuable information or insights you might gain from attending class. So, don't skip out on those classes! \n\nSource: Academic Regulations 2023 - Section 4.01",
+      "score": 3
+    }
+  ]
+}

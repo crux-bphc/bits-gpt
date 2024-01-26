@@ -21,10 +21,6 @@
       "expected_answer": "Facebook groups such as BPHC ShoutBox, BPHC Free Expression Group and Lost and Found BPHC are among the most important groups for news and notifications"
     },
     {
-      "question": "What are some clubs that I can join?",
-      "expected_answer": "You can join, Traders, CRUx, Wall street club, SEDS, IEEE, ARC, SAE, AEOLUS, ACM and much more."
-    },
-    {
       "question": "What fests do we have on campus?",
       "expected_answer": "Fests include, Pearl, Atmos, Arena, Launchpad, Sanskriti and Verba Maximus. These happen every single year."
     }
@@ -32,8 +28,20 @@
   "complex-facts": [],
   "advice": [
     {
-      "question": "Where to go for food? I missed lunch",
+      "question": "Where to go for food? I missed lunch at mess.",
       "expected_answer": "You can go to yummpy's, hotspot or vijay-vahini foods. Amul is located next to it, you can have an ice-cream dessert there."
+    },
+    {
+      "question": "Where should I buy books?",
+      "expected_answer": "Although you can buy new books from the book stores at CP, I'd recommend getting them from your seniors who'll sell them to you for cheap prices. Try not to get scammed though (ask multiple seniors)!"
+    },
+    {
+      "question": "Which clubs should I join if I'm into tech?",
+      "expected_answer": "Some tech clubs you could consider are Crux, IEEE, ARC, ACM, SEDS etc"
+    },
+    {
+      "question": "Should I attend classes? The weightage is only like 10% of the course.",
+      "expected_answer": "Yes! 10% might not seem like a lot but trust me it matter a LOT. It will decide your grade in the end."
     }
   ],
   "opinion": []
