@@ -1,5 +1,5 @@
 # Summer term eligibility criteria
-## u/MAOJHADONG (Score: 5) (Flair: Academics)
+## u/MAOJHADONG (Score: 6) (Flair: Academics)
 Can a dualite do a summer term after 4-2 when they have done a summer term after 3rd year as well ? Would i still be able to do double ps after doing a summer term after 4,2?
 
 

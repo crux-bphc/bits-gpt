@@ -13,7 +13,7 @@ After attending Vivek's session i was randomly going through his content and sur
 For my fellaws who are still freshers in CP i think u need to go through this video i found where Vivek is guiding towards the growth in CP https://www.youtube.com/watch?v=QV8iWNC67QM&amp;t=4483s which will help you in clearing ur doubts
 
 
-### u/BigThink0 (Score: 3)
+### u/BigThink0 (Score: 4)
 Not looking for the team but I too attended the session, the guy's literal god in CP. Just found out he's an international master on CF: https://codeforces.com/profile/GodSpeed98
 
 

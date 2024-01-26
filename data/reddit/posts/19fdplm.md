@@ -21,7 +21,7 @@ What is your opinion about these points? Many Indian universities have similar p
 
 ## Comments
 
-### u/No_Guarantee9023 (Score: 31)
+### u/No_Guarantee9023 (Score: 33)
 - Mess food in US universities do provide a ton of options, but are really expensive. BITS' mess is still better than most in India, and if they do improve it to match the US' level, prices will have to increase. It will be upto the SU and SSMS student bodies to check if majority will be okay with paying more than ₹400 per meal for a buffet. Food wastage would be another issue. Plus, students don't really plan their own meals here unless they live off campus. It's the same weekly menu system.
 
 - Mobility in US universities is open because there's no campus system as such for most unis. Even those that do have a campus of their own don't have boundaries, and that increases crime rates so much. You'd be surprised at how many thefts, robberies, and other crimes happen around academic and residential buildings in the US. The system in India is meant for our own safety and protection.
@@ -29,13 +29,13 @@ What is your opinion about these points? Many Indian universities have similar p
 Rest of your points are valid.
 
 
-### u/AbjectAnalyst4584 (Score: 24)
+### u/AbjectAnalyst4584 (Score: 23)
 Fuck the hostels. These people are raking in hundreds of crores from fees, yet the facilities are non-existent.
 
 Also the time to say goodbye to zero attendance policy is nearing. I'll refrain from sharing the exact details for anonymity but its from an administrative source.
 
 
-### u/[deleted] (Score: 34)
+### u/[deleted] (Score: 33)
 [removed]
 
 

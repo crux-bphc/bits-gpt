@@ -7,7 +7,7 @@ Yeah so im looking for advice. N if any of yall wanna be my friend or just talk 
 
 ## Comments
 
-### u/Spirited-Muscle188 (Score: 14)
+### u/Spirited-Muscle188 (Score: 15)
 You can start with branching out to your wingies first, cause they're supposed to be people who you literally share a toilet with. 
 
 A nice hack to break the ice is to ask questions. Maybe academic questions and time commitment in club-related questions ought to help you start a conversation. Most people are quite nice and would never shrug off someone who has a question and is also polite. This may be a bit outside your comfort zone but you gotta try doing this.
@@ -21,7 +21,7 @@ You can also start with this. Just ask for a pen, or a pencil for starters, mayb
 the worse they can say is eww.
 
 
-### u/ogbitsian (Score: 41)
+### u/ogbitsian (Score: 38)
 Pro Tip - Befriend the Camel. During the Apocalypse, only the camel can help you get out of Pilani.
 
 
@@ -59,7 +59,7 @@ Keep doing what you think is fun , people will come.along. :)
 P.S : A quick look at your comment history tells me You are a Chem dualite. Start making chem friends asap in 2-1 , You guys will need all hands on deck to make it through the shit storm that is Chemistry.
 
 
-### u/IsThisANiceName (Score: 3)
+### u/IsThisANiceName (Score: 4)
 My man, chill out, just talk to people living beside you in your hostel, maybe go play some sport you used to, go to your cultural association, things will be way better.
 
 Also, by any chance do I know you, because I think I do.
@@ -77,7 +77,7 @@ And strike a convo nonetheless, pata hai mushkil hai lekin trust me if even one 
 If none works, kuch mahine ruk ja if I made it there merese dosti karle
 
 
-### u/Extreme_Election8324 (Score: -13)
+### u/Extreme_Election8324 (Score: -14)
 Do you play valorant/pubg/codm/gta5 or something else? I am not in bits, but I can hook you up with some of my friends, although timings would clash a lot, as we guyz play when we are all together physically.  
 
 

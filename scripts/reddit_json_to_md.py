@@ -8,7 +8,8 @@ def main():
         posts = json.load(f)
 
     for post in posts:
-        with open(EXPORT_PATH+post["id"]+".md", "w", encoding="utf-8") as f:
+        fp = EXPORT_PATH+post["id"]+".md"
+        with open(fp, "w", encoding="utf-8") as f:
             f.write("# " + post["title"]+"\n")
             f.write(f"## u/{post['author']} (Score: {post['score']}) (Flair: {post['flair']})\n")
             f.write(post["text"]+"\n")

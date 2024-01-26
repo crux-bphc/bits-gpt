@@ -1,6 +1,6 @@
 import json
 import requests
-
+import datetime
 
 SUBREDDIT_URL = "https://reddit.com/r/BITSPilani"
 EXPORT_PATH = "data/reddit/"
@@ -30,6 +30,7 @@ def get_posts(url, exclude=None):
                 "id": ch["data"]["id"],
                 "permalink": ch["data"]["permalink"],
                 "url": ch["data"]["url"],
+                "date": datetime.datetime.fromtimestamp(ch["data"]["created_utc"]).strftime("%d %B %Y"),
                 "score": ch["data"]["score"],
                 "author": ch["data"]["author"],
                 "flair": ch["data"]["link_flair_text"],
@@ -41,7 +42,7 @@ def get_posts(url, exclude=None):
 
     for post in posts:
         # Get comments
-        post_url = post["url"][:-1] + ".json"
+        post_url = "https://reddit.com" + post["permalink"][:-1] + ".json"
         try:
             comments = get_data(post_url)
             comments = comments[1]["data"]["children"]
@@ -64,10 +65,12 @@ def get_posts(url, exclude=None):
     return posts
 
 def main():
-    posts = get_posts(SUBREDDIT_URL+".json")
-    hot_posts = get_posts(SUBREDDIT_URL+"/hot.json", exclude=[post["id"] for post in posts])
+    with open(EXPORT_PATH+"posts.json", "r") as f:
+        posts = json.load(f)
+
+    new_posts = get_posts(SUBREDDIT_URL+".json?limit=100",exclude=[post["id"] for post in posts])
     
-    posts.extend(hot_posts)
+    posts.extend(new_posts)
     with open(EXPORT_PATH+"posts.json", "w") as f:
         json.dump(posts, f, indent=4)
 

@@ -5,13 +5,13 @@ How does a 9+ CG help? Is it limited only to placements? What are the other bene
 
 ## Comments
 
-### u/No_Guarantee9023 (Score: 36)
+### u/No_Guarantee9023 (Score: 37)
 Higher studies and MCN/Merit. Plus, feels nice to have a distinction mentioned on the degree.
 
 Sometimes it might be disadvantageous for placements.
 
 
-### u/Lone_Soldier_Hope (Score: 22)
+### u/Lone_Soldier_Hope (Score: 20)
 You can get Apple in PS2  and Amazon or JIO in PS1 with that CG. Also, in  placements the cut off you see on superset may say 7.5+ but when shortlisting if 2 guys perform similarly in OA, guy with better CG gets shortlisted. I have personally seen it happen in SI season.
 
 

@@ -16,7 +16,7 @@ Hey, I'm a third yearite with adhd, feel free to pm
 I relate quite a bit with all of this xD so yeah
 
 
-### u/ponzi1331 (Score: 26)
+### u/ponzi1331 (Score: 27)
 Exit tests are only 10% of the grade so even if u attend just half the classes you can still score well
 
 
@@ -28,7 +28,7 @@ I'm a first yearite too . feel free to pm. I can help if you need
 a. High cg doesn't gaurantee good placements, low cg doesn't mean you'll remain unplaced. Your happiness and sanity is way more important than a 5-10 percent grade component. People miss quizzes and still get 9s and 10s, it is okay to miss a few classes man. Live life a bit, nobody will remember you grades in Cp or gen chem, but the connections and memories that you make in college will last you a lifetime. Feel free to dm, I'm a 4th yearite from hyd itself
 
 
-### u/Obvious_Location394 (Score: 16)
+### u/Obvious_Location394 (Score: 13)
 If you really feel you can score good enough with self study, skip classes as you wish. I have friends who have A/A- while not giving most exit tests. 10% doesn’t affect your CG as much as you believe.
 
 

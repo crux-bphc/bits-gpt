@@ -31,7 +31,7 @@ And if she doesn't really text you apart from Acads , best to leave it to chance
 This sums it up. Convos are double sided. Dono hath se taali bajti Hai. If thus really is the case you're smart enough to know the exact kind of relationship you guys have.
 
 
-### u/apatheticdork (Score: 5)
+### u/apatheticdork (Score: 4)
 "friend"
 
 

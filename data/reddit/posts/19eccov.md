@@ -1,23 +1,23 @@
 # How to reach ur campus
-## u/PareshvaRv_Naidu (Score: 7) (Flair: Academics)
+## u/PareshvaRv_Naidu (Score: 8) (Flair: Academics)
 Please help I want to visit bits campus
 
 
 ## Comments
 
-### u/Haunting-Criticism76 (Score: 39)
+### u/Haunting-Criticism76 (Score: 42)
 Clear bitsat and dont clear jee et voila you have reached bits pilani :)
 
 
-### u/english_notebook69 (Score: 25)
+### u/english_notebook69 (Score: 23)
 try using google maps
 
 
-### u/Zestyclose_Toe1739 (Score: 9)
+### u/Zestyclose_Toe1739 (Score: 8)
 Most helpul bitsians.🤡
 
 
-### u/ogbitsian (Score: 11)
+### u/ogbitsian (Score: 12)
 Goa campus is 4 minutes from Airport. Easiest to reach compared to Pilani and Hyderabad 🤡
 
 
@@ -25,11 +25,11 @@ Goa campus is 4 minutes from Airport. Easiest to reach compared to Pilani and Hy
 Use a vehicle maybe
 
 
-### u/the_great_ss (Score: 6)
+### u/the_great_ss (Score: 4)
 Which one lmao
 
 
-### u/math-meth (Score: 3)
+### u/math-meth (Score: 4)
 Pilani: no one knows somewhere in the middle of a desert
 Dubai: reach Dubai
 Goa: reach airport
