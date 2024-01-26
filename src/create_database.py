@@ -24,9 +24,11 @@ def load_documents(extension="txt") -> list[Document]:
 
 def load_web_documents() -> list[Document]:
     # Sitemap Loader is taking forever and failing because of TooManyRedirects
-    # loader = SitemapLoader("https://www.bits-pilani.ac.in/sitemap_index.xml")
+    loader = SitemapLoader(web_path="https://www.bits-pilani.ac.in/campus-sitemap.xml",
+                                filter_urls=["https://www.bits-pilani.ac.in/hyderabad"],
+                                continue_on_failure=True) # filter for only hyderabad related pages
 
-    loader = WebBaseLoader("https://www.bits-pilani.ac.in/hyderabad/")
+    #loader = WebBaseLoader("https://www.bits-pilani.ac.in/hyderabad/")
     documents = loader.load()
     return documents
 
