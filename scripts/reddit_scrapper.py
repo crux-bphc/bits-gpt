@@ -12,8 +12,9 @@ def get_data(url):
     }
     data = requests.get(url, headers=headers).json()
 
-    #print(json.dumps(data, indent=4))
+    # print(json.dumps(data, indent=4))
     return data
+
 
 def get_posts(url, exclude=None):
     exclude = [] if exclude is None else exclude
@@ -25,16 +26,18 @@ def get_posts(url, exclude=None):
             continue
         c += 1
         post_obj = {
-                "title": ch["data"]["title"],
-                "text": ch["data"]["selftext"],
-                "id": ch["data"]["id"],
-                "permalink": ch["data"]["permalink"],
-                "url": ch["data"]["url"],
-                "date": datetime.datetime.fromtimestamp(ch["data"]["created_utc"]).strftime("%d %B %Y"),
-                "score": ch["data"]["score"],
-                "author": ch["data"]["author"],
-                "flair": ch["data"]["link_flair_text"],
-            }
+            "title": ch["data"]["title"],
+            "text": ch["data"]["selftext"],
+            "id": ch["data"]["id"],
+            "permalink": ch["data"]["permalink"],
+            "url": ch["data"]["url"],
+            "date": datetime.datetime.fromtimestamp(ch["data"]["created_utc"]).strftime(
+                "%d %B %Y"
+            ),
+            "score": ch["data"]["score"],
+            "author": ch["data"]["author"],
+            "flair": ch["data"]["link_flair_text"],
+        }
         posts.append(post_obj)
 
     print(f"Got {c} posts from {url}.")
@@ -59,22 +62,26 @@ def get_posts(url, exclude=None):
                 "score": comment["data"]["score"],
             }
             comments_list.append(comment_obj)
-        
+
         post["comments"] = comments_list
 
     return posts
 
+
 def main():
-    with open(EXPORT_PATH+"posts.json", "r") as f:
+    with open(EXPORT_PATH + "posts.json", "r") as f:
         posts = json.load(f)
 
-    new_posts = get_posts(SUBREDDIT_URL+".json?limit=100",exclude=[post["id"] for post in posts])
-    
+    new_posts = get_posts(
+        SUBREDDIT_URL + ".json?limit=100", exclude=[post["id"] for post in posts]
+    )
+
     posts.extend(new_posts)
-    with open(EXPORT_PATH+"posts.json", "w") as f:
+    with open(EXPORT_PATH + "posts.json", "w") as f:
         json.dump(posts, f, indent=4)
 
     print(f"Exported all posts.")
+
 
 if __name__ == "__main__":
     main()
