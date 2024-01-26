@@ -1,6 +1,40 @@
 {
-  "simple-facts": [],
+  "simple-facts": [
+    {
+      "question": "What is the meaning of lite?",
+      "expected_answer": "It is a way of life at bits, a facade to hide all your inner pain. It means that the issue is 'light' or doesn't matter, which always isn't the case. Example: How is your CG? Lite bro"
+    },
+    {
+      "question": "What is a verti?",
+      "expected_answer": "Verti is the dream that a lot of freshers have. It is the chance to get upgraded to a better branch and is awarded to highly meritorious students."
+    },
+    {
+      "question": "what is the meaning of tuts?",
+      "expected_answer": "tut means tutorial classes where you solve questions. Some tuts are evaluative like Engineering Graphics."
+    },
+    {
+      "question": "What is BST?",
+      "expected_answer": "BST stands for Bitsian Standard Time, it varies from IST by atleast 30 minutes. Every event you attend will have BST"
+    },
+    {
+      "question": "Where can I get news about events occuring on campus?",
+      "expected_answer": "Facebook groups such as BPHC ShoutBox, BPHC Free Expression Group and Lost and Found BPHC are among the most important groups for news and notifications"
+    },
+    {
+      "question": "What are some clubs that I can join?",
+      "expected_answer": "You can join, Traders, CRUx, Wall street club, SEDS, IEEE, ARC, SAE, AEOLUS, ACM and much more."
+    },
+    {
+      "question": "What fests do we have on campus?",
+      "expected_answer": "Fests include, Pearl, Atmos, Arena, Launchpad, Sanskriti and Verba Maximus. These happen every single year."
+    }
+  ],
   "complex-facts": [],
-  "advice": [],
+  "advice": [
+    {
+      "question": "Where to go for food? I missed lunch",
+      "expected_answer": "You can go to yummpy's, hotspot or vijay-vahini foods. Amul is located next to it, you can have an ice-cream dessert there."
+    }
+  ],
   "opinion": []
 }
