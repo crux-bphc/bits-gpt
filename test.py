@@ -31,7 +31,10 @@ for obj in category_data:
     dataset["answer"].append(result.content)
 
     c += 1
-    print(f"Generating dataset for {category} | {c/len(category_data)*100:0.2f}%", end="\r")
+    print(
+        f"Generating dataset for {category} | {c/len(category_data)*100:0.2f}%",
+        end="\r",
+    )
     time.sleep(3)
 
 print("\Starting evaluation...\n")
@@ -47,7 +50,7 @@ Expected answer: {expected_answer}
 """
 
 total_score = 0
-results = {"average_score":0, "cases": []}
+results = {"average_score": 0, "cases": []}
 for case in range(len(dataset["question"])):
     print(f"Test Case {case+1}:")
     print(f"Question: {dataset['question'][case]}")
@@ -55,7 +58,13 @@ for case in range(len(dataset["question"])):
     print(f"Actual answer: {dataset['answer'][case]}")
     print("\n\n")
     time.sleep(2)
-    result = model.invoke(EVALUATION_PROMPT.format(question=dataset['question'][case], answer=dataset['answer'][case], expected_answer=dataset['ground_truths'][case][0]))
+    result = model.invoke(
+        EVALUATION_PROMPT.format(
+            question=dataset["question"][case],
+            answer=dataset["answer"][case],
+            expected_answer=dataset["ground_truths"][case][0],
+        )
+    )
     print("Rated Score:", result.content, "\n\n")
     try:
         score = int(result.content)
@@ -73,7 +82,7 @@ for case in range(len(dataset["question"])):
     results["cases"].append(case)
     time.sleep(1)
 
-results["average_score"] = total_score/len(dataset["question"])
+results["average_score"] = total_score / len(dataset["question"])
 
 with open(f"tests/results-{category}.json", "w") as f:
     json.dump(results, f, indent=2)

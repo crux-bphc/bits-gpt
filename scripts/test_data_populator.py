@@ -1,13 +1,14 @@
 import json
 
-'''
+"""
 {
   "simple-facts": [],
   "complex-facts": [],
   "advice": [],
   "opinion": []
 }
-'''
+"""
+
 
 def add_data(category, question, answer):
     with open("tests/test_cases.json", "r") as handle:
@@ -16,10 +17,11 @@ def add_data(category, question, answer):
     if category not in data:
         print("Category invalid")
         return
-    
-    data[category].append({"question":question, "expected_answer":answer})
+
+    data[category].append({"question": question, "expected_answer": answer})
     with open("tests/test_cases.json", "w") as output:
         json.dump(data, output, indent=2)
+
 
 def main():
     while True:
@@ -28,7 +30,7 @@ def main():
         question = input("Enter question: ")
         answer = input("Enter answer: ")
 
-        if category == 'exit' or question == 'exit' or answer == 'exit':
+        if category == "exit" or question == "exit" or answer == "exit":
             break
 
         add_data(category, question, answer)
