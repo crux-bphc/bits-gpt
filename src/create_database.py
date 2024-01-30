@@ -73,9 +73,10 @@ def generate_data_store():
 
     chunks.extend(web_chunks)
 
-    # bulletin data
-    file_handle = open("data\\bulletin_dumps\\bulletin_page_split.pickle", "rb")
-    bulletin_chunks = pickle.load(file_handle)
+    # bulletin data    
+    with open("data\\bulletin_dumps\\bulletin_page_split.pickle", "rb") as file_handle:
+        bulletin_chunks = pickle.load(file_handle)
+        
     chunks.extend(bulletin_chunks)
 
     print("Saving to Chroma...")
