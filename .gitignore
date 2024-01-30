@@ -4,5 +4,7 @@ chroma/
 
 .venv
 
+.vs
+
 __pycache__/
 
