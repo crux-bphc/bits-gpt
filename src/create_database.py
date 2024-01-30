@@ -9,6 +9,7 @@ from langchain_community.document_loaders import (
 )
 from langchain.vectorstores.chroma import Chroma
 from embeddings import get_embeddings
+import pickle
 
 CHROMA_PATH = "chroma"
 DATA_PATH = "data"
@@ -71,6 +72,12 @@ def generate_data_store():
     web_chunks = split_text(web_documents)
 
     chunks.extend(web_chunks)
+
+    # bulletin data
+    file_handle = open("data\\bulletin_dumps\\bulletin_page_split.pickle", "rb")
+    bulletin_chunks = pickle.load(file_handle)
+    chunks.extend(bulletin_chunks)
+
     print("Saving to Chroma...")
     save_to_chroma(chunks)
 
