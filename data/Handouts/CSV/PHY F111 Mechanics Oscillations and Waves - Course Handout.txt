@@ -1,0 +1,231 @@
+ 
+SECOND SEMESTER 2023-2024 
+Course Handout Part-I 
+Date: 09-01-2024 
+  
+In addition to part I (General handout for all courses appended to the timetable) this portion gives further details 
+regarding the course.  
+Course Number : PHY F111  
+Course Title : MECHANICS, OSCILLATIONS & WAVES  
+Instructor-in-Charge : SUBHADEEP ROY 
+Instructors : P. K. Thiruvikraman, Sankar Davuluri, Rickmoy Samanta, Suvadip Das, Tanay Nag. 
+ 
+Course Description: “Mechanics, Oscillations, and Waves” serves as a fundamental course in physics for 
+science and engineering. This course, consisting of a series of lectures coupled with several demonstrations, 
+provides a good, sound, working knowledge of the following topics: polar coordinates, angular momentum, 
+central force motion, harmonic oscillator, coupled oscillations, waves and wave equation. 
+ 
+Scope & Objective: Newtonian mechanics, the oldest branch of physics, is rather robust and possesses a very 
+solid foundation. The phenomena of oscillations and waves have always been intriguing and are ubiquitous in 
+the world around us. A course on “Mechanics, Oscillations, and Waves” is indispensable to understand other 
+branches of science and engineering and serves as one of the stepping stones for scientific, engineering and 
+medical research and development. The wide-ranging spectrum of subject matter of this course provides a 
+foundation for advanced level physics courses. The objective of this course is to develop good physics problem-
+solving skills by building a deep conceptual understanding of the subject. 
+ 
+ Text Books:  
+1. An Introduction to Mechanics, by D. Kleppner and R. Kolenkow, Cambridge University Press, Second 
+edition 2021.  
+2. French, Anthony P French, Vibrations and Waves, CBS, 2003.  
+ 
+Reference Books:  
+1. Physics Vol I & II, Halliday/Resnick/Krane 5th   Edition, John Wiley, 2003.  
+2. Berkeley Physics Course Volume I, Tata-McGraw Hill.  
+3. Berkeley Physics course volume III, Tata-McGraw Hill 
+4. Feynman lectures on Physics, Vol I, Addison-Wesley 
+ 
+Learning Outcomes: 
+1. Ability to draw free body diagrams with knowledge of constraints and forces and solve the equation of 
+motion. 
+2. Application of Newton’s laws to planetary motion. 
+3. Ability to analyze and understand oscillatory mechanical systems which are coupled. 
+4. To understand Interference and diffraction phenomena 
+ 
+Lecture 
+Number 
+Learning Objectives 
+Topics to be covered 
+Suggested 
+Chapter/Section 
+1 
+Introduction 
+The Spirit of Newtonian Mechanics 
+CLASS NOTE 
+2-3 
+Vectors and Kinematics 
+Velocity and Acceleration, Motion 
+in Plane Polar Coordinates 
+1.7-1.11  (TB1) 
+4-8 
+To understand the concept of 
+Angular Momentum and to study 
+rotation of a rigid body about a fixed 
+axis 
+Angular Momentum, Torque, Fixed 
+axis rotation, Physical Pendulum 
+7.1-7.9 (TB1) 
+9-14 
+Understand Central Force Motion 
+Central 
+force 
+motion, 
+Energy 
+diagrams, 
+planetary 
+motion, 
+Kepler’s laws 
+10.1-10.6 (TB1) 
+15-16 
+Calculate 
+frequency 
+of 
+small 
+oscillations for arbitrary potentials 
+Introduction and review of SHM, 
+Energy diagrams, Small oscillations 
+in a bound system 
+5.5-5.7, 11.1-11.2 
+(TB1) 
+17-18 
+Damped harmonic oscillator 
+Lightly damped, heavily damped, 
+and critically damped oscillations, Q 
+factor 
+11.3 (TB1) 
+19-20 
+Forced harmonic oscillator 
+Undamped 
+forced 
+oscillator, 
+resonance, forced damped oscillator, 
+Q factor 
+11.4-11.6 (TB1) 
+21-23 
+To learn how vibrations can be 
+combined to give more general 
+vibrations leading to beats. 
+Superposed vibrations in 1D, two 
+superposed vibrations of equal and 
+unequal 
+frequencies, 
+beats, 
+Lissajous figures 
+Chapter 2 – pages 
+19-39 (TB2) 
+24-25 
+To analyze the behavior of undamped 
+coupled harmonic oscillators. Define 
+normal modes and describe how they 
+may be combined. 
+Coupled oscillators, normal modes, 
+forced coupled oscillators 
+Chapter 5 (TB2) 
+Pages: 119-135 
+26-28 
+To find the normal modes of coupled 
+pendulums. 
+To 
+determine 
+the   
+motion of coupled pendulums from 
+their initial conditions.  
+Matrix method for finding normal 
+mode 
+frequencies, 
+matrices, 
+eigenvalues and eigenvectors 
+Class notes 
+29-32 
+To learn how to set up the wave 
+equation. To learn how a normal 
+mode of vibration of a stretched 
+string is describable as a combination 
+of two progressive waves. To find the 
+total energy associated with one 
+complete wavelength of a sinusoidal 
+wave on a stretched string.  
+The free vibrations of stretched 
+string, 
+Progressive 
+Waves, 
+the 
+energy in a mechanical wave, phase 
+and group velocity 
+Chapter 6 – TB2 
+(Pages: 161-170) 
+Chapter 7 (Pages: 
+201-212) – TB2 
+33-34 
+To distinguish between particle and 
+wave/phase velocity. 
+Superposition of waves, energy in 
+mechanical wave 
+Pages 213-215, 
+230-234, 237-242 
+(TB2) 
+35-40 
+To 
+describe 
+interference 
+from 
+multiple sources. Study diffraction 
+grating and diffraction by a single 
+and double slit. 
+Reflection 
+of 
+wave 
+pulses, 
+Interference from two and more than 
+two sources, diffraction grating, 
+diffraction by a single slit 
+Chapter 8 (TB2) 
+Pages: 253-
+259,267-274, 280-
+298 
+ 
+ 
+Evaluation Scheme: 
+S. No.  Evaluation Component  Duration  
+Weightage (%)  
+Date & Time  
+Nature of 
+Component  
+1  
+Mid semester Test  
+90 mins.  
+30 
+12/03 - 2.00 - 
+3.30PM 
+Open Book  
+2  
+Quizzes * 
+50 mins. 
+20  
+ 
+Closed book 
+3 
+Classroom 
+participation 
+ 
+10 
+ 
+Open book 
+4 
+Comprehensive 
+Examination  
+3 hours.  
+40 
+08/05 AN 
+Closed Book  
+ 
+* Two quizzes will be conducted and the best performance will be considered. No make-up for the quizzes. 
+Details about the “classroom participation” component will be announced in the respective classes. 
+● Chamber Consultation Hour: To be announced in class.  
+● Notices: Notices will be posted on CMS.  
+● Make up Policy: Make up for Mid sem and Compre exam only for exceptional circumstances. 
+● Academic Honesty and Integrity Policy: Academic honesty and integrity are to be maintained by all the students 
+throughout the semester and no type of academic dishonesty is acceptable. 
+ 
+ 
+               
+ Instructor-in-Charge – PHYF111        

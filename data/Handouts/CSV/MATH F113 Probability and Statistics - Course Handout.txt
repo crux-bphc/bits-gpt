@@ -1,0 +1,287 @@
+ 
+SECOND SEMESTER 2023 - 2024 
+Course Handout Part II 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+09-01-2024 
+In addition to Part I (General Handout for all courses appended to the time table) portion: 
+Course Number 
+ 
+: MATH F113 
+Course Title  
+ 
+: PROBABILITY & STATISTICS 
+Instructor-In charge  
+: Nirman Ganguly 
+Instructors                             : D K Satpathi, Sayan Ghosh, Sabyasachi Dey, Farida Parvez Barbhuiya, PTV 
+Praveen Kumar, Manish Kumar, B Mishra, K Venkata Ratnam, Jagan Mohan J,  
+N. Kishore Kumar, Sumit Kumar V, Santanu Koley, Sajith P, Tathe Kartik Vilasrao, Bhawna, Subhendu Paul,  
+Sneha Pradhan, Gaurav Narayanrao Gadbail, Dhrubajyoti Sarkar, Debasmita Mohanty, Sayantan Ghosh, 
+Ashwini S, Shravani Rao, Lakhan Valmik Jaybhaye, Animesh Singh, Suman Prabha Yadav, Komal Kumar, 
+Md Imdadul Islam, Rabindranath Chakrabortty, Sushil Pathak.  
+ 
+ 
+1.   Scope and objective of the course: 
+Probability theory deals with many real-life problems, which either inherently involve the chance phenomena or 
+describing the behaviour of the system explicitly with statistical properties. Interpretation of the system behaviour 
+in many engineering and sciences depends on concept of probability and statistics that familiarize with the 
+computational and analytical aspects. The course deals with the basic properties of various distributions and other 
+related things. 
+2. Text Books: 
+Jay L Devore, Probability and Statistics for Engineering and the Sciences, 9th Edition, Cengage Learning, 
+2016. 
+3. Reference Books:  
+1. Johnson, R.A.: Miller & Freund’s Probability and Statistics for Engineers, 9th. Ed., Pearson, 2017. 
+2. Sheldon M. Ross: Introduction to Probability and Statistics for Engineers and Scientists, Fourth Edition, 
+Elsevier, Academic Press, 2010. 
+3. Walpole, R.E., Myers R.H., Myer S.L., Ye K.: Probability and Statistics for Engineers and Scientists, 8th 
+Edition, Pearson Education, 2008. 
+4. Lecture Plan: 
+Lecture 
+Learning Objectives 
+Topics to be covered 
+Chapter in 
+the 
+Text 
+Book 
+1-3 
+Probability 
+theory 
+makes 
+predictions 
+about 
+experiments 
+whose outcomes depend upon 
+chance.   
+How to state the three axioms of 
+probability and use them to derive 
+basic facts about a probability 
+function. 
+Learn 
+about 
+three 
+approaches 
+of 
+defining 
+probabilities 
+and 
+their 
+interpretations. 
+Introduce 
+conditional Probability and its 
+applications 
+Quick Review of the following Concepts 
+ 
+Introduction to probability, sample spaces 
+and events, Axioms, Interpretations and 
+Properties 
+of 
+Probability, 
+Conditional 
+Probability, Independence. 
+ 
+2.1-2.5 
+4-5 
+To gain knowledge on how to 
+define a random variable and 
+identify various important and 
+commonly 
+used 
+discrete 
+distributions. 
+Random 
+Variables, 
+Probability 
+Distributions 
+for 
+Discrete 
+Random 
+Variables, 
+Expected 
+Values, 
+Moment 
+Generating Function (MGF) 
+3.1, 3.2, 3.3, 
+ 5.11 (R-1) 
+6-9 
+The Binomial Probability Distribution, 
+Hypergeometric and Negative Binomial 
+3.4, 3.5, 3.6 
+Distributions, Geometric Distribution, The 
+Poisson Probability Distribution 
+10-12 
+To gain knowledge on various 
+important and commonly used 
+continuous distributions 
+Continuous 
+Random 
+Variables, 
+Probability 
+Density 
+Functions, 
+Cumulative Distribution Functions and 
+Expected Values, Moment Generating 
+Function (MGF) 
+4.1, 4.2, 
+5.11(R-1) 
+13-17 
+To gain knowledge on most 
+important continuous distribution 
+(Normal distribution) and its 
+applications in real life. 
+The Normal Distribution, The Exponential 
+and Gamma Distributions, Chi-Square, Log 
+Normal Distributions and Transformation 
+Methods to Obtain Distributions. 
+4.3, 4.4, 4.5, 
+6.7 (R-1) 
+18-19 
+Introduce simulation and how to 
+simulate complex systems. 
+Simulation – Discrete and Continuous 
+random variables 
+4.10 (R-1), 
+5.14 (R-1) 
+20-22 
+Develop 
+probability 
+models 
+involve several random variables 
+simultaneously 
+Jointly Distributed Random Variables, 
+Expected 
+Values, 
+Covariance, 
+and 
+Correlation 
+5.1, 5.2 
+23-25 
+Introduce Statistics and their 
+distributions. 
+Statistics and Their Distributions, The 
+Distribution of the Sample Mean, The 
+Distribution of a Linear Combination 
+5.3, 5.4, 5.5 
+26-27 
+How to estimate population’s 
+parameters. 
+Some 
+General 
+Concepts 
+of 
+Point 
+Estimation, Methods of Point Estimation 
+6.1, 6.2 
+28-31 
+Basic Properties of Confidence Intervals, 
+Large-Sample Confidence Intervals for a 
+Population Mean and Proportion, Intervals 
+Based 
+on 
+a 
+Normal 
+Population 
+Distribution, Confidence Intervals for the 
+Variance and Standard Deviation of a 
+Normal Population 
+7.1, 7.2, 7.3, 
+7.4 
+32-34 
+Introduce concepts of hypothesis 
+testing and its applications in real 
+world problems 
+Hypotheses, Test Procedures and P-values, 
+z-tests for hypothesis about a Population 
+Mean 
+8.1, 8.2 
+35-37 
+One sample t-test, Tests Concerning a 
+Population Proportion 
+8.3, 8.4 
+38-40 
+Objective is how to exploit the 
+relationship between two or more 
+variables 
+ 
+ 
+by 
+introducing 
+predictive models. 
+The Simple Linear Regression Model, 
+Estimating Model Parameters, Correlation 
+12.1,12.2,12.5 
+ 
+5. Evaluation Scheme: 
+Evaluation Component 
+Duration 
+Weightage 
+Date & Time  
+ Nature of Component 
+ 
+Classroom Participation 
+ 
+10% 
+ 
+ 
+Quiz- 1 
+ 
+To 
+be 
+announced 
+in the class 
+10% 
+ 
+ 
+ 
+To be announced 
+in the class 
+Closed Book 
+ 
+ 
+Mid Semester Examination 90 mins 
+30% 
+13/03 - 9.30 - 
+11.00AM 
+Open book 
+ 
+Quiz- 2 
+ 
+To 
+be 
+announced 
+in the class 
+10% 
+ 
+ 
+To be announced 
+in the class 
+Closed Book 
+ 
+ 
+Comprehensive Examination 
+180 mins 
+40% 
+ 
+10/05 AN 
+Closed Book 
+Total Marks: 200 
+ 
+6. Chamber consultation hour:  To be announced in the class.  
+7. Notices: The notices concerning this course will be displayed on the CMS Notice Board only.   
+8. Make-up Policy: Make-up will be given only for very genuine cases and prior permission has to be obtained from the 
+I/C. 
+Academic Honesty and Integrity Policy: Academic honesty and integrity are to be maintained by all the students 
+throughout the semester and no type of academic dishonesty is acceptable. 
+ 
+Instructor In charge 
+MATH F113 

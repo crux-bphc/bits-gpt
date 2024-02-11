@@ -1,0 +1,42 @@
+,0,1,2,3,4
+0,,,,,Chapters
+1,Lect.,,,,
+2,,Learning Objectives,,Topics to be covered,in Text
+3,No.,,,,
+4,,,,,Book
+5,,,,capacitors and their integral relations,
+6,,,,ships.,
+7,,,,"KCL, KVL; Current divider, Voltage",
+8,,,,"divider rule, Instantaneous power",
+9,6-9,To study circuit analysis,,"Mesh and Nodal Analysis,","2.1 to 2.4,"
+10,,techniques and theorems.,,Thevenin’s and Norton’s Theorems,2.5
+11,,,,Source transformation and Maximum,
+12,,,,"Power Transfer Theorem,",
+13,10,To study circuit analysis,Linearity and Superposition application in circuit,,2.6
+14,,techniques and theorems.,analysis.,,
+15,11-15,Time Domain Analysis,,First order circuits and natural response;,3.1 to 3.5
+16,,,,First order circuits and complete,
+17,,,,response.,
+18,,,,Second Order Circuits,
+19,16-20,Alternating current,,"A.C. Voltage & Current,",4.1-4.5 and
+20,,circuits,,"Complex numbers,",5.1
+21,,,,Frequency and Time Domain analysis.,
+22,21-23,Alternating current,"Power and Power-factors, Poly-Phase circuits",,4.6 to 4.7
+23,,circuits,,,
+24,24-27,Magnetic Circuits,,Fundamentals of Electromagnetics.,13.1 to 13.7
+25,,,,Series and parallel magnetic circuits.,
+26,,,,Laws of Electromagnetic induction.,
+27,,,,"Principle of a Transformer, ideal",
+28,,,,operation with phasor diagram,
+29,,,,"Losses calculation, rating, OC and SC",
+30,,,,tests.,
+31,28-32,Electrical Machines,,DC Motors and generators,"15.1, 15.2"
+32,,,,AC Motors and generators,
+33,33-35,Digital Electronics,,"Binary numbers, Binary Arithmetic,",12.1 to 12.4
+34,,,,Digital logic circuits and Boolean algebra,
+35,36-38,Basic Electronics,,"Types of materials, classification of",6.1-6.8
+36,,,,"semiconductors, doping, introduction to",
+37,,,,semiconductor devices – diodes and,
+38,,,,transistors,
+39,39-42,Bipolar Junction,,Basic operation of pnp and npn,7.1-7.3
+40,,Transistors,,"transistors, cutoff and saturation",

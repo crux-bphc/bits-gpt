@@ -1,0 +1,393 @@
+ 
+ 
+ 
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani 
+ 
+Hyderabad Campus 
+ 
+ 
+ 
+ 
+Please Consider Your Environmental Responsibilities 
+Do Not Print Unless Necessary 
+ 
+SECOND SEMESTER 2023-2024 
+Course Handout (Part-II) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+09-01-2024                     
+ 
+ 
+In addition to Part-I (General Handout for all Courses appended to the time table) this portion 
+gives further specific details regarding the Course. 
+ 
+Course No.: MATH F112 
+ 
+ 
+Course Title: MATHEMATICS-II 
+ 
+Instructor-In charge : Nijjwal Karak 
+ 
+Instructors                :  A Michael Alphonse, Nijjwal Karak, Anil Nemili, Debopam 
+Chakraborty, Pratyusha Chattopadhyay, Sharan Gopal, Deepika, PK 
+Sahoo, Jhuma Sen Gupta, TSL Radhika, K Bhargav Kumar, G Murali 
+Mohan Reddy, Rohit Gupta, Sushil Bhunia, Ruddarraju Amrutha, 
+Lokesh Kumar Duchaniya, Debismita Nayak, Rahul Vijay Bhagat, 
+Ankur Pandey, Sandhya Mel, Ameya kolhatkar, Sai Swagat Mishra, 
+Moreshwar Jagadeorao Tayde, Nitin Kumar Sharma, Akankshya Sahu,  
+Aadiq Mohi Ud Din Bhat,  Amritanshu Rai,  Dheeraj Singh Rana, 
+Shubham Atmaram Narawade, Sunita Kumawat, Mayuri Verma 
+ 
+1. Scope and Objective of the Course: The course is meant as an introduction to Linear 
+Algebra and Theory of Functions of Complex Variable and their applications. 
+ 
+2. Course Description: System of linear equations, Eigenvalues and eigenvectors, Vector 
+spaces, Basis and dimension of vector spaces, Linear transformations, Range and kernel. 
+Function of complex variables and their analyticity, Elementary functions, Integration, Taylor 
+and Laurent series expansions, Calculus of residues and its applications.     
+ 
+3. Text Books: 
+ 
+(i)   Linear Algebra with applications by G. Williams, 9th Edition, Jones & Bartlett Learning.   
+(ii) Complex Variables and Applications by R.V. Churchill and J.W. Brown, 8th Edition, 
+McGraw-Hill Education. 
+ 
+4. Reference Books: 
+ 
+(i)  Elementary Linear Algebra by Stephen Andrilli and David Hecker, 4th Edition, Elsevier 
+(ii)   Elementary Linear Algebra, Applications version by H. Anton and C. Rorres, 10th 
+Edition, John Wiley. 
+(iii)A First Course in Complex Analysis with Applications by Dennis G. Zill & Patrick 
+Shanahan, 2nd Edition, 2009, Jones & Bartlett. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani 
+ 
+Hyderabad Campus 
+ 
+ 
+ 
+ 
+Please Consider Your Environmental Responsibilities 
+Do Not Print Unless Necessary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. Course Plan: 
+ 
+Lec. 
+No. 
+Learning Objectives 
+Topics to be covered 
+Chapter in 
+the Text 
+Book 
+A. LINEAR ALGEBRA (Text Book (i)) 
+1 
+Introduction 
+to 
+the 
+Course 
+and 
+introduction to system of linear 
+equations 
+ 
+Elementary row operations and 
+Echelon form 
+1.1 
+2-3 
+Inverse of a matrix, Solving system of 
+linear 
+equations 
+and 
+computing 
+Eigenvalues and Eigenvectors 
+Solutions of linear systems of 
+equations by Gauss Elimination, 
+Gauss-Jordan 
+method. 
+RREF, 
+Eigenvalues and Eigenvectors 
+1.1-1.2 
+2.4,3.4 
+4-12 
+Introduction to abstract vector spaces, 
+finite and infinite dimensional vector 
+spaces and related concepts.         
+Vectors 
+in 
+ℝn, 
+linear 
+combination, 
+linear 
+independence, 
+Vector 
+spaces, 
+*Examples of unusual Vector 
+spaces, subspaces, basis and 
+dimension, 
+**Shrinking 
+a 
+linearly dependent set to a Basis, 
+**Extending 
+a 
+linearly 
+independent set to a Basis,  Rank 
+of a matrix        
+4.1-4.5  
+*R1 : 4.1 
+**R1: 4.6 
+13-14 
+Understanding the change of basis 
+Coordinate vectors and change of 
+Basis 
+5.1 
+15-17 
+Introduction to linear transformations, 
+examples of linear transformations.. 
+Linear transformations, kernel 
+and 
+range 
+of 
+linear 
+transformation, 
+Isomorphism, 
+Some matrix transformations 
+4.8- 4.10 
+2.5, 2.6 
+18-19 
+Understanding the link between linear 
+transformations and matrices. 
+Matrix 
+of 
+a 
+Linear 
+Transformation 
+5.2 
+B. COMPLEX VARIABLES (Text Book (ii)) 
+ 
+Revision of complex numbers and 
+their properties. 
+Review (Self  Study) 
+1-9 
+20-21 
+Introduction 
+to 
+functions 
+of 
+a 
+complex 
+variable. 
+Evaluation 
+of 
+limits in complex plane. Testing 
+continuity 
+of 
+complex 
+valued 
+functions. 
+Functions of a complex variable. 
+Limit and continuity 
+10-12, 15-
+18 
+22-25 
+Introduction to analytic functions. 
+Singular points of a complex valued 
+Derivative, 
+CR-equations, 
+analytic 
+functions, 
+Harmonic 
+19-26 
+ 
+ 
+ 
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani 
+ 
+Hyderabad Campus 
+ 
+ 
+ 
+ 
+Please Consider Your Environmental Responsibilities 
+Do Not Print Unless Necessary 
+ 
+function. 
+functions    
+26-29 
+Study of elementary functions. These 
+functions occur frequently all through 
+the 
+complex 
+variable 
+theory. 
+Understanding 
+multiple 
+valued 
+function, branch cut and branch point 
+Exponential, 
+trigonometric, 
+hyperbolic 
+and 
+Logarithmic 
+functions, complex exponents, 
+inverse functions. 
+29-36 
+30-31 
+Integrating along a curve in complex 
+plane. 
+Contour 
+integrals, 
+anti-
+derivatives.   
+37-44 
+32-33 
+Techniques to find integrals of 
+different functions over particular 
+contours. 
+Cauchy-Goursat 
+Theorem, 
+Cauchy 
+Integral 
+Formula, 
+Morera’s Theorem, Liouville’s 
+Theorem.  
+46,48-52 
+ 
+Application of complex variable 
+theory in Abstract Algebra. 
+Fundamental Theorem of 
+Algebra (Self Study) 
+53 
+34-35 
+Series expansion of a complex 
+function, To study different types of 
+singular points. 
+Taylor Series and Laurent series.   57,59, 
+60,62                    
+36-38 
+Calculating 
+residues 
+at 
+isolated 
+singular points. 
+Residues, Residue Theorem.   
+68-76 
+39-40 
+Application of complex integration to 
+evaluate improper real integral. 
+Improper real integrals. 
+78-79              
+ 
+6. Evaluation Scheme: 
+ 
+EC
+No. 
+Evaluation 
+Component 
+Duration 
+Weightage 
+(%) 
+Date 
+Nature 
+of 
+Compon
+ent 
+1. 
+Assignment I 
+To be announced 
+later 
+10 
+To be announced 
+later 
+Open 
+Book 
+2. 
+Mid Semester Exam 
+90 min. 
+30 
+11/03 - 11.00 - 
+12.30PM 
+Closed 
+Book 
+3. 
+Assignment II 
+To be announced 
+later  
+10 
+To be announced 
+later 
+Open 
+Book 
+4. 
+Classroom 
+Participation 
+To be announced 
+later 
+10 
+To be announced 
+later 
+Open 
+Book 
+5. 
+Comprehensive Exam 
+ 
+180 min. 
+40 
+06/05 AN 
+Closed 
+Book 
+ 
+7.  Notices: All notices about the course will be displayed on CMS. 
+8.  Chamber Consultation Hour: To be announced in the class by the respective Instructors. 
+9.Make-up Policy:Prior permission is needed for makeup; makeup will be given only for 
+genuine cases. 
+10. Total marks: 300 
+ 
+Academic Honesty and Integrity Policy: Academic honesty and integrity are to be 
+maintained by all the students throughout the semester and no type of academic dishonesty is 
+acceptable. 
+ 
+ 
+ 
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani 
+ 
+Hyderabad Campus 
+ 
+ 
+ 
+ 
+Please Consider Your Environmental Responsibilities 
+Do Not Print Unless Necessary 
+ 
+ 
+ 
+Instructor-In-Charge 
+ 
+ 
+ 
+ 
+ 
+ 
+MATH F112 

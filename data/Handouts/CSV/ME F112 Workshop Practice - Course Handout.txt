@@ -1,0 +1,225 @@
+ 
+SECOND SEMESTER 2023-2024 
+COURSE HANDOUT (PART-II) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date: 09/01/2024 
+ 
+In addition to Part-I (General Handout for all courses appended to the timetable) this portion gives specific details 
+regarding the course. 
+ 
+Course No. 
+ 
+:  
+ME F112 
+Course Title 
+ 
+: 
+Workshop Practice 
+Instructor-in-charge 
+:  
+Dr. Sujith R 
+1. Course description (as given in the Institute Bulletin): 
+Engineering materials, casting, forming, machining, joining, powder metallurgy, additive manufacturing, plastic 
+ processing, various other manufacturing processes and related laboratory exercises. 
+2. Scope and Objective of the Course: 
+This course is required for all first-degree students at first year level. The course will provide an overview of the 
+techniques and applications of basic manufacturing processes used for producing finished articles from raw materials. 
+The course is practice-orientated and requires that basic skills in handling of tools, machines and machine tools used 
+in different manufacturing processes are acquired through the hands-on experience. The practical knowledge is 
+supplemented by the lectures to provide the knowledge and genesis of various manufacturing processes. The primary 
+objective of this course is to learn how the physical artifacts we use are manufactured and gain technical knowledge 
+and skills. Much of the knowledge in the course is conceptual and no great mathematics is involved. This knowledge 
+will be useful in whatever discipline the students are going to specialize. 
+  
+3. Books: 
+ 
+(i) Laboratory Manual: Practical Manual for Workshop Practice, EDD, BITS Pilani, 2008. 
+(ii) Textbook: 
+(1) 
+B S Nagendra Parashar and R K Mittal, Elements of Manufacturing Processes, Prentice Hall of 
+India, 2008. 
+      Reference Books: 
+(i) 
+Mikell P.Groover, “Fundamentals of Modern Manufacturing”, Second edition, John Wiley& sons 
+Pvt Ltd. Campbell J.S., Principles of Manufacturing Materials and Processes, Tata McGraw-Hill, 
+New Delhi, 1995. 
+(ii) 
+Richard R. Kibbe et all, Machine Tool practices, Sixth edition, Prentice Hall of India Pvt. limited, 
+New Delhi, 2003. 
+(iii) 
+E. Paul Degarmo, J.T. Black, Ronald A. kosher, Materials and processes in Manufacturing, PHI 
+2005. 
+(iv) 
+Choudhary H., "Elements of Workshop Technology", (Vols I & II), Media Promoters and 
+Publishers, Bombay. 
+ 
+4. Course Plan: 
+ 
+Lec # 
+Learning Objectives 
+Topics to be covered 
+Chapter 
+in the 
+Text 
+Book 
+1-2 
+ 
+Introduction, Engineering 
+Materials, 
+Role of measurements and Quality 
+Basics, ethics and safety in workshop, Material 
+properties, Mechanical properties, Common engineering 
+materials, Metrology, Quality, Limits & fits, Examples. 
+T1-1 
+T1-2 
+T1-3 
+3 
+Production of parts by casting 
+processes 
+Casting processes, Pattern making. Moulding, Moulding 
+sands. 
+T1-11 
+4 
+Casting processes 
+Pattern allowances, Examples. Yield, Cooling rate, 
+defects 
+T1-11 
+5 
+Metal cutting basics 
+Metal cutting, Machine tools, Cutting tools, Tool 
+material. 
+T1-4 
+6 
+Metal cutting basics 
+Types of tools, Tool geometry, Chips, Tool life. 
+T1-4 
+7 
+Lathe machine tool 
+Lathe machine tool, Turning and other operations. 
+T1-5 
+Lec # 
+Learning Objectives 
+Topics to be covered 
+Chapter 
+in the 
+Text 
+Book 
+8 
+Metal cutting & Lathe operations 
+Hole making & allied operations 
+Operating conditions, MRR, Examples 
+T1-5 
+T1-6 
+9 
+Production of flat surfaces 
+Shaping & planning machines 
+T1-7 
+10 
+Production of complex surfaces 
+Milling machine, Types of milling operations, Operating 
+conditions, Milling operations, MRR, Examples. 
+T1-8 
+11 
+Producing fine surface finish, 
+Grinding and fine finishing process 
+Abrasives, 
+Grinding, 
+Grinding 
+wheel, 
+Grinding 
+machines, fine finishing operations. 
+T1-9 
+ 
+12 
+Production of parts by forming 
+processes, Sheet metal working 
+Metal forming processes, Rolling, Extrusion, Forging, 
+Punches and dies,  Sheet metal operations 
+T1-12 
+T1-13 
+13-14 
+Powder metallurgy, 
+Mechanical joining processes 
+Metal powders: mixing, compaction, sintering, etc. 
+Mechanical joining, Welding (arc, gas), Soldering, 
+Brazing, Fasteners, Examples. 
+T1-14 
+T1-15 
+15 
+Additive manufacturing and 
+Plastics in manufacturing 
+Processing of plastics, Types of plastics, Processing. 
+T1-16 
+ 
+ 
+5. Evaluation Scheme: 
+ 
+6. Laboratory: 
+The practical work contributes fifty percent directly and much more indirectly; therefore, it must be carried out 
+seriously. The practicals are intended to provide experience in handling of basic tools, machine tools and make simple 
+utility jobs. Laboratory marks mentioned includes marks for models (viva) and attendance in practicals. Details of 
+practical are available in the “Laboratory Manual”. 
+ 
+ 
+7. Chamber Consultation Hour: To be announced in the class. 
+ 
+8. Notices concerning the course: All notices concerning the course will be displayed on the CMS notice board. 
+ 
+9. Make-up Policy: Maximum 2 makeups will be permitted for the lab exercises. Makeups will be permitted for 
+other evaluation components only for genuine cases. 
+ 
+10. Academic Honesty and Integrity Policy: Academic honesty and integrity are to be maintained by all the 
+students throughout the semester and no type of academic dishonesty is acceptable. 
+ 
+ 
+ 
+Instructor-in-charge 
+ME F112 
+EC 
+No. 
+Component 
+Duration 
+Weightage (%) 
+Date & time 
+Nature 
+1 
+Mid Semester Exam 
+60 min 
+15 
+16/03 - 9.30 - 11.00AM 
+CB 
+2 
+Comprehensive exam 
+120 min 
+25 
+20/05 FN 
+CB 
+3 
+Classroom assessment 
+ 
+10 
+ 
+-- 
+4 
+Laboratory Practical 
+Regular classwork  
+ 
+40  
+--- 
+OB 
+5 
+Laboratory Practical 
+Comprehensive exam  
+ 
+10  
+To be announced later 
+OB 

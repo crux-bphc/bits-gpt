@@ -1,0 +1,6 @@
+,0,1,2,3,4,5
+0,Component,Duration,"Percentageweightage","MaximumMarks","Date & Time(Tentative)",Remarks
+1,"Daily interaction andassessment",5-10 min,10%,30 M,"Daily, during the lecturesessions",OB
+2,Quizzes (2),40 min,20%,"2 X 30  =60 M","It will be announced a weekbefore in the class",OB
+3,Mid-term exam,90 min,30%,90M,"As per the date given inthe Timetable",CB
+4,"ComprehensiveExamination",3 hours,40%,120M,"As per the date given inthe Timetable",CB

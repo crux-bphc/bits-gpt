@@ -1,0 +1,9 @@
+,0,1,2,3
+0,,function.,functions,
+1,26-29,"Study of elementary functions. Thesefunctions occur frequently all throughthecomplexvariabletheory.Understandingmultiplevaluedfunction, branch cut and branch point","Exponential,trigonometric,hyperbolicandLogarithmicfunctions,complexexponents,inverse functions.",29-36
+2,30-31,"Integrating along a curve in complexplane.","Contourintegrals,anti-derivatives.",37-44
+3,32-33,"Techniquestofindintegralsofdifferentfunctionsoverparticularcontours.","Cauchy-GoursatTheorem,CauchyIntegralFormula,Morera’sTheorem,Liouville’sTheorem.","46,48-52"
+4,,"Applicationofcomplexvariabletheory in Abstract Algebra.","Fundamental Theorem ofAlgebra (Self Study)",53
+5,34-35,"Seriesexpansionofacomplexfunction, To study different types ofsingular points.",Taylor Series and Laurent series.,"57,59,60,62"
+6,36-38,"Calculatingresiduesatisolatedsingular points.","Residues, Residue Theorem.",68-76
+7,39-40,"Application of complex integration toevaluate improper real integral.",Improper real integrals.,78-79
