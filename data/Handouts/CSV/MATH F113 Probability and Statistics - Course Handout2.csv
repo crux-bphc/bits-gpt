@@ -1,12 +1,0 @@
-,0,1,2,3
-0,,,"Distributions, Geometric Distribution, ThePoisson Probability Distribution",
-1,10-12,"To gain knowledge on variousimportant and commonly usedcontinuous distributions","ContinuousRandomVariables,ProbabilityDensityFunctions,Cumulative Distribution Functions andExpectedValues,MomentGeneratingFunction (MGF)","4.1, 4.2,5.11(R-1)"
-2,13-17,"Togainknowledgeonmostimportant continuous distribution(Normaldistribution)anditsapplications in real life.","The Normal Distribution, The Exponentialand Gamma Distributions, Chi-Square, LogNormalDistributionsandTransformationMethods to Obtain Distributions.","4.3, 4.4, 4.5,6.7 (R-1)"
-3,18-19,"Introduce simulation and how tosimulate complex systems.","Simulation–DiscreteandContinuousrandom variables","4.10 (R-1),5.14 (R-1)"
-4,20-22,"Developprobabilitymodelsinvolve several random variablessimultaneously","JointlyDistributedRandomVariables,ExpectedValues,Covariance,andCorrelation","5.1, 5.2"
-5,23-25,"IntroduceStatisticsandtheirdistributions.","StatisticsandTheirDistributions,TheDistributionoftheSampleMean,TheDistribution of a Linear Combination","5.3, 5.4, 5.5"
-6,26-27,"Howtoestimatepopulation’sparameters.","SomeGeneralConceptsofPointEstimation, Methods of Point Estimation","6.1, 6.2"
-7,28-31,"BasicPropertiesofConfidenceIntervals,Large-SampleConfidenceIntervalsforaPopulation Mean and Proportion, IntervalsBasedonaNormalPopulationDistribution, Confidence Intervals for theVarianceandStandardDeviationofaNormal Population","7.1,7.2,7.3,7.4",
-8,32-34,"Introduce concepts of hypothesistesting and its applications in realworld problems","Hypotheses, Test Procedures and P-values,z-tests forhypothesis aboutaPopulationMean","8.1, 8.2"
-9,35-37,"Onesamplet-test,TestsConcerningaPopulation Proportion","8.3, 8.4",
-10,38-40,"Objectiveishowtoexploittherelationship between two or morevariablesbyintroducingpredictive models.","TheSimpleLinearRegressionModel,Estimating Model Parameters, Correlation","12.1,12.2,12.5"

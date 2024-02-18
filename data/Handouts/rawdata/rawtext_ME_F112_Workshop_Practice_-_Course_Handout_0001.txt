@@ -1,0 +1,21 @@
+1. Course description (as given in the Institute Bulletin): Engineering materials, casting, forming, machining, joining, powder metallurgy, additive manufacturing, plastic processing, various other manufacturing processes and related laboratory exercises.
+
+2. Scope and Objective of the Course: This course is required for all first-degree students at first year level. The course will provide an overview of the techniques and applications of basic manufacturing processes used for producing finished articles from raw materials. The course is practice-orientated and requires that basic skills in handling of tools, machines and machine tools used in different manufacturing processes are acquired through the hands-on experience. The practical knowledge is supplemented by the lectures to provide the knowledge and genesis of various manufacturing processes. The primary objective of this course is to learn how the physical artifacts we use are manufactured and gain technical knowledge and skills. Much of the knowledge in the course is conceptual and no great mathematics is involved. This knowledge will be useful in whatever discipline the students are going to specialize.
+
+3. Books:
+
+(i) Laboratory Manual: Practical Manual for Workshop Practice, EDD, BITS Pilani, 2008. (ii) Textbook:
+
+B S Nagendra Parashar and R K Mittal, Elements of Manufacturing Processes, Prentice Hall of India, 2008.
+
+Reference Books: (i)
+
+Mikell P.Groover, “Fundamentals of Modern Manufacturing”, Second edition, John Wiley& sons Pvt Ltd. Campbell J.S., Principles of Manufacturing Materials and Processes, Tata McGraw-Hill, New Delhi, 1995. Richard R. Kibbe et all, Machine Tool practices, Sixth edition, Prentice Hall of India Pvt. limited, New Delhi, 2003. E. Paul Degarmo, J.T. Black, Ronald A. kosher, Materials and processes in Manufacturing, PHI 2005. Choudhary H., "Elements of Workshop Technology", (Vols I & II), Media Promoters and Publishers, Bombay.
+
+(ii)
+
+(iii)
+
+(iv)
+
+4. Course Plan:

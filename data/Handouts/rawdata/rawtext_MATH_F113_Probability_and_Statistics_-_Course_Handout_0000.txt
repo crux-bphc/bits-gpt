@@ -1,0 +1,25 @@
+Birla Institute of Technology & Science, Pilani Hyderabad Campus
+
+SECOND SEMESTER 2023 - 2024 Course Handout Part II
+
+09-01-2024
+
+In addition to Part I (General Handout for all courses appended to the time table) portion: Course Number Course Title Instructor-In charge Instructors : D K Satpathi, Sayan Ghosh, Sabyasachi Dey, Farida Parvez Barbhuiya, PTV Praveen Kumar, Manish Kumar, B Mishra, K Venkata Ratnam, Jagan Mohan J, N. Kishore Kumar, Sumit Kumar V, Santanu Koley, Sajith P, Tathe Kartik Vilasrao, Bhawna, Subhendu Paul, Sneha Pradhan, Gaurav Narayanrao Gadbail, Dhrubajyoti Sarkar, Debasmita Mohanty, Sayantan Ghosh, Ashwini S, Shravani Rao, Lakhan Valmik Jaybhaye, Animesh Singh, Suman Prabha Yadav, Komal Kumar, Md Imdadul Islam, Rabindranath Chakrabortty, Sushil Pathak.
+
+: MATH F113 : PROBABILITY & STATISTICS : Nirman Ganguly
+
+1. Scope and objective of the course:
+
+Probability theory deals with many real-life problems, which either inherently involve the chance phenomena or describing the behaviour of the system explicitly with statistical properties. Interpretation of the system behaviour in many engineering and sciences depends on concept of probability and statistics that familiarize with the computational and analytical aspects. The course deals with the basic properties of various distributions and other related things.
+
+2. Text Books:
+
+Jay L Devore, Probability and Statistics for Engineering and the Sciences, 9th Edition, Cengage Learning, 2016. 3. Reference Books:
+
+1. Johnson, R.A.: Miller & Freund’s Probability and Statistics for Engineers, 9th. Ed., Pearson, 2017. 2. Sheldon M. Ross: Introduction to Probability and Statistics for Engineers and Scientists, Fourth Edition,
+
+Elsevier, Academic Press, 2010.
+
+3. Walpole, R.E., Myers R.H., Myer S.L., Ye K.: Probability and Statistics for Engineers and Scientists, 8th Edition, Pearson Education, 2008.
+
+4. Lecture Plan: Lecture Learning Objectives
