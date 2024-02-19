@@ -1,0 +1,4 @@
+
+Course: PHY F110 Physics Laboratory
+Summary:
+The evaluation for PHY F110 Physics Laboratory consists of two components. Active participation in lab discussions or quizzes carries a weightage of 10 marks. The second component involves calculation and graph work, requiring submission within 72 hours and contributing 25 marks. In total, these activities account for a maximum of 35 marks.

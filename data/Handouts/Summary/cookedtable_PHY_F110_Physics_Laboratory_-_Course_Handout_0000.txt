@@ -1,0 +1,4 @@
+
+Course: PHY F110 Physics Laboratory
+Summary:
+The evaluation components for PHY F110 Physics Laboratory include day-to-day performance, lab tests, and a comprehensive exam. Day-to-day performance is ongoing, with a weightage of 30%. Lab tests have a duration of 1 hour, occurring approximately 50 minutes per class, contributing 40% to the final grade. The comprehensive exam has a duration of 1.5 hours and a weightage of 30%, scheduled for 15/05.

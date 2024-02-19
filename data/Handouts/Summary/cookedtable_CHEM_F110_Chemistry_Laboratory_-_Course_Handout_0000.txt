@@ -1,0 +1,7 @@
+
+Course: CHEM F110 Chemistry Laboratory
+Summary:
+The course involves three main laboratory experiments:
+Synthesis and recrystallization of dibenzalacetone (Lab 2)
+Determination of the concentration equilibrium constant (Kc) of a reaction (Lab 3)
+Measurement of the dissociation constant of a weak electrolyte using conductometry (Lab 3).

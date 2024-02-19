@@ -1,0 +1,4 @@
+
+Course: MATH F112 Mathematics II
+Summary:
+The course covers topics in Complex Variables, focusing on the study of elementary functions, multiple-valued functions, integrating along a curve in the complex plane, and techniques for integrals over contours (Lec. No. 26-33). The material explores series expansion of complex functions, different types of singular points, and applications of complex integration in Abstract Algebra (Lec. No. 34-40). Specific attention is given to contour derivatives, Cauchy-Goursat theorem, Cauchy formula, and the Fundamental Theorem of Algebra (Lec. No. 29-36). The Residue Theorem and its application in calculating residues and evaluating improper real integrals are also covered (Lec. No. 37-44, 46, 48-52, 53). Relevant textbook chapters are indicated for each topic.

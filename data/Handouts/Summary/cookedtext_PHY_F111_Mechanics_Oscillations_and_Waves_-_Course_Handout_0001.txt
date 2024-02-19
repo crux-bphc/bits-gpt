@@ -1,0 +1,7 @@
+
+Summary:
+The course "Mechanics, Oscillations & Waves" (Course No.: PHY F111) focuses on achieving specific learning outcomes, including:
+Developing the ability to draw free body diagrams with knowledge of constraints and forces and solve the equation of motion.
+Applying Newton's laws to planetary motion.
+Analyzing and understanding coupled oscillatory mechanical systems.
+Gaining an understanding of interference and diffraction phenomena.

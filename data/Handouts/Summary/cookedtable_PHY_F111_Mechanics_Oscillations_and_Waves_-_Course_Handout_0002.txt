@@ -1,0 +1,4 @@
+
+Course: PHY F111 Mechanics, Oscillations, and Waves
+Summary:
+In PHY F111, the course covers the topics of interference and diffraction. Students will study interference phenomena, including reflection pulses and interference from two or more sources. The course also delves into diffraction, exploring diffraction grating and the diffraction by a single and double slit. The detailed coverage of these topics is available in Chapter 8 of the suggested textbook (TB2), spanning pages 253-259, 267-274, and 280-298.

@@ -1,0 +1,7 @@
+
+Course: ME F112 Workshop Practice
+Summary:
+In the ME F112 Workshop Practice course, the focus shifts to metal cutting and lathe operations (Lec # 8), covering hole-making, allied operations, operating conditions, and material removal rate (MRR) with corresponding textbook chapters (T1-5, T1-6). The subsequent lectures (Lec # 9-10) address the production of flat and complex surfaces, discussing shaping and planning machines, milling machines, types of milling operations, and fine surface finishing processes, with relevant textbook chapters (T1-7, T1-8).
+The course progresses to cover the production of parts by forming processes, including sheet metal working (Lec # 11-12). Topics include metal forming processes, rolling, extrusion, forging, punches and dies, and sheet metal operations, with corresponding textbook chapters (T1-12, T1-13).
+Lectures 13-14 delve into powder metallurgy and mechanical joining processes. Topics include metal powders, mixing, compaction, sintering, mechanical joining, welding (arc, gas), brazing, soldering, and relevant examples (T1-14, T1-15).
+The final lecture (Lec # 15) covers additive manufacturing and plastics in manufacturing, addressing the processing of plastics, types of plastics, and their processing (T1-16).

@@ -1,0 +1,4 @@
+
+Course: Electrical and Electronic Engineering (EEE)
+Summary:
+The course covers various topics related to circuit analysis and electrical engineering principles. It begins with lectures 6-9 focusing on circuit analysis techniques and theorems, including KCL, KVL, current divider, and voltage divider rules. Lectures 10-15 delve into time domain analysis, alternating current circuits (AC), and magnetic circuits. Lectures 16-20 cover AC circuits, while lectures 21-23 focus on magnetic circuits. Lectures 24-27 introduce electrical machines, followed by lectures 28-32 on digital electronics. The course concludes with lectures 33-35 on basic electronics and lectures 36-38 on bipolar junction transistors. Specific topics include mesh and nodal analysis, Thevenin’s and Norton’s theorems, AC voltage and current, electromagnetics, transformers, and semiconductor devices. Relevant chapters from the textbook are specified for each topic.

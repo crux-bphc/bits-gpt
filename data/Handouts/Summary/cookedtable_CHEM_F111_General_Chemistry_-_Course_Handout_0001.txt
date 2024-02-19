@@ -1,0 +1,4 @@
+
+Course: CHEM F111 General Chemistry
+Summary:
+The course continues with topics including Spontaneity and Equilibrium (Lec. No. 16), Chemical Kinetics with a focus on Experimental Methods, Reaction Rates, and Temperature Dependence (Lec. No. 17-20), Vibrational and Electronic Spectroscopy (Lec. No. 18-20), Nuclear Magnetic Resonance Spectroscopy (Lec. No. 21-24), and Conformations Applications (Lec. No. 25-26). Content covers spontaneity and equilibrium, chemical kinetics, spectroscopy principles, and conformational analysis. Specific learning objectives involve understanding spontaneity prediction, rate laws, reaction mechanisms, spectroscopic techniques, and conformational analysis. Relevant textbook chapters are provided for each topic.

@@ -2,6 +2,7 @@ import os
 from fastapi import FastAPI
 from langserve import add_routes
 from src.chains import talk_chain
+from src.multivector import multivector_chain
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -15,7 +16,7 @@ app = FastAPI(
 
 add_routes(
     app,
-    talk_chain,
+    multivector_chain,
     path="/talk",
 )
 
