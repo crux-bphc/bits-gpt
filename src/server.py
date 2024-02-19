@@ -16,7 +16,7 @@ app = FastAPI(
 
 add_routes(
     app,
-    multivector_chain,
+    multivector_chain, #change this to talk_chain to access the old version
     path="/talk",
 )
 
