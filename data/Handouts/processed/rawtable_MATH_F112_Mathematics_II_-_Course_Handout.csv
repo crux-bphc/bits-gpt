@@ -1,0 +1,26 @@
+"Lec.No.",Learning Objectives,Topics to be covered,"Chapter inthe TextBook"
+A. LINEAR ALGEBRA (Text Book (i)),,,
+1,"IntroductiontotheCourseandintroductiontosystemoflinearequations","ElementaryrowoperationsandEchelon form",1.1
+2-3,"Inverse of a matrix, Solving system oflinearequationsandcomputingEigenvalues and Eigenvectors","Solutionsoflinearsystemsofequations by Gauss Elimination,Gauss-Jordanmethod.RREF,Eigenvalues and Eigenvectors","1.1-1.22.4,3.4"
+4-12,"Introduction to abstract vector spaces,finite and infinite dimensional vectorspaces and related concepts.","VectorsinRn,linearcombination,linearindependence,Vectorspaces,*ExamplesofunusualVectorspaces,subspaces,basisanddimension,**Shrinkingalinearly dependent set to a Basis,**Extendingalinearlyindependent set to a Basis,  Rankof a matrix","4.1-4.5*R1 : 4.1**R1: 4.6"
+13-14,Understanding the change of basis,"Coordinate vectors and change ofBasis",5.1
+15-17,"Introduction to linear transformations,examples of linear transformations..","Lineartransformations,kernelandrangeoflineartransformation,Isomorphism,Some matrix transformations","4.8- 4.102.5, 2.6"
+18-19,"Understanding the link between lineartransformations and matrices.","MatrixofaLinearTransformation",5.2
+B. COMPLEX VARIABLES (Text Book (ii)),,,
+"","Revisionofcomplexnumbersandtheir properties.",Review (Self  Study),1-9
+20-21,"Introductiontofunctionsofacomplexvariable.Evaluationoflimitsincomplexplane.Testingcontinuityofcomplexvaluedfunctions.","Functions of a complex variable.Limit and continuity","10-12, 15-18"
+22-25,"Introductiontoanalyticfunctions.Singular points of a complex valued","Derivative,CR-equations,analyticfunctions,Harmonic",19-26
+"",function.,functions,
+26-29,"Study of elementary functions. Thesefunctions occur frequently all throughthecomplexvariabletheory.Understandingmultiplevaluedfunction, branch cut and branch point","Exponential,trigonometric,hyperbolicandLogarithmicfunctions,complexexponents,inverse functions.",29-36
+30-31,"Integrating along a curve in complexplane.","Contourintegrals,anti-derivatives.",37-44
+32-33,"Techniquestofindintegralsofdifferentfunctionsoverparticularcontours.","Cauchy-GoursatTheorem,CauchyIntegralFormula,Morera’sTheorem,Liouville’sTheorem.","46,48-52"
+"","Applicationofcomplexvariabletheory in Abstract Algebra.","Fundamental Theorem ofAlgebra (Self Study)",53
+34-35,"Seriesexpansionofacomplexfunction, To study different types ofsingular points.",Taylor Series and Laurent series.,"57,59,60,62"
+36-38,"Calculatingresiduesatisolatedsingular points.","Residues, Residue Theorem.",68-76
+39-40,"Application of complex integration toevaluate improper real integral.",Improper real integrals.,78-79
+"ECNo.","EvaluationComponent",Duration,"Weightage(%)",Date,"NatureofComponent"
+1.,Assignment I,"To be announcedlater",10,"Tobeannouncedlater","OpenBook"
+2.,Mid Semester Exam,90 min.,30,"11/03-11.00-12.30PM","ClosedBook"
+3.,Assignment II,"To be announcedlater",10,"Tobeannouncedlater","OpenBook"
+4.,"ClassroomParticipation","To be announcedlater",10,"Tobeannouncedlater","OpenBook"
+5.,Comprehensive Exam,180 min.,40,06/05 AN,"ClosedBook"

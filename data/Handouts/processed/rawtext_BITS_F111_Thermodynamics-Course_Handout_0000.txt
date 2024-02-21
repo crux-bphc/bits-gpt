@@ -1,0 +1,25 @@
+4 Birla Institute of Technology & Science, Pilani Hyderabad Campus
+
+SECOND SEMESTER 2023-2024 Course Handout Part II
+
+Date: 09/01/2024 In addition to Part-I (a general handout for all the courses appended in the time table), this handout gives further specific details of the course.
+
+Course No. Course Title Instructor-in-Charge : Srikanta Dinda Instructors : N. Jalaiah, Santanu Prasad Datta, Jayaprakash KS, R Parameshwaran, KRC Murthy,
+
+: BITS F111 : THERMODYNAMICS
+
+Jaideep Chatterjee, Nandini Bhandaru, Afkham Mir, Ramendra Kishor Pal, Iyman Abrar,
+
+1. Course Description:
+
+Basic concepts and laws of thermodynamics; macroscopic thermodynamic properties; application to thermodynamic systems (closed and open); microscopic approach to estimate the entropy of a system; equation of state; efficiency, irreversibility, and availability of thermodynamic systems.
+
+2. Scope and Objective:
+
+Thermodynamics deals with the matter, energy, and the laws governing their interactions in a given system. Therefore, it is essential to learn its importance in the design and analysis of processes, devices, and systems for effective utilization of energy as well as matter. The course emphasizes the fundamental concepts and the laws of thermodynamics applied to closed systems (control mass) and open systems (control volume). Irreversibility and availability are the powerful tools used in the design and analysis of systems and therefore will be discussed in detail.
+
+3. Expected Learning Outcome:
+
+✓ Understand the fundamentals of thermodynamic systems - processes and cycles ✓ Solve problems related to pure substances using thermodynamic tables ✓ Apply the first-law to systems involving heat and work interactions ✓ Understand the second-law and its applications - closed and open systems ✓ Solve problems using the first and second laws of thermodynamics ✓ Understand the basic concepts and principles of the second-law - entropy, irreversibility, and availability
+
+4. Text Book (TB) and Reference Book (RB):

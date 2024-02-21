@@ -1,0 +1,4 @@
+
+Course: BITS F111 - THERMODYNAMICS
+Summary:
+BITS F111 - Thermodynamics covers the basic concepts and laws of thermodynamics, focusing on macroscopic and microscopic properties, entropy estimation, equation of state, and thermodynamic systems' efficiency. The course aims to impart knowledge about the importance of thermodynamics in analyzing processes and designing systems for efficient energy and matter utilization. Expected learning outcomes include understanding thermodynamic fundamentals, solving related problems, and applying the first and second laws to various systems. The instructor-in-charge is Srikanta Dinda, supported by a team of instructors.

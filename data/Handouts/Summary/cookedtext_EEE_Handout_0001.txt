@@ -1,0 +1,6 @@
+
+Course: EEE [Course Code Not Provided]
+Content Summary:
+The course covers the basic operation of pnp and npn transistors, focusing on concepts such as cutoff and saturation.
+Evaluation Scheme:
+Details about the evaluation scheme are not provided in the text.

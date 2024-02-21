@@ -1,0 +1,25 @@
+
+Summary for MATH F113 Probability and Statistics Course:
+The MATH F113 Probability and Statistics course covers various aspects of probability theory, random variables, distributions, and statistical concepts.
+Probability Theory:
+Lectures 1-3: Introduction to probability theory, sample spaces, events, and axioms. Topics include interpretations and properties of probability, conditional probability, and independence. Textbook chapters covered: 2.1-2.5, 3.1-3.3.
+Lectures 4-5: Definition and identification of random variables, probability distributions for discrete random variables, and expected values. Topics include the Binomial Probability Distribution, Hypergeometric and Negative Binomial Distributions. Textbook chapters covered: 3.4-3.6.
+Lectures 6-9: Understanding continuous distributions, probability density functions, cumulative distribution functions, and expected values. Topics include continuous random variables and moment-generating functions. Textbook chapters covered: 4.1, 4.2, 5.11 (R-1).
+Lectures 10-12: Knowledge on important continuous distributions, including the Normal Distribution, Exponential, Gamma, Chi-Square, and Log-Normal Distributions. Textbook chapters covered: 4.3-4.5, 6.7 (R-1).
+Simulation and Probability Models:
+Lectures 18-19: Introduction to simulation, covering discrete and continuous random variables. Textbook chapters covered: 4.10 (R-1), 5.14 (R-1).
+Lectures 20-22: Development of probability models involving several random variables simultaneously. Topics include jointly distributed random variables, expected values, covariance, and correlation. Textbook chapters covered: 5.1, 5.2.
+Statistics and Estimation:
+Lectures 23-25: Introduction to statistics and their distributions, including the distribution of the sample mean and the distribution of a linear combination. Textbook chapters covered: 5.3-5.5.
+Lectures 26-27: Estimating population parameters, covering general concepts of point estimation and methods of point estimation. Textbook chapters covered: 6.1, 6.2.
+Lectures 28-31: Basic properties of confidence intervals, large-sample confidence intervals for a population mean and proportion, intervals based on a normal population distribution, and confidence intervals for the variance and standard deviation of a normal population. Textbook chapters covered: 7.1-7.4.
+Hypothesis Testing and Predictive Models:
+Lectures 32-34: Introduction to concepts of hypothesis testing and its applications, including hypotheses, test procedures, P-values, and z-tests for hypotheses about a population mean. Textbook chapters covered: 8.1, 8.2.
+Lectures 35-37: One-sample t-test, tests concerning a population proportion. Textbook chapters covered: 8.3, 8.4.
+Lectures 38-40: Exploiting the relationship between two or more variables by introducing predictive models. Topics include the Simple Linear Regression Model, estimating model parameters, and correlation. Textbook chapters covered: 12.1, 12.2, 12.5.
+Evaluation Components:
+Classroom Participation: 10%.
+Quiz-1: To be announced in class, Closed Book, 10%.
+Mid Semester Examination: 90 minutes, Open Book, 30%, 13/03 - 9.30 - 11.00 AM.
+Quiz-2: To be announced in class, Closed Book, 10%.
+Comprehensive Examination: 180 minutes, Closed Book, 40%, 10/05 AN.

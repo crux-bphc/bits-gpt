@@ -1,0 +1,28 @@
+
+Summary for ME F112 Workshop Practice Course:
+The ME F112 Workshop Practice course covers fundamental principles of manufacturing materials, processes, and machine tool practices. The learning objectives and topics covered are outlined below:
+Textbooks:
+"Principles of Manufacturing Materials and Processes" by Campbell J.S., Tata McGraw-Hill, 1995.
+"Machine Tool Practices" by Richard R. Kibbe et al., Prentice Hall of India Pvt. Ltd., 2003.
+"Materials and Processes in Manufacturing" by E. Paul Degarmo, J.T. Black, Ronald A. Kosher, PHI, 2005.
+Learning Objectives and Topics:
+Lectures 1-2: Introduction, engineering materials, role of measurements, and quality. Topics include basics, ethics, safety in the workshop, material properties, and metrology. Textbook chapters covered: T1-1, T1-2, T1-3.
+Lecture 3: Production of parts by casting processes. Covers casting processes, pattern making, molding, and molding sands. Textbook chapter: T1-11.
+Lecture 4: Casting processes. Explores pattern allowances, yield, cooling rate, and defects. Textbook chapter: T1-11.
+Lectures 5-6: Metal cutting basics. Topics include metal cutting, machine tools, cutting tools, and tool materials. Textbook chapter: T1-4.
+Lecture 7: Lathe machine tool. Covers lathe machine tools, turning, and other operations. Textbook chapter: T1-5.
+Lecture 8: Metal cutting & lathe operations, hole making & allied operations. Topics include operating conditions, MRR, and examples. Textbook chapters: T1-5, T1-6.
+Lecture 9: Production of flat surfaces, shaping & planning machines. Textbook chapter: T1-7.
+Lecture 10: Production of complex surfaces. Explores milling machines, types of milling operations, and examples. Textbook chapter: T1-8.
+Lecture 11: Producing fine surface finish, grinding and fine finishing processes. Covers abrasives, grinding wheel, grinding machines, and fine finishing operations. Textbook chapter: T1-9.
+Lecture 12: Production of parts by forming processes, sheet metal working. Topics include metal forming processes, rolling, extrusion, forging, punches and dies, sheet metal operations. Textbook chapters: T1-12, T1-13.
+Lectures 13-14: Powder metallurgy, mechanical joining processes. Covers metal powders, mixing, compaction, sintering, mechanical joining, welding, soldering, brazing, fasteners, and examples. Textbook chapters: T1-14, T1-15.
+Lecture 15: Additive manufacturing and plastics in manufacturing. Explores processing of plastics, types of plastics, and processing. Textbook chapter: T1-16.
+Evaluation Components:
+Mid Semester Exam: 60 minutes, Closed Book, 15%, 16/03 - 9.30 - 11.00 AM.
+Comprehensive Exam: 120 minutes, Closed Book, 25%, 20/05 FN.
+Classroom Assessment: 10%.
+Laboratory Practical (Regular Classwork): 40%.
+Laboratory Practical (Comprehensive Exam): 10%, Date to be announced later.
+Academic Honesty and Integrity Policy:
+Academic honesty and integrity must be maintained by all students throughout the semester, and any form of academic dishonesty is unacceptable.

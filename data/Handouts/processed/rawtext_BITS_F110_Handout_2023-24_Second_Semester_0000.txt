@@ -1,0 +1,31 @@
+Birla Institute of Technology & Science, Pilani Hyderabad Campus
+
+Second Semester 2023-24
+
+Course Handout (Part II)
+
+Date: 09/01/2024 In addition to part I (General Handout for all courses appended to the timetable) this portion gives further specific details regarding the courses.
+
+Course No Course Title Instructor-in-charge Team of Instructors
+
+: : :
+
+BITS F110 ENGINEERING GRAPHICS AnasuaGuhaRay
+
+: BITS F110
+
+Instructor-in-charge : AnasuaGuhaRay
+
+: Vasan A., Abhishek Sarkar,K. Rajitha, ChanduParimi, Navaneetha A., Ambili P., Arnab Guha, Arshad Javed, M. Abhinav, VemuSahiti, K.S. Deepak, MdIkramullah Khan, Ishant Sharma, Radha, Kiranmaye B., Raghuram A., Arnab Guha, Ashish Saurabh, FizaZahoor Malik, Raghu Piska, MdZabiulla, Dilwaiz Ali, GowllaJyothsna, J. LeelaKishan, P RamyaPriya, Sk Abdul Kaium, Anuradha Tiwari, BalijaUpendra, Chirdeep NR, Dole Mahesh, Kushagra Pandey, MrinmoySaha, Vijay Krupaker M., Akashjyoti Barman, Maryada Sinha, MuddasaniRajkumar, Deepjyoti Deb, Himanshu Shukla, Renuka P. Rekhade
+
+1. Course Description Introduction to AutoCAD commands, simple drawings, orthographic projections, projections of points, lines, planes; auxiliary projections; projections and sections of solids; development of surfaces; isometric projections.
+
+2. Scope and objective of the course:
+
+Engineering Graphics is the primary medium for development and communicating design concepts. Through this course, the students are trained in Engineering Graphics concepts with the use of AutoCAD. The latest ISI code of practice is followed. Computerized drawing is an upcoming technology that provides accurate and easily modifiable graphics entities, easy data storage and retrieval facility, and enhances creativity.
+
+3. Text Book: 1. D.M. Kulkarni, A.P. Rastogi, and A.K. Sarkar., Engineering Graphics with AutoCAD, PHI Learning Private Limited, New Delhi 2009.
+
+4. Reference Books:
+
+1. Dhananjay A Jolhe, Engineering Drawing: With an Introduction to AutoCAD, Tata McGraw Hill, 2008. 2. Warren J. Luzadder& Jon M. Duff, Fundamentals of Engineering Drawing, 11th edition, Prentice Hall of India, New Delhi. 3. N.D.Bhatt& V.M. Panchal, Engineering Drawing, Charotar Publishing House, 2006.
