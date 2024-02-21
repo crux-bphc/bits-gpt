@@ -27,9 +27,10 @@
 
   <div class="flex flex-col h-screen justify-between">
     
-    <div class="bg-zinc-900 p-4 text-white text-5xl font-semibold flex align-middle">
+    <div class="bg-zinc-900 p-4 text-white text-5xl font-semibold flex flex-row">
         <img src="crux.png" alt="Crux Logo" class="w-16 h-16" />
-        <span class="mt-1 ml-2">BitsGPT</span>
+        <span class="mt-1 ml-3">BitsGPT</span> 
+        <span class="ml-2  text-gray-400 text-3xl mt-4">v1.0.0</span>
     </div>
     <div class="bg-zinc-900 p-4 h-full overflow-y-auto">
       {#each $messages as message}
@@ -51,7 +52,7 @@
 
       ➤
       </button>
-      <div class="text-gray-100 items-center text-xs mt-3">
+      <div class="text-gray-200 items-center text-sm mt-3">
         * BitsGPT may display inaccurate info so double-check its responses.
       </div>
     </div>
