@@ -10,9 +10,9 @@
     let messageInput: HTMLInputElement;
   
     function sendMessage() {
-      const text = messageInput.value.trim();
+      const text = "You: " + messageInput.value.trim();
       if (text !== '') {
-        messages.update(msgs => [...msgs, { text }]);
+        messages.update(msgs => [...msgs, {text}]);
         messageInput.value = '';
       }
     }
@@ -27,16 +27,16 @@
 
   <div class="flex flex-col h-screen justify-between">
     
-    <div class="bg-zinc-800 p-4 text-white text-5xl font-semibold flex align-middle">
+    <div class="bg-zinc-900 p-4 text-white text-5xl font-semibold flex align-middle">
         <img src="crux.png" alt="Crux Logo" class="w-16 h-16" />
         <span class="mt-1 ml-2">BitsGPT</span>
     </div>
-    <div class="bg-zinc-800 p-4 h-full overflow-y-auto">
+    <div class="bg-zinc-900 p-4 h-full overflow-y-auto">
       {#each $messages as message}
-        <div class="bg-zinc-600 p-2 my-1 rounded-lg text-white">{message.text}</div>
+        <div class="bg-zinc-600 p-2 my-2 rounded-lg text-white">{message.text}</div>
       {/each}
     </div>
-    <div class="bg-zinc-800 p-4">
+    <div class="bg-zinc-900 p-4">
       <input
         bind:this={messageInput}
         type="text"
