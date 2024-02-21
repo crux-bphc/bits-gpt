@@ -1,6 +1,0 @@
-
-Course: ME F112 Workshop Practice
-Summary:
-The ME F112 Workshop Practice course covers various aspects related to engineering materials, measurements, quality basics, ethics, and safety in the workshop. The initial lectures (Lec # 1-2) introduce fundamental concepts, including material properties, mechanical properties, common engineering materials, metrology, and quality, with relevant chapters from the textbook (T1-1, T1-2, T1-3).
-Subsequent lectures focus on the production of parts using casting processes (Lec # 3), covering pattern making, moulding, moulding sands, and related examples (T1-11). The course then progresses to discuss metal cutting basics (Lec # 4-5), including pattern allowances, yield, cooling rate, defects, machine tools, and cutting tools, with corresponding textbook chapters (T1-11, T1-4).
-The following lectures (Lec # 6-7) delve into metal cutting basics, covering types of tools, tool geometry, chips, tool life, lathe machine tools, turning, and other operations, with relevant textbook chapters (T1-4, T1-5).

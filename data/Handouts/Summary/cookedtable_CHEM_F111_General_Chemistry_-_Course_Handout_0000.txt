@@ -1,4 +1,0 @@
-
-Course: CHEM F111 General Chemistry
-Summary:
-The course covers Quantum Theory (Lec. No. 1-3) focusing on the origin of quantum mechanics, black body radiation, wavefunction, uncertainty principle, and Schrödinger equation. Subsequent lectures delve into Atomic Structure and Spectra (Lec. No. 4-8), Chemical Bonding with Valence Bond and Molecular Orbital Theories (Lec. No. 9-12), and Thermodynamics with topics such as the First Law, Internal Energy, Enthalpy, the Second Law, Entropy, and Gibbs Energy (Lec. No. 13-15). The learning outcomes include understanding quantum theory concepts, atomic orbitals, chemical bonding theories, thermodynamic principles, and entropy changes. Relevant textbook chapters are specified for each topic.

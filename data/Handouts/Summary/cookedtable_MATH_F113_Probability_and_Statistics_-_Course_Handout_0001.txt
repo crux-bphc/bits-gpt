@@ -1,4 +1,0 @@
-
-Course: MATH F113 Probability and Statistics
-Summary:
-The course continues with a focus on important continuous distributions (Lec. No. 10-12), including the most important one, the Normal distribution, and its real-life applications (Lec. No. 13-17). Simulation and its application in simulating complex systems are introduced (Lec. No. 18-19). Probability models involving several random variables simultaneously are explored (Lec. No. 20-22), along with an introduction to Statistics, distributions, and parameter estimation (Lec. No. 23-25). The course progresses to cover concepts of hypothesis testing and its real-world applications (Lec. No. 26-27). Finally, lectures 28-31 delve into point estimation concepts. Relevant chapters from the textbook are specified for each topic.

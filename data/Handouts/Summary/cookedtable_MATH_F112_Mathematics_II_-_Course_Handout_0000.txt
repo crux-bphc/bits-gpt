@@ -1,4 +1,0 @@
-
-Course: MATH F112 Mathematics II
-Summary:
-The course begins with Linear Algebra, covering topics such as the introduction to system of linear equations, elementary row operations, and echelon form (Lec. No. 1). Subsequent lectures delve into the inverse of a matrix, solving systems of linear equations, computing eigenvalues and eigenvectors, and abstract vector spaces (Lec. No. 2-3). The Linear Algebra section includes discussions on linear transformations, solutions of linear systems, vector spaces, basis, and dimension (Lec. No. 4-12). The material explores coordinate vectors, change of basis, isomorphism, and matrix transformations (Lec. No. 13-14). In the Complex Variables section, topics include functions of a complex variable, limits, and continuity (Lec. No. 20-21). Relevant chapters from the textbook are indicated for each topic.

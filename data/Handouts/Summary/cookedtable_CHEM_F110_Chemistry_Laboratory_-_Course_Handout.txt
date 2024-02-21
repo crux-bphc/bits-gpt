@@ -1,0 +1,6 @@
+
+Summary for CHEM F110 Chemistry Laboratory Course:
+The CHEM F110 Chemistry Laboratory course consists of nine labs covering various topics. Lab 1 focuses on the synthesis and recrystallization of dibenzalacetone. Lab 2 involves determining the concentration equilibrium constant (Kc) of a reaction. Lab 3 explores the dissociation constant of a weak electrolyte using conductometry.
+Lab 4 encompasses the preparation of potassium bis(oxalate) Cu(II) complex and the preparation of iron acetylacetonate complex. Lab 5 involves the synthesis of glucosazone. The 2nd Cycle includes Lab 6, which focuses on determining the activation energy of the hydrogen peroxide-potassium iodide clock reaction.
+Lab 7 involves the determination of the pH curve of an acid-base titration. Lab 8 focuses on the estimation of copper by iodometry. Lab 9 explores the determination of unknown strengths of a strong and a weak acid solution through conductometric titration.
+The course also includes components for lab performance assessment and calculations, as well as data interpretation. It covers a diverse range of experiments, providing students with hands-on experience in various aspects of chemistry.

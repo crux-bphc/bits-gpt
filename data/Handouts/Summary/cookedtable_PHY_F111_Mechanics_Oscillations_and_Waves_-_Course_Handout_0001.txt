@@ -1,4 +1,0 @@
-
-Course: PHY F111 Mechanics, Oscillations, and Waves
-Summary:
-PHY F111 covers various topics in mechanics, oscillations, and waves. The course begins with an introduction, followed by the study of vectors, kinematics, and the concept of angular momentum. Central force motion, planetary motion, and the rotation of a rigid body about a fixed axis are explored. The course delves into harmonic oscillators, including damped and forced harmonic oscillations. The concept of beats, undamped coupled harmonic oscillators, and normal modes of coupled pendulums are discussed. The study also extends to the motion of coupled pendulums from their initial conditions. The course emphasizes a strong understanding of Newtonian Mechanics throughout these topics. (Refer to suggested chapters and sections from textbooks TB1 and TB2 for detailed coverage.)

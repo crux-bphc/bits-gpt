@@ -1,4 +1,0 @@
-
-Course: Electrical and Electronic Engineering (EEE)
-Summary:
-The course begins with an introductory lecture (Lect. No. 1) aiming to study basic circuit elements and laws. The topics include voltage and current sources, independent and dependent sources, resistors, Ohm’s law, and inductors. The relevant chapters in the textbook for this section are 1.1 to 1.8.

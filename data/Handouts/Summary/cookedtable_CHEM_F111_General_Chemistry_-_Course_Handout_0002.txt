@@ -1,4 +1,0 @@
-
-Course: CHEM F111 General Chemistry
-Summary:
-The course progresses with topics including Stereochemistry (Lec. No. 27-28), Substitution reactions (Lec. No. 29-30), Elimination reactions (Lec. No. 31-32), Electrocyclic reactions (Lec. No. 33-34, Self-study), and an Introduction to coordination compounds. Subtopics cover VB theory, Crystal field theory for octahedral complexes, Jahn-Teller distortions, square planar and tetrahedral complexes, isomerism, chirality, and optical activity. Detailed content involves nucleophilic and elimination reactions, pericyclic reactions, and coordination compounds. Learning objectives encompass stereochemistry principles, substitution and elimination reaction mechanisms, pericyclic reactions, and coordination compound theories. Relevant textbook chapters are specified for each topic.
