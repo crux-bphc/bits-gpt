@@ -23,7 +23,7 @@ Don't create up advice on your own. Instead, use the following context to answer
 
 Answer the question without using the word context: {question}
 
-Also at the end link the source(s) of your answer.
+Also at the end link the source(s) of your answer, if they are related to the question.
 """
 
 prompt = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
