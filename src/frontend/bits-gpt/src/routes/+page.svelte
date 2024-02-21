@@ -19,7 +19,7 @@
         messages.update(msgs => [...msgs, {author, text}]);
         messageInput.value = '';
 
-        fetch('http://localhost:8000/talk/invoke', {
+        fetch('http://172.16.142.163:8000/talk/invoke', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json'
@@ -49,13 +49,13 @@
     </div>
     <div class="p-4 h-full overflow-y-auto text-lg">
       {#each $messages as message}
-        <div class="bg-zinc-600 p-2 my-2 w-1/2 mx-auto rounded-lg text-white">
+        <div class="bg-zinc-600 p-2 my-2 w-1/2 mx-auto rounded-lg text-white whitespace-pre-wrap">
           <span class="font-bold">{message.author}:</span>
           {message.text}
         </div>
       {/each}
     </div>
-    <div class=" p-4 w-1/2 mx-auto relative flex items-center ">
+    <div class="w-1/2 mx-auto relative flex items-center ">
       <input
         bind:this={messageInput}
         type="text"
@@ -71,7 +71,7 @@
       ➤
       </button>
     </div>
-    <div class=" text-gray-200 items-center text-sm pl-4 pb-4 w-1/2 mx-auto">
+    <div class=" text-gray-200 items-center text-sm pl-4 pb-4 w-1/2 mt-2 mx-auto">
       * BitsGPT may display inaccurate info so double-check its responses.
     </div>
   </div>

@@ -26,7 +26,7 @@ The context can include text as well as tables(in the form of CSV data).
 
 Answer the question without using the word context: {question}
 
-Also at the end link the source(s) of your answer.
+Also at the end link the source(s) of your answer, if they are related to the question.
 """
 
 ensemble_retriever = EnsembleRetriever(retrievers=[vectorstore_retriever, MV_retriever], weights=[0.6, 0.4])

@@ -3,6 +3,8 @@ from fastapi import FastAPI
 from langserve import add_routes
 from src.chains import talk_chain
 from dotenv import load_dotenv
+from fastapi.middleware.cors import CORSMiddleware
+
 
 load_dotenv()
 
@@ -12,6 +14,20 @@ app = FastAPI(
     description="A simple api server for BitsGPT using Langchain's Runnable interfaces",
 )
 
+origins = [
+    "http://localhost",
+    "http://localhost:5173",
+    "http://172.16.142.163",
+    "http://172.16.142.163:5173",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 add_routes(
     app,
