@@ -1,0 +1,14 @@
+"LectureNo.",Learning Objectives,Topics to be covered,"PracticalClasses","Chapter in theText Book"
+1,Introduction to EG,"BasicconceptsandHandoutdiscussions",-,1
+2-3,"Introduction toAutoCAD",Basic commands,3,1 & 2
+4-5,Orthographic projections,"Theory, techniques, first and thirdangle projections,Multi view drawing from pictorialviews.",2,3 & 5
+6-7,"Projections of Points andLines","Positions, notation system, andprojections procedure, Positions,terms used, different cases, tracesof a line and projectionsprocedure",2,9
+8,Projections of Lines,"Positions, terms used, differentcases, traces of a line andprojections procedure",1,10
+9-10,"Projections of Solids andSections of Solids","Construction of right, regular,oblique solids; section planes andsectional view.",2,12 & 13
+11,Development of surfaces,"Radialline,parallelline;anti-development",1,14
+12-13,Isometric Projection,"Theory of isometric drawing,construction of isometricprojection from orthographic.",2,6
+"ECNo.",Evaluation component,Duration,"Weightage(%)","Date, Time","Nature ofComponent"
+1,Mid sem test (CBT),60 min,20,"16/03 - 9.30 -11.00AM",Closed Book
+2,Comprehensive Test (CBT),90 min,30,20/05 FN,Closed Book
+3,Practical (CAD Software),-,30,Once a week,Open Book
+4,Tutorial,-,20,Once a week,Open Book

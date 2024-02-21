@@ -1,0 +1,4 @@
+
+Course: CS F111
+Summary:
+The document outlines the scope and objectives of an introductory course in computers and programming. Preferably using the C language, the course employs a bottom-up approach to teach the structure of computers and programming. It covers algorithm development, programming constructs, data representation, and hands-on experience with C programs in the laboratory. The primary objectives include understanding data representation, algorithm development, and programming tasks in high-level languages. The recommended textbook and reference books for the course are also listed, providing comprehensive coverage of the subject matter.

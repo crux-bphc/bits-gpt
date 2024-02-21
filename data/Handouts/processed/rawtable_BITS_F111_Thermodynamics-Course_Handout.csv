@@ -1,0 +1,73 @@
+Lecture,,,Chapter &
+"",Learning objectives,Topics to be covered,
+No.,,,Sections in TB
+"",Understand the basic concepts,"Introduction, thermodynamic systems, state",
+1 ‒ 3,and definitions pertaining to,"properties, process & cycle, specific volume,",1.1 ‒ 1.12
+"",thermodynamics (TD),"zeroth-law, temperature scales, applications",
+"",Understand the properties of,"Pure substance, states, phase equilibrium,",
+"",,,"2.1 – 2.3,"
+4 ‒ 5,pure substances (as working,"independent properties, equation of state,",
+"",,,2.5 – 2.10
+"",media),compressibility factor,
+"",Use of thermodynamic tables,,
+"",,Thermodynamic properties and tables of,
+6 ‒ 7,to predict the properties of,,2.4
+"",,standard substances (as working fluids),
+"",pure substances,,
+"",Understand the concepts of,,
+"",,Definition of work and heat and their,
+"",boundary work and heat,,
+8 ‒ 11,,"notation, work done at system’s boundary,",3.1 – 3.6
+"",transfer and solve problems of,,
+"",,modes of heat transfer,
+"",control-mass (CM) as a system,,
+"",Understand the first-law of TD,,
+"",,First-law for a process; internal energy and,
+12 ‒ 15,"for a CM, and other forms of",,3.7– 3.11
+"",,enthalpy; specific heats of ideal gases,
+"",energy involved,,
+"",Apply the first-law of TD to,First-law as a rate equation; problem analysis,
+16 ‒ 18,solve problems of CM as a,and solution technique; examples of closed,3.13 – 3.15
+"",system,systems,
+"",Difference between control-,,
+"",,Conservation of mass in a control-volume,
+"",mass (CM) and control-volume,,
+19 ‒ 21,,(CV); first-law for a CV; steady-state and,"4.1 – 4.4, 4.6"
+"",(CV). Understand the first-law,,
+"",,transient processes,
+"",of TD for a CV,,
+"",Application of the first-law of,First-law as a rate equation; problem solving,
+22 ‒ 23,,,4.7
+"",TD for a CV,techniques; examples of CVs,
+"",,Limitations of the first-law and need of the,
+"",Understand the need for,"second-law; reversible process; heat engine,",
+24 ‒ 27,Second-law of TD and its basic,"heat pump, refrigerator; Carnot cycle; COP,",5.1 – 5.11
+"",concepts,Kelvin-Planck & Clausius statements; Carnot,
+"",,cycle; thermodynamic temperature scale,
+"",,Concept of entropy; the need and definition of,
+"",,entropy; entropy of a pure substance; entropy,
+"",Understand the principles of,,
+"",,change of a reversible and irreversible,
+28 ‒ 32,entropy and second-law of TD,,6.1 – 6.11
+"",,"processes; principle of increase of entropy,",
+"",for a CM,,
+"",,thermodynamic property relation; problem,
+"",,solving,
+"",Understand the formulation of,Second-law for a control-volume (CV);,
+33 ‒ 36,second-law of TD for a CM (as,steady-state and transient processes;,7.1 – 7.5
+"",a system),reversible process; principle of increase of,
+"",,entropy,
+"",Application of second-law of,Understanding the efficiency and,
+37 ‒ 39,,,7.5
+"",TD for a CV,performance of systems; problem solving,
+"",Understand the principles of,"Available energy, reversible work and",
+40 ‒ 42,,,8.1 – 8.4
+"",Irreversibility and availability,irreversibility; second-law efficiency,
+Evaluation,,,,Nature of
+"",Duration (min.),Weightage (%),Date & Time,
+Component,,,,Component
+Midsem Test*,90,30,14/03 - 11.00 - 12.30PM,Closed Book
+Tutorial Tests,20,20,In tutorial classes,Open Book
+Quizzes,15,10,In lecture/ tutorial classes,Open Book
+Comprehensive,,,,
+Exam*,180,40,13/05 AN,Closed Book
