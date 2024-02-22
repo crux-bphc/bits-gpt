@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { onMount } from 'svelte';
+    import { onMount, afterUpdate } from 'svelte';
     import { writable } from 'svelte/store';
   
     interface Message {
@@ -7,6 +7,7 @@
       text: string;
     }
   
+    let container: HTMLDivElement;
     const messages = writable<Message[]>([]);
     messages.update(msgs => [...msgs, {author: "BitsGPT", text: "Hello! I'm BitsGPT, the campus buddy chatbot for making your student life easier. Feel free to ask me anything!"}]);
     
@@ -35,6 +36,12 @@
     onMount(() => {
       messageInput.focus();
     });
+
+    afterUpdate(() => {
+      // Scroll to the bottom after every update
+      container.scrollTop = container.scrollHeight;
+    });
+
   </script>
 
   <div>
@@ -47,7 +54,7 @@
         <span class="mt-1 ml-3">BitsGPT</span> 
         <span class="ml-2  text-gray-400 text-3xl mt-4">v1.0.0</span>
     </div>
-    <div class="p-4 h-full overflow-y-auto text-lg">
+    <div class="p-4 h-full overflow-y-auto text-lg" bind:this={container}>
       {#each $messages as message}
         <div class="bg-zinc-600 p-2 my-2 w-1/2 mx-auto rounded-lg text-white whitespace-pre-wrap">
           <span class="font-bold">{message.author}:</span>
