@@ -67,11 +67,11 @@
         bind:this={messageInput}
         type="text"
         placeholder="Type your message..."
-        class="px-4 py-2 w-full bg-zinc-700 rounded-lg text-lg text-white focus:outline-none focus:border border-white"
+        class="pl-2 py-2 w-full bg-zinc-700 rounded-lg text-lg text-white focus:outline-none focus:border border-white rounded-r-none"
         on:keyup={(e) => e.key === 'Enter' && sendMessage()}
       />
       <button
-        class="ml-2 px-4 py-2  bg-blue-500 text-white rounded-lg text-lg hover:bg-blue-600 focus:outline-none focus:bg-blue-600"
+        class="px-3 py-2  bg-blue-500 text-white rounded-lg text-lg hover:bg-blue-600 focus:outline-none focus:bg-blue-600 rounded-l-none"
         on:click={sendMessage}
       >
 
