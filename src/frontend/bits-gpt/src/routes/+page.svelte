@@ -14,13 +14,22 @@
     let messageInput: HTMLInputElement;
   
     function sendMessage() {
-      const text = messageInput.value.trim();
-      const author = 'You';
+      let text = messageInput.value.trim();
       if (text !== '') {
-        messages.update(msgs => [...msgs, {author, text}]);
+        messages.update(msgs => [...msgs, {author: 'You', text}]);
+
+        const thinkingMessage = {author: 'BitsGPT', text: "Thinking"};
+        messages.update(msgs => [...msgs, thinkingMessage]);
+        
+        let dots = 0;
+        let interval = setInterval(() => {
+          dots = (dots + 1) % 4;
+          messages.update(msgs => [...msgs.slice(0, -1), {author: thinkingMessage.author, text: thinkingMessage.text + '.'.repeat(dots)}]);
+        }, 500);
+
         messageInput.value = '';
 
-        fetch('http://172.16.142.163:8000/talk/invoke', {
+        fetch('http://localhost:8000/talk/invoke', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json'
@@ -28,7 +37,8 @@
           body: JSON.stringify({input: text})
         }).then(response => response.json())
           .then(data => {
-            messages.update(msgs => [...msgs, {author: "BitsGPT", text: data.output}]);
+            clearInterval(interval);
+            messages.update(msgs => [...msgs.slice(0, -1), {author: "BitsGPT", text: data.output}]);
           });
       };
     }
@@ -67,7 +77,7 @@
         bind:this={messageInput}
         type="text"
         placeholder="Type your message..."
-        class="pl-2 py-2 w-full bg-zinc-700 rounded-lg text-lg text-white focus:outline-none focus:border border-white rounded-r-none"
+        class="pl-3 py-2 w-full bg-zinc-700 rounded-lg text-lg text-white focus:outline-none focus:border border-white rounded-r-none"
         on:keyup={(e) => e.key === 'Enter' && sendMessage()}
       />
       <button
