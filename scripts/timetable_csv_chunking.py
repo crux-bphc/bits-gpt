@@ -7,7 +7,7 @@ def tt_chunker(input_path, output_path, chunk_size):
     df = pd.read_csv(input_path)
     #df = df.replace(r'\r+|\n+|\t+','', regex=True) #removes all newlines, tabs and carriage returns
     header = list(df.columns) #gets header elements
-    #create a temporary dataframe to store the chunk of data
+    #create a temporary dataframe to store the chunk of data 
     temp_df = pd.DataFrame(columns=header)
     chunk = 1 #counter for chunk number
     count = 0 #counter for number of non NaN entries in COM COD column
