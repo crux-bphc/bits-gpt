@@ -17,7 +17,7 @@ def handout_convert(path): #extracts only texts from the pdfs
         filename=path,
         # Unstructured first finds embedded image blocks
         extract_images_in_pdf=False,
-        strategy="hi_res",
+        strategy="fast", #hi_res and fast are available
         # Use layout model (YOLOX) to get bounding boxes (for tables) and find titles
         # Titles are any sub-section of the document
         infer_table_structure=True,
