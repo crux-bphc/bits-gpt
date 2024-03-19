@@ -1,0 +1,17 @@
+COM COD,COURSE NO,COURSE TITLE,TEXT BOOK(S)
+1320,CS F303,COMPUTER NETWORKS,"James F. Kurose and Keith W. Ross Computer Networking: A Top-Down ApproachSixth Edition, 2013, Pearson."
+1317,CS F342,COMPUTER ARCHITECTURE,"Patterson, D.A. & J.L. Hennessy Computer Organization and DesignElsevier, 5th ed., 2013"
+1318,CS F363,COMPILER CONSTRUCTION,"Aho, Sethi and Ullman.Compilers Principles, Techniques, and ToolsPearson Education. Low Price Edition. Second Edition"
+1319,CS F364,DESIGN & ANAL OF ALGO,"Cormen, Thomas H & Others Intro. to AlgorithmsPHI, 3rd ed., 2012"
+1670,CS F366,LABORATORY PROJECT,No text book required
+1740,CS F367,LABORATORY PROJECT,No text book required
+1315,CS F372,OPERATING SYSTEMS,"Silberschatz, Galvin, and Gagne Operating System concepts9th edition, John Wiley & Sons, 2012"
+1689,CS F376,DESIGN PROJECT,No text book required
+1756,CS F377,DESIGN PROJECT,No text book required
+1333,CS F407,ARTIFICIAL INTELLIGENCE,"Russell Stuart J & Peter NorvigArtificial Intelligence : A Modern Approach PHI/Pearson Edu.,  3 rd Ed,2009"
+1322,CS F415,DATA MINING,"Tan,Pang-Ning & Others Introduction to Data MiningPearson Education, 2006"
+2629,CS F437,GENERATIVE ARTIFICIAL INTELLIGEN,TO BE ANNOUNCED
+1857,CS F469,INFORMATION RETRIEVAL,"C. D. Manning, P. Raghavan and H. Schutze Introduction to InformationRetrievalCambridge University Press, 2008"
+507,CS G513,NETWORK SECURITY,"William StallingsCryptography and Network Security: Principles and Practice 7th Edition,Pearson, 2017"
+2449,CS G516,ADVANCED DATABASE SYSTEMS,"(i) Raghu Ramakrishnan and Johannes Gehrke Database ManagementSystem3rd Ed, McGraw-Hill, 2002"
+,,,"(ii) Silberschatz A, Korth H F, and Sudarshan S Database SystemConceptsTMH, 7th Edition, 2020"
