@@ -1,0 +1,20 @@
+
+Here are the summaries of each course along with their details:
+Production Techniques I (ME F243):
+Taught by N Suresh Kumar Reddy, Production Techniques I (ME F243) consists of 2 lecture hours and 1 practical hour per week, contributing to 3 course units. Classes are scheduled on Mondays and Wednesdays. The mid-semester exam is on 11th March, and the comprehensive exam is on 7th May in the forenoon session.
+Study Project (ME F266):
+This course involves a study project and is instructed by Santanu Datta. It doesn't specify lecture or practical hours, but it amounts to 3 course units.
+Computer-Aided Design (ME F318):
+Under the guidance of SP Regalla, Computer-Aided Design (ME F318) includes 2 lecture hours and 1 practical hour per week, totaling 3 course units. Classes take place on Tuesdays and Thursdays. The mid-semester exam is on 14th March, and the comprehensive exam is on 13th May in the forenoon session.
+Vibrations and Control (ME F319):
+Led by G R Sabareesh, Vibrations and Control (ME F319) comprises 3 lecture hours per week, resulting in 3 course units. Classes are conducted on Tuesdays and Thursdays. The mid-semester exam is on 11th March, and the comprehensive exam is on 6th May in the forenoon session.
+Engineering Optimization (ME F320):
+Taught by C P Kiran, Engineering Optimization (ME F320) consists of 3 lecture hours per week, contributing to 3 course units. Classes are held on Mondays, Wednesdays, and Fridays. The mid-semester exam is on 13th March, and the comprehensive exam is on 11th May in the afternoon session.
+Data Mining in Mechanical Sci (ME F321):
+Instructed by Kundan Kumar Singh, Data Mining in Mechanical Sci (ME F321) includes 2 lecture hours and 1 practical hour per week, amounting to 3 course units. Classes are scheduled on Mondays, Wednesdays, and Fridays. The mid-semester exam is on 12th March, and the comprehensive exam is on 9th May in the forenoon session.
+Energy Storage Technologies (ME F323):
+Under the guidance of R Parameshwaran, Energy Storage Technologies (ME F323) comprises 3 lecture hours per week, making up 3 course units. Classes take place on Mondays, Wednesdays, and Fridays. The mid-semester exam is on 15th March, and the comprehensive exam is on 16th May in the forenoon session.
+Prime Movers & Fluid Mach (ME F341):
+Taught by S S Deshmukh, Prime Movers & Fluid Mach (ME F341) consists of 2 lecture hours and 1 practical hour per week, totaling 3 course units. Classes occur on Mondays and Wednesdays. The mid-semester exam is on 16th March, and the comprehensive exam is on 20th May in the forenoon session.
+Laboratory Project (ME F366 and ME F367):
+Both ME F366 and ME F367 involve a laboratory project and are instructed by Aritra Chatterjee. They don't specify lecture or practical hours but each amounts to 3 course units.

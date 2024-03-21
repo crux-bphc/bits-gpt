@@ -1,0 +1,22 @@
+
+Here's the summary of each course along with its details:
+Cosmology (MATH F456):
+Taught by B Mishra, Cosmology (MATH F456) consists of 3 lecture hours per week, totaling 3 course units. Classes are scheduled on Mondays, Wednesdays, and Fridays. The mid-semester exam is on 15th March, and the comprehensive exam is on 16th May in the afternoon session.
+Nonlinear Optimization (MATH F471):
+Under the instruction of K Venkata Ratnam, Nonlinear Optimization (MATH F471) includes 3 lecture hours per week, contributing to 3 course units. Classes take place on Mondays, Wednesdays, and Fridays. The mid-semester exam is on 15th March, and the comprehensive exam is on 16th May in the afternoon session.
+Commutative Algebra (MATH F481):
+Instructed by Pratyusha Chattopadhyay, Commutative Algebra (MATH F481) comprises 3 lecture hours per week, making up 3 course units. Classes are conducted on Mondays, Wednesdays, and Fridays. The mid-semester exam is on 12th March, and the comprehensive exam is on 9th May in the forenoon session.
+Workshop Practice (ME F112):
+Led by Sujith R and Prabakaran Saravanan, Workshop Practice (ME F112) includes 1 lecture hour and 1 practical hour per week, amounting to 2 course units. Classes are held on Fridays. The mid-semester exam is on 16th March, and the comprehensive exam is on 20th May in the forenoon session.
+Advanced Mechanics of Solids (ME F218):
+Taught by Brajesh Kumar Panigrahi and Amol Vuppuluri, Advanced Mechanics of Solids (ME F218) consists of 2 lecture hours per week, resulting in 2 course units. Classes occur on Mondays and Wednesdays. The mid-semester exam is on 11th March, and the comprehensive exam is on 7th May in the forenoon session.
+Manufacturing Processes (ME F219):
+Under the guidance of N Suresh Kumar Reddy and Amritha Priyadarshini, Manufacturing Processes (ME F219) carries 3 lecture hours per week, contributing to 4 course units. Classes are conducted on Mondays, Wednesdays, and Fridays. The mid-semester exam is on 15th March, and the comprehensive exam is on 16th May in the forenoon session.
+Heat Transfer (ME F220):
+Instructed by Satish K Dubey and Mrinal Ketan Jagirdar, Heat Transfer (ME F220) includes 3 lecture hours per week, making up 4 course units. Classes take place on Mondays, Wednesdays, and Fridays. The mid-semester exam is on 12th March, and the comprehensive exam is on 9th May in the forenoon session.
+Mechanisms and Machines (ME F221):
+Led by YV Daseswara Rao and Brajesh Kumar Panigrahi, Mechanisms and Machines (ME F221) comprises 3 lecture hours per week, totaling 3 course units. Classes are scheduled on Tuesdays and Thursdays. The mid-semester exam is on 14th March, and the comprehensive exam is on 14th May in the afternoon session.
+Machine Design & Drawing (ME F241):
+Taught by G R Sabareesh, Machine Design & Drawing (ME F241) consists of 3 lecture hours and 1 practical hour per week, amounting to 4 course units. Classes are held on Mondays, Wednesdays, and Fridays. The mid-semester exam is on 16th March, and the comprehensive exam is on 18th May in the forenoon session.
+IC Engines (ME F242):
+Under the instruction of KRC Murthy, IC Engines (ME F242) includes 2 lecture hours per week, resulting in 2 course units. Classes occur on Mondays, Wednesdays, and Fridays. The mid-semester exam is on 15th March, and the comprehensive exam is on 16th May in the forenoon session.

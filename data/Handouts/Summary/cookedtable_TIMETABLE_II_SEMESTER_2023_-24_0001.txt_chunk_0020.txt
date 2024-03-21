@@ -1,0 +1,38 @@
+
+Here are the summaries of each course along with their details:
+Course: SECUR ANAL & PORTFOLMGT (ECON F412)
+Credit Hours: 3
+Instructor-in-Charge: C H YAGANTI
+C H Yaganti teaches this course focusing on security analysis and portfolio management. Lectures are scheduled on Monday, Wednesday, and Friday. The mid-semester exam is on 15th March, and the comprehensive exam is on 16th May.
+Course: REGIONAL ECONOMICS (ECON F416)
+Credit Hours: 3
+Instructor-in-Charge: VIVEKANANDA MUKHERJE
+Vivekananda Mukherje leads this course covering regional economics. Lectures are scheduled on Monday, Wednesday, and Friday. The mid-semester exam is on 11th March, and the comprehensive exam is on 7th May.
+Course: APPLIEDMACROECONOMETRICS (ECON F420)
+Credit Hours: 3
+Instructor-in-Charge: SHREYA BISWAS
+Shreya Biswas teaches this course focusing on applied macroeconometrics. Lectures are scheduled on Monday, Wednesday, and Friday. The mid-semester exam is on 11th March, and the comprehensive exam is on 7th May.
+Course: INTERNATIONAL BUSINESS (ECON F434)
+Credit Hours: 3
+Instructor-in-Charge: ARCHANA SRIVASTAVA
+Archana Srivastava leads this course covering international business. Lectures are scheduled on Tuesday and Thursday. Practical sessions are under Archana Srivastava on Mondays. The mid-semester exam is on 15th March, and the comprehensive exam is on 17th May.
+Course: MARKETING RESEARCH (ECON F435)
+Credit Hours: 3
+Instructor-in-Charge: RISHI KUMAR
+Rishi Kumar instructs this course focusing on marketing research. Lectures are scheduled on Monday, Wednesday, and Friday. The mid-semester exam is on 15th March, and the comprehensive exam is on 16th May.
+Course: ELECTRICAL SCIENCES (EEE F111)
+Credit Hours: 3
+Instructor-in-Charge: MITHUN MONDAL & BALASUBRAMANIAN MALAYAPPA
+Mithun Mondal and Balasubramanian Malayappa teach this course covering electrical sciences. Lectures are scheduled on Tuesday and Thursday. Tutorials are conducted under various instructors. The mid-semester exam is on 15th March, and the comprehensive exam is on 17th May.
+Course: MICROPROC &INTERFACING (EEE F241)
+Credit Hours: 3
+Instructor-in-Charge: SUBHRADEEP PAL
+Subhradeep Pal leads this course focusing on microprocessors and interfacing. Lectures are scheduled on Monday, Wednesday, and Friday. Practical sessions are under various instructors. The mid-semester exam is on 11th March, and the comprehensive exam is on 7th May.
+Course: CONTROL SYSTEMS (EEE F242)
+Credit Hours: 3
+Instructor-in-Charge: HARISH VIJAY DIXIT & ANKUR BHATTACHARJEE
+Harish Vijay Dixit and Ankur Bhattacharjee teach this course covering control systems. Lectures are scheduled on Tuesday and Thursday. Tutorials are conducted under various instructors. The mid-semester exam is on 14th March, and the comprehensive exam is on 14th May.
+Course: SIGNALS & SYSTEMS (EEE F243)
+Credit Hours: 3
+Instructor-in-Charge: PRATYUSH CHAKRABORTY & VENKATESWARAN R
+Pratyush Chakraborty and Venkateswaran R lead this course focusing on signals and systems. Lectures are scheduled on Monday, Wednesday, and Friday. Tutorials are conducted under various instructors. The mid-semester exam is on 15th March, and the comprehensive exam is on 16th May.

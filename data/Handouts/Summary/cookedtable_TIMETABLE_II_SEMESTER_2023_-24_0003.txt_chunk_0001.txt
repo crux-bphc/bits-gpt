@@ -1,0 +1,35 @@
+
+Here's a summary of the provided CSV data:
+Course Name: AN F312 - Aircraft Propulsion
+Textbook: To be announced.
+Course Name: AN F314 - Introduction to Flight
+Textbooks:
+John D. Anderson Introduction to Flight, 6th Edition, McGraw Hill, Special Indian edition, 2017.
+T. H. G. Megson Aircraft Structures for Engineering Students, Elsevier India, 2005.
+Course Name: AN F315 - Aircraft Structures
+Textbooks:
+Megson T.H.G., Aircraft Structures for Engineering Students, Butterworth-Heinemann (Elsevier), 7th Edition, UK, 2022.
+Sun C. T., Adnan A., Mechanics of Aircraft Structures, 3rd Edition, Wiley, NJ, USA, 2021.
+Course Name: BIO F110 - Biology Laboratory
+Textbook: Same as Part iv: Biology Faculty MT-I Biology, Notes EDD, 2007 Lab Manual for Biology Laboratory Notes EDD, 2012.
+Course Name: BIO F111 - General Biology
+Textbook: Simon, E.J. et. al. Campbell Essential Biology with Physiology, 5th edition, Pearson India Education Services Pvt. Ltd., Noida, 2016.
+Course Name: BIO F215 - Biophysics
+Textbook: J. A. Tuszynski and M. Kurzynski Introduction to Molecular Biophysics, CRC Press (Indian Edition), Chennai.
+Course Name: BIO F217 - Lab for Water Sanitation & Solid Waste Management
+Textbook: To be announced.
+Course Name: BIO F241 - Ecology & Environmental Science
+Textbook: Odum, Eugene P & G.W Barrett Fundamentals of Ecology, Cengage Learning, 5th ed, 2006.
+Course Name: BIO F242 - Introduction to Bioinformatics
+Textbook: LESK, ARTHUR MINTRO TO BIOINFORMATICS, OUP, 3RD ED., 2009.
+Course Name: BIO F243 - Genetics
+Textbook: Tamarin, Robert H. Principles of Genetics, TMH, 7th ed., 2002.
+Course Name: BIO F244 - Instru Methods of Anal
+Textbooks:
+Sivasankar et. al Instrumental Methods of Analysis, CBS Oxford University Press, NewDelhi, 1st 2012.
+Mahesh et. al Lab Manual for PHA C391 IMA 2008.
+Course Name: BIO F266 - Study Project
+Textbook: No textbook required.
+Course Name: BIO F341 - Developmental Biology
+Textbook: Wolpert, Lewis & Others Principles of Development, OUP, 5rd ed, 2015.
+2 / 2

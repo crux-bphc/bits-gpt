@@ -1,0 +1,22 @@
+
+Here are the summaries of the courses:
+Introduction to Astro & Astrophysics (PHY F215):
+Taught by SUBHASH N. KARBELKAR, Introduction to Astro & Astrophysics (PHY F215) consists of 3 lecture hours per week, totaling 3 course units. Classes are scheduled on Mondays, Wednesdays, and Fridays. The mid-semester exam is on 11th March, and the comprehensive exam is on 7th May in the forenoon session.
+Electromagnetic Theory II (PHY F241):
+Conducted by SASHIDEEP GUTTI, Electromagnetic Theory II (PHY F241) comprises 3 lecture hours and 1 practical hour per week, amounting to 4 course units. Classes occur on Mondays and Wednesdays. The mid-semester exam is set for 15th March, and the comprehensive exam is on 16th May in the forenoon session. Practical sessions are led by Sashideep Gutti on Fridays.
+Quantum Mechanics I (PHY F242):
+Under the instruction of ARAVINDA N RAGHAVAN, Quantum Mechanics I (PHY F242) includes 3 lecture hours per week, making up 3 course units. Classes take place on Tuesdays and Thursdays. The mid-semester exam is scheduled for 14th March, and the comprehensive exam is on 14th May in the forenoon session.
+Mathematical Methods of Physics (PHY F243):
+Led by SWASTIK BHATTACHARYA, Mathematical Methods of Physics (PHY F243) offers 3 lecture hours per week, totaling 3 course units. Classes occur on Mondays, Wednesdays, and Fridays. The mid-semester exam is set for 12th March, and the comprehensive exam is on 9th May in the forenoon session.
+Modern Physics Lab (PHY F244):
+The course Modern Physics Lab (PHY F244) involves 2 practical hours per week, amounting to 2 course units. Practical sessions are conducted on Mondays and Wednesdays by VSN MURTHY in A210 and Kannan Ramaswamy in A211.
+Study Project (PHY F266):
+The Study Project (PHY F266) is available for 3 course units, with no specified lecture or practical hours. It is instructed by TANAY NAG.
+Theory of Relativity (PHY F315):
+Taught by SASHIDEEP GUTTI, Theory of Relativity (PHY F315) consists of 3 lecture hours per week, totaling 3 course units. Classes occur on Tuesdays and Thursdays. The mid-semester exam is on 11th March, and the comprehensive exam is on 6th May in the forenoon session.
+Solid State Physics (PHY F341):
+Conducted by SOURI BANERJEE, Solid State Physics (PHY F341) comprises 3 lecture hours per week, making up 3 course units. Classes take place on Tuesdays. The mid-semester exam is scheduled for 16th March, and the comprehensive exam is on 18th May in the forenoon session.
+Atomic & Molecular Physics (PHY F342):
+Under the instruction of K V SHIV CHAITANYA, Atomic & Molecular Physics (PHY F342) includes 3 lecture hours per week, totaling 3 course units. Classes occur on Tuesdays and Thursdays. The mid-semester exam is set for 14th March, and the comprehensive exam is on 13th May in the forenoon session.
+Nuclear & Particle Physics (PHY F343):
+Led by SARMISTHA BANIK, Nuclear & Particle Physics (PHY F343) offers 3 lecture hours per week, making up 3 course units. Classes take place on Mondays, Wednesdays, and Fridays. The mid-semester exam is scheduled for 13th March, and the comprehensive exam is on 11th May in the forenoon session.

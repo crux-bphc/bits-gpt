@@ -1,0 +1,40 @@
+
+Here is the summary of the provided CSV data:
+Course: HSS F338 - Comparative Indian Literature
+Textbook(s):
+Ben Hutchinson. Comparative Literature, OUP, 2018.
+Course: HSS F340 - Postcolonial Literature
+Textbook(s):
+McLeod, John. Beginning Postcolonialism, 2nd ed., Manchester UP, 2010.
+Ashcroft, Bill, et al., editors. Post-Colonial Studies: The Key Concepts, 2nd ed., Routledge, 2007.
+Course: HSS F363 - Disaster and Development
+Textbook(s): To be announced.
+Course: HSS F369 - Caste and Gender in India
+Textbook(s):
+Uma Chakravarthy. Gendering Caste: Through a Feminist Lens, Stree, 2018.
+Course: HSS F378 - Cinemas of India: From Past to Present
+Textbook(s):
+Vasudevan, Ravi. Making Meaning in Indian Cinema, Oxford University Press, 2000.
+Duggal, Menon & Bhattacharya. Film Studies: An Introduction, Worldview, 2022.
+Course: HSS F379 - Introduction to Philosophy of Science
+Textbook(s): No textbook required.
+Course: HSS F382 - Housing: Programs, Policies and Practices
+Textbook(s): To be announced.
+Course: INSTR F241 - Microprocessor and Interfacing
+Textbook(s):
+Lyla B Das. The x86 Microprocessors: 8086 to Pentium, Multicores, Atom and the 8051 Microcontroller Architecture, Programming and Interfacing, Second Edition.
+Course: INSTR F242 - Control Systems
+Textbook(s):
+Nagrath I.J. and M. Gopal. Control Systems Engineering, NAIL, 5th ed., 2007.
+Course: INSTR F243 - Signals and Systems
+Textbook(s):
+Lathi, B P. Principles of Signal Processing and Linear, OUP, 2nd ed., 2009.
+Course: INSTR F244 - Microelectronic Circuits
+Textbook(s):
+A. S. Sedra & K. C. Smith. Microelectronic Circuits, Oxford University Press, 7th ed.
+Course: INSTR F266 - Study Project
+Textbook(s): No textbook required.
+Course: INSTR F341 - Analog Electronics
+Textbook(s):
+Maheshwari L K. Analog Electronics, PHI, 2005.
+Maheshwari L K & M M S Anand. Lab Experiments & PSPICE Simulation in Analog Electronics Experiments, PHI, 2005.

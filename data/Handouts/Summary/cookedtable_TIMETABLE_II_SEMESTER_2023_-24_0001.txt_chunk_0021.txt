@@ -1,0 +1,20 @@
+
+Certainly, here's the summary including exam dates:
+CONTROL SYSTEMS LABORATORY (COM CODE: EEE F245):
+This course offers practical experience in control systems. Taught by Alivelu Manga Parimi, Krishna Tejus E M, Gorityala Aishvaria, and Ponnalagu R N, the laboratory sessions take place in room K125 on Tuesdays, Thursdays, and Fridays. Exam details: Mid-semester and comprehensive exam dates are not provided.
+ELECTRICAL & ELECTRONIC CIRCUITS LABORATORY (COM CODE: EEE F246):
+Led by Venkateswaran R, this laboratory course provides hands-on learning in electrical and electronic circuits. Sessions are scheduled on Tuesdays and Thursdays in room H106, with additional instructors including Naresh Bahadursha, Syed Ershad Ahmed, Sreejith V, Rajesh Kumar Tripathy, Aditya Tiwari, Niranjan Raj, Pratyush Chakraborty, and To Be Announced. Exam details: Mid-semester and comprehensive exam dates are not provided.
+STUDY PROJECT (COM CODE: EEE F266):
+Facilitated by S K Chatterjee, this course allows students to delve into a study project under the guidance of their instructor. Exam details: No exam details provided.
+POWER SYSTEMS (COM CODE: EEE F312):
+Taught by STP Srinivas and Alivelu Manga Parimi, this course covers power systems. Lecture sessions occur on Mondays, Wednesdays, and Fridays in room F107, while tutorials are conducted on Fridays in room J214, and on Tuesdays in room J217. The mid-semester exam is scheduled for the 13th of March from 2:00 PM to 3:30 PM. The comprehensive exam will be held on the 11th of May in the afternoon session.
+ANALOG ELECTRONICS (COM CODE: EEE F341):
+BVVSN Prabhakar Rao leads this course on analog electronics, with lecture sessions on Mondays, Wednesdays, and Fridays in room F105. Practical sessions are divided into multiple slots throughout the week, with tutorials on Mondays in room I114, Wednesdays in room I111, and various instructors assigned. The mid-semester exam is scheduled for the 16th of March from 4:00 PM to 5:30 PM. The comprehensive exam will be held on the 20th of May in the afternoon session.
+POWER ELECTRONICS (COM CODE: EEE F342):
+Instructed by Sudha Radhika and STP Srinivas, this course focuses on power electronics. Lecture sessions take place on Tuesdays and Thursdays in room F105, while practical sessions are conducted in the lab. Tutorials are scheduled on Mondays and Wednesdays in various rooms. The mid-semester exam is scheduled for the 11th of March from 9:30 AM to 11:00 AM. The comprehensive exam will be held on the 6th of May in the forenoon session.
+FPGA BASED SYSTEM DESIGN LAB (COM CODE: EEE F348):
+Taught by Amit Kumar Panda and Himanshi Awasthi, this lab course involves FPGA based system design. Sessions occur on Tuesdays and Thursdays in room I124. Exam details: Mid-semester and comprehensive exam dates are not provided.
+LABORATORY PROJECT (COM CODE: EEE F366, EEE F367):
+Led by Sayan Kanungo, these courses allow students to undertake laboratory projects to gain practical experience. Exam details: No exam details provided.
+DESIGN PROJECT (COM CODE: EEE F376):
+Taught by Sourav Nandi, this course focuses on design projects, providing students with the opportunity to apply their skills in a practical setting. Exam details: No exam details provided.

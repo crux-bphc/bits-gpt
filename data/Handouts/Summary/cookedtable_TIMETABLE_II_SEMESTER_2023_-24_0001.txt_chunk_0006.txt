@@ -1,0 +1,17 @@
+
+Here's a summary of each course along with its details:
+Course: Introduction to Biomedical Engineering (BITS F418)
+Taught by Kavi Devraj, this course comprises 3 lecture hours and 1 practical hour per week, accumulating 4 credit units. Classes are scheduled on Mondays, Wednesdays, and Fridays. The mid-semester exam is set for 11th March from 4.00 to 5.30 PM, while the comprehensive exam will be on 7th May in the afternoon session.
+Course: Thesis (BITS F421T, F422T, F423T, F424T)
+These thesis courses, overseen by Sridhar Raju, consist of 16 credit units each. The details regarding lecture hours, practical hours, and class schedules are not provided.
+Course: Essentials of Strategic Management (BITS F428)
+Under the instruction of Swati Alok, this course encompasses 3 lecture hours per week, totaling 3 credit units. Classes are scheduled on Tuesdays and Thursdays. The mid-semester exam is on 11th March from 9.30 to 11.00 AM, and the comprehensive exam will be on 6th May in the forenoon session.
+Course: Robotics (BITS F441)
+Arshad Javed teaches this course, which includes 3 lecture hours per week, accumulating 3 credit units. Classes are held on Mondays, Wednesdays, and Fridays. The mid-semester exam will take place on 11th March from 2.00 to 3.30 PM, and the comprehensive exam is on 7th May in the forenoon session.
+Course: Remote Sensing & Image Processing (BITS F442)
+Taught by K Rajitha, this course comprises 3 lecture hours per week, totaling 3 credit units. Classes are scheduled on Mondays, Wednesdays, and Fridays. The mid-semester exam is on 11th March from 4.00 to 5.30 PM, while the comprehensive exam will be on 7th May in the afternoon session.
+Course: Cryptography (BITS F463)
+Under the instruction of G Geethakumari, this course includes 3 lecture hours per week, accumulating 3 credit units. Classes are scheduled on Mondays, Wednesdays, and Fridays. The mid-semester exam will take place on 12th March from 4.00 to 5.30 PM, and the comprehensive exam is on 9th May in the afternoon session. Additional instructors for practical sessions include Chillara Anil Kumar, Praneeta Krishnaprasad Ma, and Sandeep Ravikanti.
+Course: Machine Learning (BITS F464)
+Taught by Chittaranjan Hota, this course comprises 3 lecture hours per week, accumulating 3 credit units. Classes are scheduled on Tuesdays and Thursdays. The mid-semester exam is set for 14th March from 2.00 to 3.30 PM, and the comprehensive exam will be on 15th May in the forenoon session. Additional instructors for practical sessions include Chaitra C R, Harsha Varun Marisetty, S Shashank, and Chittaranjan Hota.
+3 / 3

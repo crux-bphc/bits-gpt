@@ -1,0 +1,16 @@
+
+Here are the summaries of the courses:
+Advanced Physics Lab (PHY F344):
+Supervised by SUBRAHMANYA BHIMA SA, Advanced Physics Lab (PHY F344) requires 3 practical hours per week, totaling 3 course units. The course is conducted in room B214 on Mondays and Wednesdays.
+Laboratory Project (PHY F366):
+The Laboratory Project (PHY F366) entails 3 course units, with no specified lecture or practical hours. The instructor for this project is RICKMOY SAMANTA.
+Design Project (PHY F376):
+Offered by SUVADIP DAS, the Design Project (PHY F376) comprises 3 course units, with no specified lecture or practical hours.
+Thin Film Technology (PHY F379):
+Under the guidance of B HARIHARA VENKATARA, Thin Film Technology (PHY F379) consists of 3 lecture hours per week, totaling 3 course units. Classes occur on Tuesdays and Thursdays. The mid-semester exam is on 14th March, and the comprehensive exam is on 15th May in the forenoon session.
+Introduction to Quantum Field Theory (PHY F412):
+Taught by PRASANT SAMANTRAY, Introduction to Quantum Field Theory (PHY F412) includes 3 lecture hours and 1 practical hour per week, amounting to 4 course units. Classes occur on Mondays, Wednesdays, and Fridays. The mid-semester exam is scheduled for 15th March, and the comprehensive exam is on 16th May in the forenoon session.
+Particle Physics (PHY F413):
+Led by RAHUL NIGAM, Particle Physics (PHY F413) consists of 3 lecture hours and 1 practical hour per week, making up 4 course units. Classes occur on Mondays, Wednesdays, and Fridays. The mid-semester exam is on 11th March, and the comprehensive exam is on 7th May in the forenoon session.
+Quantum Optics (PHY F420):
+Conducted by ARANYA BHUTI BHATTACHAJEE, Quantum Optics (PHY F420) comprises 3 lecture hours and 1 practical hour per week, totaling 4 course units. Classes occur on Tuesdays and Thursdays. The mid-semester exam is scheduled for 15th March, and the comprehensive exam is on 17th May in the forenoon session. Additionally, there is a class on Mondays.

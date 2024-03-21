@@ -1,0 +1,34 @@
+
+Here are the summaries of each course along with their details:
+Course: BIO & CHEMICAL SENSORS (CHEM F414)
+Credit Hours: 3
+Instructor-in-Charge: J SUBBALAKSHMI
+This course, led by J Subbalakshmi, explores the principles and applications of bio and chemical sensors. Lectures are scheduled on Monday, Wednesday, and Friday in room G102. The mid-semester exam is on 12th March, and the comprehensive exam is on 9th May.
+Course: ADVANCED ORGANIC CHEMISTRY (CHEM G551)
+Credit Hours: 5
+Instructor-in-Charge: KVG CHANDRASEKHAR
+KVG Chandrasekhar heads this course focusing on advanced topics in organic chemistry. Lectures are scheduled on Monday, Wednesday, and Friday in room G102. The mid-semester exam is on 12th March, and the comprehensive exam is on 8th May.
+Course: ADVANCED INORGANIC CHEMISTRY (CHEM G552)
+Credit Hours: 5
+Instructor-in-Charge: SATYA NARAYAN GUIN
+Satya Narayan Guin leads this course delving into advanced concepts in inorganic chemistry. Lectures are scheduled on Tuesday and Thursday in room G102. The mid-semester exam is on 13th March, and the comprehensive exam is on 10th May.
+Course: COMPUTER PROGRAMMING (CS F111)
+Credit Hours: 4
+Instructor-in-Charge: NIKUMANI CHOUDHURY
+Nikumani Choudhury conducts this course covering the fundamentals of computer programming. Lectures are scheduled on Tuesday and Thursday in room F105. Practical sessions are conducted under various instructors. The mid-semester exam is on 15th March, and the comprehensive exam is on 17th May.
+Course: DATA STRUCTURES & ALGORITHMS (CS F211)
+Credit Hours: 4
+Instructor-in-Charge: RAMASWAMY VENKATAKR
+Ramaswamy Venkatakr leads this course exploring data structures and algorithms. Lectures are scheduled on Monday, Wednesday, and Friday in room F102. Practical sessions and tutorials are also conducted under different instructors. The mid-semester exam is on 12th March, and the comprehensive exam is on 9th May.
+Course: DATA BASE SYSTEMS (CS F212)
+Credit Hours: 4
+Instructor-in-Charge: JABEZ J CHRISTOPHER
+Jabez J Christopher conducts this course focusing on database systems. Lectures are scheduled on Tuesday and Thursday in room F102. Practical sessions and tutorials are also conducted under various instructors. The mid-semester exam is on 14th March, and the comprehensive exam is on 14th May.
+Course: OBJECT ORIENTED PROGRAMMING (CS F213)
+Credit Hours: 4
+Instructor-in-Charge: DIPANJAN CHAKRABORTY
+Dipanjan Chakraborty leads this course covering object-oriented programming concepts. Lectures are scheduled on Monday, Wednesday, and Friday in room F102. Practical sessions and tutorials are conducted under different instructors. The mid-semester exam is on 15th March, and the comprehensive exam is on 16th May.
+Course: MICROPROCESSORS & INTERFACING (CS F241)
+Credit Hours: 4
+Instructor-in-Charge: SUBHRADEEP PAL
+Subhradeep Pal conducts this course focusing on microprocessors and interfacing. Lectures are scheduled on Monday, Wednesday, and Friday in room F102. Practical sessions and tutorials are conducted under various instructors. The mid-semester exam is on 11th March, and the comprehensive exam is on 7th May.

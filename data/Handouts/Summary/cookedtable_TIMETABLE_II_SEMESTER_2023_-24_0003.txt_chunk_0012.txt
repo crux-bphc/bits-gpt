@@ -1,0 +1,34 @@
+
+Here's a summary of the provided CSV data:
+Course Name: CS F303 - Computer Networks
+Textbook: James F. Kurose and Keith W. Ross, Computer Networking: A Top-Down Approach, Sixth Edition, 2013, Pearson.
+Course Name: CS F342 - Computer Architecture
+Textbook: Patterson, D.A. & J.L. Hennessy, Computer Organization and Design, Elsevier, 5th ed., 2013.
+Course Name: CS F363 - Compiler Construction
+Textbook: Aho, Sethi, and Ullman, Compilers Principles, Techniques, and Tools, Pearson Education, Second Edition.
+Course Name: CS F364 - Design & Analysis of Algorithms
+Textbook: Cormen, Thomas H & Others, Introduction to Algorithms, PHI, 3rd ed., 2012.
+Course Name: CS F366 - Laboratory Project
+Textbook: No textbook required.
+Course Name: CS F367 - Laboratory Project
+Textbook: No textbook required.
+Course Name: CS F372 - Operating Systems
+Textbook: Silberschatz, Galvin, and Gagne, Operating System Concepts, 9th edition, John Wiley & Sons, 2012.
+Course Name: CS F376 - Design Project
+Textbook: No textbook required.
+Course Name: CS F377 - Design Project
+Textbook: No textbook required.
+Course Name: CS F407 - Artificial Intelligence
+Textbook: Russell Stuart J & Peter Norvig, Artificial Intelligence: A Modern Approach, PHI/Pearson Edu., 3rd Ed, 2009.
+Course Name: CS F415 - Data Mining
+Textbook: Tan, Pang-Ning & Others, Introduction to Data Mining, Pearson Education, 2006.
+Course Name: CS F437 - Generative Artificial Intelligence
+Textbook: To be announced.
+Course Name: CS F469 - Information Retrieval
+Textbook: C. D. Manning, P. Raghavan and H. Schutze, Introduction to Information Retrieval, Cambridge University Press, 2008.
+Course Name: CS G513 - Network Security
+Textbook: William Stallings, Cryptography and Network Security: Principles and Practice, 7th Edition, Pearson, 2017.
+Course Name: CS G516 - Advanced Database Systems
+Textbooks:
+Raghu Ramakrishnan and Johannes Gehrke, Database Management System, 3rd Ed, McGraw-Hill, 2002.
+Silberschatz A, Korth H F, and Sudarshan S, Database System Concepts, TMH, 7th Edition, 2020.

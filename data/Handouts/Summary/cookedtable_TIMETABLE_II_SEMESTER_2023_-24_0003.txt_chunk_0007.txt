@@ -1,0 +1,27 @@
+
+Here's a summary of the provided CSV data:
+Course Name: CE F425 - Airport Rail & Waterways
+Textbooks:
+Subhash C. Saxena, Airport Engineering, Planning and Design, CBS Publishers and Distributors, New Delhi, Reprint 2015.
+R. Srinivasan, Harbour, Dock and Tunnel Engineering, 29th Edition, Charotar Publishing House Pvt. Ltd., 2018.
+Saxena SC and Arora S C, A Text Book of Railway Engineering, Paperback Dhanpat Rai Publications, Reprint 2015.
+Course Name: CE G514 - Structural Optimization
+Textbook: Rao, S S, Engineering Optimization, Theory and Practice, New Age International Publishers, Fourth Edition, 2013.
+Course Name: CE G518 - Pavement Analysis & Design
+Textbooks:
+Yang H Huang (2010), Pavement Analysis and Design, Pearson, Prentice Hall, NJ, USA, 2nd Edition.
+AASHTO, Mechanistic Empirical Pavement Design Guide – A Manual of Practice, USA, 2nd Edition.
+Course Name: CE G566 - Public Transportation
+Textbooks:
+Vuchic Vukan R, Urban Transit: Operations, Planning and Economics, John Wiley & Sons, Inc., 2005.
+Vukan R. Vuchic, Urban Transit Systems and Technology, John Wiley & Sons, Inc., 2007 Edition.
+Course Name: CE G570 - Highway Construction Technology
+Textbooks:
+Kandhal, Textbook on Bituminous Road Construction in India, PHI, Revised Edition, 2019.
+MoRTH, Book of Specifications for Roads and Bridge Works, IRC, Latest Revision, 2013, New Delhi.
+Course Name: CE G575 - Freight Transportation
+Textbooks:
+Tavasszy, L., and DeJong, G, Modeling Freight Transport, Elsevier, 1st Edition, 2014.
+Sunil Chopra, Peter Meindl, and D V Kalra, Supply Chain Management: Strategy, Planning and Operation, Pearson Education, Sixth Edition, India.
+Course Name: CE G613 - Advanced Concrete Structures
+Textbook: Varghese P C, Advanced Reinforced Concrete Design, PHI, 2nd ed, 2005.

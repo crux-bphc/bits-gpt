@@ -1,0 +1,38 @@
+
+Here are the summaries of each course along with their details:
+Course: GENERATIVE ARTIFICIAL INTELLIGENCE (CS F437)
+Credit Hours: 3
+Instructor-in-Charge: NL BHANUMURTHY
+NL Bhanumurthy leads this course focusing on generative artificial intelligence. Lectures are scheduled on Monday, Wednesday, and Friday in room F208. The mid-semester exam is on 11th March, and the comprehensive exam is on 7th May.
+Course: INFORMATION RETRIEVAL (CS F469)
+Credit Hours: 3
+Instructor-in-Charge: PRAJNA DEVI UPADHYAY
+Prajna Devi Upadhyay conducts this course covering information retrieval. Lectures are scheduled on Tuesday and Thursday in room F108. Practical sessions are conducted under Shivram A. The mid-semester exam is on 11th March, and the comprehensive exam is on 6th May.
+Course: NETWORK SECURITY (CS G513)
+Credit Hours: 4
+Instructor-in-Charge: RAJIB RANJAN MAITI
+Rajib Ranjan Maiti leads this course focusing on network security. Lectures are scheduled on Monday, Wednesday, and Friday. Practical sessions are conducted by Rajib Ranjan Maiti. The mid-semester exam is on 12th March, and the comprehensive exam is on 8th May.
+Course: ADVANCED DATABASE SYSTEMS (CS G516)
+Credit Hours: 4
+Instructor-in-Charge: SUBHRAKANTA PANDA
+Subhrakanta Panda conducts this course covering advanced database systems. Lectures are scheduled on Tuesday and Thursday. Practical sessions are conducted by Subhrakanta Panda. The mid-semester exam is on 13th March, and the comprehensive exam is on 10th May.
+Course: SOFTWARE FOR EMBEDDED SYSTEMS (CS G523)
+Credit Hours: 5
+Instructor-in-Charge: SOUMYA J
+Soumya J leads this course focusing on software for embedded systems. Lectures are scheduled on Tuesday and Thursday. Practical sessions are conducted by Soumya J. The mid-semester exam is on 12th March, and the comprehensive exam is on 8th May.
+Course: ADVANCED COMPUTER ARCHITECTURE (CS G524)
+Credit Hours: 5
+Instructor-in-Charge: ARITRA MUKHERJEE
+Aritra Mukherjee conducts this course covering advanced computer architecture. Lectures are scheduled on Monday, Wednesday, and Friday. Practical sessions are conducted by Aritra Mukherjee. The mid-semester exam is on 14th March, and the comprehensive exam is on 13th May.
+Course: MICROPROCESSORS & INTERFACING (ECE F241)
+Credit Hours: 4
+Instructor-in-Charge: SUBHRADEEP PAL
+Subhadeep Pal leads this course focusing on microprocessors and interfacing. Lectures are scheduled on Monday, Wednesday, and Friday. Practical sessions are conducted under different instructors. The mid-semester exam is on 11th March, and the comprehensive exam is on 7th May.
+Course: CONTROL SYSTEMS (ECE F242)
+Credit Hours: 3
+Instructor-in-Charge: HARISH VIJAY DIXIT
+Harish Vijay Dixit conducts this course covering control systems. Lectures are scheduled on Tuesday and Thursday. Practical sessions and tutorials are conducted under various instructors. The mid-semester exam is on 14th March, and the comprehensive exam is on 14th May.
+Course: SIGNALS & SYSTEMS (ECE F243)
+Credit Hours: 3
+Instructor-in-Charge: PRATYUSH CHAKRABORTY
+Pratyush Chakraborty leads this course focusing on signals and systems. Lectures are scheduled on Monday, Wednesday, and Friday. Practical sessions and tutorials are conducted under various instructors. The mid-semester exam is on 15th March, and the comprehensive exam is on 16th May.

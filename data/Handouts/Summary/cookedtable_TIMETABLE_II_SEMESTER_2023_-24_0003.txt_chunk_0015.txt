@@ -1,0 +1,36 @@
+
+Here is a summary of the provided CSV data:
+Course: ECON F315 - Financial Management
+Textbook(s):
+Richard A. Brealey, Stewart C. Myers, Franklin Allen, and Pitabas Mohanty. Principles of Corporate Finance. Tata McGraw-Hill Publishing Company Ltd, 2012.
+Course: ECON F341 - Public Finance Theory & Policy
+Textbook(s):
+Richard A. Musgrave & P. B. Musgrave. Public Finance in Theory and Practice. McGraw-Hill Book Company, New York, 2007.
+Course: ECON F342 - Applied Econometrics
+Textbook(s):
+J. Wooldridge. Introductory Econometrics- A Modern Approach. 4th Edition, South Western Cengage Learning, 2012.
+Course: ECON F343 - Economic Analysis of Public Policy
+Textbook(s):
+William K. Bellinger. Economic Analysis of Public Policy. Routledge, London and New York, 2007.
+Course: ECON F345 - Behavioral Economics
+Textbook(s):
+Sanjit Dhami. The Foundations of Behavioural Economic Analysis: Volume I: Behavioural Economics of Risk, Uncertainty, and Ambiguity. Oxford University Press, 2019.
+Course: ECON F354 - Derivatives & Risk Management
+Textbook(s):
+John C. Hull & Basu Sankarshan. Options, Futures and Other Derivatives. 8th Edition, Pearson Education.
+Course: ECON F355 - Business Analysis & Valuation
+Textbook(s):
+Palepu, Healy & Bernard. Business Analysis & Valuation - Using Financial Statements Text & Cases. Cengage Learning Publisher, 3rd Edition.
+Damodaran A. Damodaran on Valuation. Wiley India Pvt. Ltd. 2nd Edition.
+Course: ECON F366 - Laboratory Project
+No textbook required.
+Course: ECON F367 - Laboratory Project
+No textbook required.
+Course: ECON F376 - Design Project
+No textbook required.
+Course: ECON F377 - Design Project
+No textbook required.
+Course: ECON F412 - Security Analysis & Portfolio Management
+Textbook(s):
+Frank K. Reilly & Keith C. Brown. Analysis of Investments & Management of Portfolios. Cengage-L, 10th ed., 2012.
+Zvi Bodie, Alex Kane, Alan Marcus, Pitabas Mohanty. Investments. 2010, McGraw Hill.

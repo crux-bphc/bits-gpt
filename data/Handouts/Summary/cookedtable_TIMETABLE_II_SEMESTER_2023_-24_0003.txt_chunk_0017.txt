@@ -1,0 +1,40 @@
+
+Here is a summary of the provided CSV data:
+Course: EEE F342 - Power Electronics
+Textbook(s):
+N. Mohan, T. M. Undeland, and W. P. Robbins. Power Electronics: Converters, Applications, and Design. John Wiley & Sons Inc., 2008, third edition.
+M. H. Rashid. Power Electronics Devices, Circuits and Applications. Prentice-Hall, Inc., Pearson Education, 2004, third edition.
+Course: EEE F348 - FPGA Based System Design Lab
+Textbook(s):
+Wayne Wolf. FPGA Based System Design. Pearson Edu, 2004.
+Samir Palnitkar. Verilog HDL: A Guide to Digital Design and Synthesis. Book.
+Pong P. Chu. FPGA Prototyping by Verilog Examples. Wiley, 2008.
+Course: EEE F366 - Laboratory Project
+No textbook required.
+Course: EEE F367 - Laboratory Project
+No textbook required.
+Course: EEE F376 - Design Project
+No textbook required.
+Course: EEE F377 - Design Project
+No textbook required.
+Course: EEE F426 - Fibre Optics & Optoelectronics
+Textbook(s):
+R. P. Khare. Fiber Optics and Optoelectronics. Oxford University Press, 2004.
+Course: EEE F428 - Energy Storage Systems
+Textbook(s):
+To be announced.
+Course: EEE F435 - Digital Image Processing
+Textbook(s):
+Gonzalez & Woods. Digital Image Processing. 3rd Edition, Pearson, 2009.
+Course: EEE F474 - Antenna Theory and Design
+Textbook(s):
+C. A. Balanis. Antenna Theory, Analysis and Design. 3rd ed., John Wiley and Sons, 2005.
+Course: EEE F477 - Modeling of Field-Effect Nano Devices
+Textbook(s):
+Mark Laundstrom. Fundamentals of Nano Transistors. Word Scientific, 1st ed., 2008.
+Course: EEE F478 - Power Systems Lab
+Textbook(s):
+Nagrath I.J. and D.P. Kothari. Power System Engineering. TMH, 1994.
+Course: EEE G592 - Mobile & Personal Communication
+Textbook(s):
+Theodore S. Rappaport. Wireless Communications Principles and Practice. Second Edition, Pearson, 2010.
