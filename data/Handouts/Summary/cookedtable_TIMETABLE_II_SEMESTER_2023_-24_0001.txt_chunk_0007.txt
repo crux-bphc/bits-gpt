@@ -1,0 +1,20 @@
+
+Here's a summary of each course along with its details:
+Course: Study in Advanced Topics (BITS G513)
+This course, led by Alivelu Manga Parimi, consists of 5 credit units. Details regarding lecture and practical hours, as well as class schedule, are not provided.
+Course: Data Sciences II (BITS G527)
+Aneesh Sreevallabh C teaches this course, which includes 5 credit units. Classes are scheduled on Mondays, Wednesdays, and Fridays. The mid-semester exam is set for 12th March from 9.30 to 11.00 AM, and the comprehensive exam will be on 8th May in the forenoon session.
+Course: Research Project I (BITS G529)
+Under the instruction of Alivelu Manga Parimi, this course comprises 6 credit units. Details regarding lecture and practical hours, as well as class schedule, are not provided.
+Course: Research Project II (BITS G539)
+Taught by Alivelu Manga Parimi, this course consists of 6 credit units. Details regarding lecture and practical hours, as well as class schedule, are not provided.
+Course: Research Practice (BITS G540)
+Alivelu Manga Parimi leads this course, which includes 4 credit units. Details regarding lecture and practical hours, as well as class schedule, are not provided.
+Course: Dissertation (BITS G563T, G629T)
+Alivelu Manga Parimi supervises these dissertation courses, each consisting of 16 credit units. Details regarding lecture and practical hours, as well as class schedule, are not provided.
+Course: Practice School (BITS G639)
+Under the supervision of S S Deshmukh, this course comprises 20 credit units. Details regarding lecture and practical hours, as well as class schedule, are not provided.
+Course: Reading Course (BITS G649)
+Alivelu Manga Parimi leads this course, which consists of 5 credit units. Details regarding lecture and practical hours, as well as class schedule, are not provided.
+Course: Research Methodology I (BITS G661)
+Taught by Karthik Chetan, this course comprises 5 credit units. Classes are scheduled on Mondays, Wednesdays, and Fridays. The mid-semester exam is on 13th March from 4.00 to 5.30 PM, and the comprehensive exam will be on 10th May in the forenoon session.

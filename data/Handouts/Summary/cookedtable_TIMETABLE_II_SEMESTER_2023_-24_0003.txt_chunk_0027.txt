@@ -1,0 +1,40 @@
+
+Here is the summary of the provided CSV data:
+Course: MGTS F316 - Managerial & Leadership Skills
+Textbook(s): To be announced
+Course: MSE G512 - Manufacturing Planning & Cont
+Textbook(s):
+Russell R. S. & Taylor B. W. Operations Management, International Student Version, 7/e, John Wiley and Sons (Asia) Pte. Ltd., 2011
+Course: MST G522 - Advanced Composites
+Textbook(s):
+K.K. Chawla. Composite Materials, 2nd ed., (1987) Springer-Verlag, New York.
+Course: PHA F214 - Anatomy Physio & Hygiene
+Textbook(s):
+Marieb, Elaine N. Essentials of Human Anatomy & Physiology, Pearson Edu., 9th ed., 2009
+Course: PHA F216 - Pharmaceutical Formulations I
+Textbook(s):
+Cooper and Gunn. Dispensing for Pharmaceutical Students, CBS, 12th ed., 1987
+Course: PHA F241 - Pharmaceutical Chemistry
+Textbook(s):
+L. G. Wade and Maya Shankar Singh. Organic Chemistry, Pearson, 6th Edition
+Bentley and Driver’s. Textbook of Pharmaceutical Chemistry, 8th Edition, Oxford Medical publications
+Course: PHA F242 - Biological Chemistry
+Textbook(s):
+Robert K.M. Murray, et.al. Harper’s Illustrated Biochemistry, McGraw Hill Medical Publishers, 29th edition
+Course: PHA F313 - Instru Methods of Anal
+Textbook(s):
+Willard, H.H & Others. Instrumental Methods of Analysis, CBS, 7th ed., 1988
+Parimoo P. Pharmaceutical Analysis, CBSI, 1988
+Course: PHA F341 - Pharmacology II
+Textbook(s):
+Tripathi KD. Essentials of Medical Pharmacology, Sixth edition, Jaypee brothers, New Delhi, 2008
+Course: PHA F342 - Medicinal Chemistry II
+Textbook(s):
+William O Foye. Principles of Medicinal Chemistry, Sixth Edition, Lea and Febiger, Phil., 2008
+D . Sriram & P. Yogeeswari. Medicinal Chemistry, Pearson Education, second Edition, 2010. (or latest)
+Course: PHA F343 - Forensic Pharmacy
+Textbook(s):
+Mithal B.M. Textbook of Forensic Pharmacy, Vallabh, 10th ed, 1999
+Course: PHA F344 - Natural Drugs
+Textbook(s):
+Evans, W C and D. Evan. Trease & Evans Pharmacognosy, Saunders, 16th ed, 2009

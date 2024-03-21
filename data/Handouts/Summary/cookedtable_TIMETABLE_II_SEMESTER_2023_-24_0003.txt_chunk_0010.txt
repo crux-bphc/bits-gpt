@@ -1,0 +1,36 @@
+
+Here's a summary of the provided CSV data:
+Course Name: GENERAL CHEMISTRY
+Textbook: J. D. Lee, Concise Inorganic Chemistry, 5th Edition, Blackwell Science, Oxford, 1999.
+Course Name: CHEM F223 - Colloid & Surface Chem
+Textbooks:
+Drew Myers, Surfaces, Interfaces, and Colloids: Principles and Applications, Wiley, Second Edition, 1999.
+Pallab Ghosh, Colloid and Interface Science, 2009.
+I. N. Levine, Physical Chemistry, 5th Edition, Tata McGraw-Hill, 2011.
+Course Name: CHEM F241 - Inorganic Chemistry II
+Textbook: Huheey, J. E.; Keiter, E. A.; Keiter, R. L.; Medhi O. K, Inorganic Chemistry, 4th Edition, Pearson.
+Course Name: CHEM F242 - Chemical Experiment I
+Textbook: No textbook required.
+Course Name: CHEM F243 - Organic Chemistry II
+Textbooks:
+E. l. Eliel, S. H. Wilen, L.N. Mander, Stereochemistry of Organic Compounds, 1st Ed., 2004.
+Michael B Smith & Jerry March, Advanced Organic Chemistry, John Wiley & Sons, 6th ed., 2012.
+Course Name: CHEM F244 - Physical Chemistry III
+Textbook: Levine, Ira N, Quantum Chemistry, PHI, 6th Edition, 2009.
+Course Name: CHEM F266 - Study Project
+Textbook: No textbook required.
+Course Name: CHEM F329 - Analytical Chemistry
+Textbook: GARY. D. CHRISTIAN, Analytical Chemistry, 6th ed., Wiley, 2003.
+Course Name: CHEM F341 - Chemical Experiment II
+Textbook: No textbook required.
+Course Name: CHEM F342 - Organic Chemistry IV
+Textbooks:
+Raj K Bansal, Heterocyclic Chemistry, 5th Ed., New Age International publishers, 2010.
+I L Finar, Organic Chemistry Vol-2, 5th Ed., Pearson Education, 2009.
+Course Name: CHEM F343 - Inorganic Chemistry III
+Textbooks:
+E. Ochiai, Bioinorganic Chemistry: A Survey, Academic Press, 2008.
+Donald R. Askeland, Pradeep P. Phule, The Science and Engineering of Materials, Fourth Edition, Thomson, 2003.
+Course Name: CHEM F366 - Laboratory Project
+Textbook: No textbook required.
+2 / 2

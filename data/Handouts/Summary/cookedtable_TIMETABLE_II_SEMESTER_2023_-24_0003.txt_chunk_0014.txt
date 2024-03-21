@@ -1,0 +1,43 @@
+
+Here is a summary of the provided CSV data:
+Course: ECE F344 - Information Theory & Coding
+Textbook(s):
+Ranjan Bose. Information Theory, Coding and Cryptography. Tata McGraw-Hill, 2016. 3rd Edition.
+Course: ECE F366 - Laboratory Project
+No textbook required.
+Course: ECE F367 - Laboratory Project
+No textbook required.
+Course: ECE F376 - Design Project
+No textbook required.
+Course: ECE F377 - Design Project
+No textbook required.
+Course: ECON F211 - Principles of Economics
+Textbook(s):
+Karl E. Case, Ray C. Fair & Sharon M. Oster. Principles of Economics. Pearson Education, 12th ed, 2017.
+Course: ECON F212 - Fundamentals of Finance and Accounting
+Textbook(s):
+R. Narayanaswamy. Financial Accounting – A Managerial Perspective. PHI, 5th edition, 2014.
+Robert Anthony, David Hawkins, Kenneth Merchant. Accounting Text & Cases. 13th edition, 2013.
+Bhole, L.M. and Jitendra Mahakud. Financial Institutions & Markets: Structure Growth and Innovations. Tata McGraw Hill, 5th edition, 2009.
+Course: ECON F215 - Computational Methods for Economics
+Textbook(s):
+To be announced.
+Course: ECON F241 - Econometric Methods
+Textbook(s):
+Christopher Dougherty. Introduction to Econometrics. 5th Edition, Oxford University Press, 2016.
+Course: ECON F242 - Microeconomics
+Textbook(s):
+Hal R. Varian. Microeconomic Analysis. Viva-Norton Student 3rd Edition, 2009.
+Hal R. Varian. Intermediate Microeconomics. 8th Edition, Affiliated East-West Press and W.W. Norton, 2010.
+Course: ECON F243 - Macroeconomics
+Textbook(s):
+Richard T. Froyen. Macroeconomics: Theories & Policies. A. W. Inc. ed; 10th ed. 1999.
+Course: ECON F244 - Economics of Growth & Development
+Textbook(s):
+Devraj Ray. Development Economics. OUP, Delhi, 2010, Reprint.
+Course: ECON F266 - Study Project
+No textbook required.
+Course: ECON F314 - Industrial Economics
+Textbook(s):
+J. Church and R. Ware. Industrial Organization: A Strategic Approach. First edition, McGraw-Hill, 2000.
+2 / 2

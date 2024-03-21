@@ -1,0 +1,37 @@
+
+Here is the summary of the provided CSV data:
+Course: PHA F366 - Laboratory Project
+Textbook(s): No textbook required
+Course: PHA F367 - Laboratory Project
+Textbook(s): No textbook required
+Course: PHA F376 - Design Project
+Textbook(s): No textbook required
+Course: PHA F377 - Design Project
+Textbook(s): No textbook required
+Course: PHA F413 - Pharma Mang & Qual Contr
+Textbook(s):
+Khanna, O.P. Industrial Engineering & Mgt, Dhanpat Rai, Rev.ed, 1999
+Sidney H. Willing; Marcel Dekker. Good Manuf Prac for Phar: A Plan for Total Q.C., Marcel Dekker, 6th ed, 2007
+Course: PHA F414 - Biopharmaceutics
+Textbook(s):
+Brahmankar, D M and Jaiswal, S N. Biopharmaceutics and Pharmacokinetics - A Treatise, Vallabh, 2nd ed., 2009
+Course: PHA F417 - Pharmacoeconomics
+Textbook(s): To be announced
+Course: PHA G532 - Q A & Regulatory Affairs
+Textbook(s):
+Sidney H. Willig, Murray M. Tuckerman, and William S. Hitchings IV. Good Manufacturing Practices for Pharmaceuticals: A Plan for Total Quality Control, Marcel Dekker, New York, 4th Edn., Vol. 78, 1997
+Alfred H. Wachter and Robert A. Nash. Pharmaceutical Process Validation, Marcel Dekker, New York, 2nd Edn., Vol. 129, 2014
+Shein-Chung Chow, Jen-Pei Liu. Design and Analysis of Clinical Trials, Wiley-IEEE, 2003
+Course: PHA G546 - Pharmaceutical Biostatistics
+Textbook(s):
+Sanford Bolton and Charles Bon. Pharmaceutical Statistics: Practical and Clinical Applications, Fifth Edition. (Informa Healthcare, 2007)
+Course: PHA G611 - Advanced Pharmacology
+Textbook(s):
+Goodman & Gilman’s. The Pharmacological Basis of Therapeutics, McGraw Hill, 10th ed., 2001
+Course: PHA G612 - Pharm Kinet & Clinic Pha
+Textbook(s):
+Gibaldi M & D Perrier. Pharmacokinetics, Marcel Dekker, 2nd ed., 1982
+Course: PHA G617 - Adv Drug Delivery System
+Textbook(s):
+Tyle, P. Specialized Drug Delivery Systems- Manufacturing and Production Technology, Marcel Dekker, New York, 1990
+3 / 3

@@ -1,0 +1,36 @@
+
+Here is a summary of the provided CSV data:
+Course: CS G523 - Software for Embedded Systems
+Textbook(s):
+Bruce Powel Douglass. Real – Time UML: Advances in the UML for Real – Time Systems. 3rd Edition, 2004.
+Dive into Python. Link
+Brian Gerkey, Morgan L. Quigley, and William D. Smart. Programming Robots with ROS: A Practical Introduction to the Robot Operating System. Link
+Course: CS G524 - Advanced Computer Architecture
+Textbook(s):
+J.L Hennessy & D.A.Patterson. Computer Architecture: A Quantitative Approach. 6th Edition, 2017.
+Course: DE G514 - Fracture Mechanics
+Textbook(s):
+Prashant Kumar. Elements of Fracture Mechanics. Tata McGraw-Hill Publishing Company Ltd., New Delhi, 2009.
+Course: ECE F241 - Microprocessor and Interfacing
+Textbook(s):
+Lyla B Das. The x86 Microprocessors: 8086 to Pentium, Multicores, Atom and the 8051 Microcontroller Architecture, Programming and Interfacing. Second Edition.
+Course: ECE F242 - Control Systems
+Textbook(s):
+Nagrath I.J. and M. Gopal. Control Systems Engineering. NAIL, 5th ed., 2007.
+Course: ECE F243 - Signals and Systems
+Textbook(s):
+B.P. Lathi. Principles of Signal Processing and Linear Systems. 2nd Edition, Oxford University Press, 2009.
+Course: ECE F244 - Microelectronic Circuits
+Textbook(s):
+A.S. Sedra & K.C. Smith. Microelectronic Circuits. Oxford University Press, 7th ed.
+Course: ECE F266 - Study Project
+No textbook required.
+Course: ECE F312 - EM Fields Lab Micro Engineering Lab
+No textbook required.
+Course: ECE F341 - Analog Electronics
+Textbook(s):
+L.K. Maheshwari. Analog Electronics. PHI, 2005.
+L.K. Maheshwari & M.M.S. Anand. Lab Experiments & PSPICE Simulation in Analog Electronics Experiments. PHI, 2005.
+Course: ECE F343 - Communication Networks
+Textbook(s):
+Behrouz A. Forouzan. Data communications and networking. TMH; 5th Edition; 2013.

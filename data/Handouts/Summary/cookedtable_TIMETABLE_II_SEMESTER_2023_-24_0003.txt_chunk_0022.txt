@@ -1,0 +1,42 @@
+
+Here is the summary of the provided CSV data:
+Course: MATH F242 - Operations Research
+Textbook(s):
+Taha, Hamdy A. Operations Research: An Introduction, Pearson Edu, 10th ed., 2012.
+Venkateswaran S. and B. Singh. Operations Research Notes EDD, V. 3, 2007.
+Course: MATH F243 - Graphs and Networks
+Textbook(s):
+Gary Chartrand & Ping Zhang. Introduction to Graph Theory, Tata Mcgraw-hill, Indian Edition 2006.
+Course: MATH F244 - Measure & Integration
+Textbook(s):
+H. L. Royden, P. M. Fitzpatrick. Real Analysis, 4th Edition, Pearson Education India, 2015.
+Course: MATH F266 - Study Project
+Textbook(s): No textbook required.
+Course: MATH F315 - Introduction to Statistical Inference
+Textbook(s): No textbook required.
+Course: MATH F341 - Introduction to Functional Analysis
+Textbook(s):
+Kreyszig, Erwin. Introductory Functional Analysis with Applications, Reprinted 2010, John Wiley.
+Course: MATH F342 - Differential Geometry
+Textbook(s):
+D. Somasundaram. Differential Geometry A First Course, Narosa Publishing House, First Edition, 2012.
+Course: MATH F343 - Partial Differential Equations
+Textbook(s):
+Tyn Myint-U and Lokenath Debnath. Linear Partial Differential Equations for Scientists and Engineers, Birkhauser, 4th Edition.
+Course: MATH F353 - Statistical Inference & Applications
+Textbook(s):
+Venkateswaran, S., & B. Singh. Operations Research Notes-EDD, Vol.1 and 2, 1997.
+Course: MATH F366 - Laboratory Project
+Textbook(s): No textbook required.
+Course: MATH F367 - Laboratory Project
+Textbook(s): No textbook required.
+Course: MATH F376 - Design Project
+Textbook(s): No textbook required.
+Course: MATH F377 - Design Project
+Textbook(s): No textbook required.
+Course: MATH F421 - Combinatorial Mathematics
+Textbook(s):
+Richard A. Brualdi. Introductory Combinatorics, Pearson Prentice Hall, 2014.
+Course: MATH F456 - Cosmology
+Textbook(s):
+A. Liddle. An Introduction to Modern Cosmology, Relativity and Cosmology, 3rd edition, Wiley, 2015.

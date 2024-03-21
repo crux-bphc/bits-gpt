@@ -1,0 +1,27 @@
+
+Here are the summaries of each course along with their details:
+Course: COMPUTER ARCHITECTURE (CS F342)
+Credit Hours: 4
+Instructor-in-Charge: S GURUNARAYANAN
+S Gurunarayanan leads this course focusing on computer architecture. Lectures are scheduled on Tuesday and Thursday in room F103. Practical sessions are conducted under M Aalelai Vendhan. The mid-semester exam is on 14th March, and the comprehensive exam is on 15th May.
+Course: COMPILER CONSTRUCTION (CS F363)
+Credit Hours: 3
+Instructor-in-Charge: RAGHUNATH REDDY M
+Raghunath Reddy M conducts this course covering compiler construction. Lectures are scheduled on Monday and Wednesday in room F102. Practical sessions and tutorials are conducted under various instructors. The mid-semester exam is on 16th March, and the comprehensive exam is on 20th May.
+Course: DESIGN & ANALYSIS OF ALGORITHMS (CS F364)
+Credit Hours: 3
+Instructor-in-Charge: TATHAGATA RAY
+Tathagata Ray leads this course focusing on the design and analysis of algorithms. Lectures are scheduled on Tuesday and Thursday in room F102. Tutorials are conducted by different instructors. The mid-semester exam is on 14th March, and the comprehensive exam is on 13th May.
+Course: OPERATING SYSTEMS (CS F372)
+Credit Hours: 3
+Instructor-in-Charge: BARSHA MITRA
+Barsha Mitra conducts this course covering operating systems. Lectures are scheduled on Monday, Wednesday, and Friday in room F106. Practical sessions are conducted under various instructors. The mid-semester exam is on 11th March, and the comprehensive exam is on 7th May.
+Course: ARTIFICIAL INTELLIGENCE (CS F407)
+Credit Hours: 3
+Instructor-in-Charge: ABHIJIT DAS
+Abhijit Das leads this course focusing on artificial intelligence. Lectures are scheduled on Monday, Wednesday, and Friday in room F106. Practical sessions are conducted under various instructors. The mid-semester exam is on 12th March, and the comprehensive exam is on 9th May.
+Course: DATA MINING (CS F415)
+Credit Hours: 3
+Instructor-in-Charge: ARUNA MALAPATI
+Aruna Malapati conducts this course covering data mining. Lectures are scheduled on Monday, Wednesday, and Friday in room F107. Practical sessions are conducted under various instructors. The mid-semester exam is on 15th March, and the comprehensive exam is on 16th May.
+2 / 2

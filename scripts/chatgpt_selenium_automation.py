@@ -114,7 +114,7 @@ text_summaries = []
 
 in_path = "data\\Handouts\\rawdata"
 out_path = "data\\Handouts\\Summary"
-processed_path = "data\\Handouts\\processed" #raw files after summarising are sent here so that program can continue from where it left off
+processed_path = "data\\Handouts\\tt_processed" #raw files after summarising are sent here so that program can continue from where it left off
 raw_data_filelist = os.listdir(in_path)
 errors=[]
 
@@ -126,7 +126,7 @@ errors=[]
 #   after the summary is generated. Ill automate this portion later.
 
 
-def summarise_text(in_path, out_path, processed_path):
+def summarise_text(in_path, out_path, processed_path, input_prompt = None):
     raw_data_filelist = os.listdir(in_path)
     for raw_file in raw_data_filelist:
         print("Summarising", raw_file)
@@ -137,8 +137,10 @@ def summarise_text(in_path, out_path, processed_path):
             raw_data = raw_data.replace("'","\\")
             if "rawtext" in raw_file:
                 prompt =f"You are an assistant tasked with summarizing text. It also contains (newline) which signifies a new line. If any detail is NOT present in the chunk DO NOT explicitly mention that in the summary \ Give a concise summary of the text. The chunk is for the course - {basename}, mention the course in the summary. Text chunk: {raw_data}"
+                
             if "rawtable" in raw_file:
-                prompt = f"You are an assistant tasked with creating a summary based on this CSV data. generate a summary of the this data, clearly stating any numbers related to lecture number, textbook chapter, evaluation components, duration. Also give a breif description in the beginning in about 30 words before continuing to describe the entire table.\ (newline) means the presence of a new line\ The chunk is for the course - {basename}, mention the course in the summary. Table chunk: {raw_data}"
+                #prompt = f"You are an assistant tasked with creating a summary based on this CSV data. generate a summary of the this data, clearly stating any numbers related to lecture number, textbook chapter, evaluation components, duration. Also give a breif description in the beginning in about 30 words before continuing to describe the entire table.\ (newline) means the presence of a new line\ The chunk is for the course - {basename}, mention the course in the summary. Table chunk: {raw_data}"
+                prompt = input_prompt + f"|| use ONLY the following CSV data : {raw_data} ||"
             try: 
                 chatgpt.send_prompt_to_chatgpt(prompt)
             except:
@@ -157,6 +159,9 @@ def summarise_text(in_path, out_path, processed_path):
         shutil.move(os.path.join(os.getcwd(),in_path, raw_file), os.path.join(os.getcwd(),processed_path))
 
 
-summarise_text(in_path, out_path, processed_path)
+tt_prompt = """Generate a summary of this CSV data. list the summary of each course in the form of a paragraph along with its details, making sure the course name is present in the paragraph. DO NOT mention the class timings. Take note of the following abbreviations: COM CODE - Computer code for the course; COURSE NO - Course number; COURSE TITLE - Course title; CREDIT L - Lecture hours per week; CREDIT P - pratical hours per week; CREDIT U - total units of the course; SEC- Section Number; INSTRUCTOR-IN-CHARGE/instructor - Name in CAPITAL LETTERS indicate INSTRUCTOR-IN-CHARGE small letters are other instructors; ROOM - First letter indicates block. Eg: F indicates that the room is in F block First digit of number indicates floor, 1 for ground floor and 2 for first floor; DAYS - M - Monday, T - Tuesday, W - Wednesday, TH - Thursday, F - Friday, S - Saturday; HOURS - 1 stands for 1st hour 2 stands for 2nd hour and so on; COMPRE EXAM (session) - FN: 9.30 AM to 12.30 PM || AN: 2.00 PM to 5.00 PM ;"""
+books_prompt = "Generate a summary of this CSV data. list the course name along with its corresponding books"
+
+summarise_text(in_path, out_path, processed_path, books_prompt)
 print("Completed with errors: ", errors)
 chatgpt.quit()
