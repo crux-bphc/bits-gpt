@@ -63,6 +63,12 @@ def generate_data_store():
     documents = load_documents("md")
     chunks = split_text(documents)
 
+    documents = load_documents("docx")
+    chunks.extend(split_text(documents))
+
+    documents = load_documents("pptx")
+    chunks.extend(split_text(documents))
+
     documents = load_documents("pdf")
     chunks.extend(split_text(documents))
 
