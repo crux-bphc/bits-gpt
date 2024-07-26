@@ -76,7 +76,7 @@ class ChatGPTAutomation:
     def return_last_response(self):
         """ :return: the text of the last chatgpt response """
 
-        response_elements = self.driver.find_elements(by=By.CSS_SELECTOR, value='div.text-base')
+        response_elements = self.driver.find_elements(by=By.XPATH, value='//div[@class="markdown prose w-full break-words dark:prose-invert dark"]')
         return response_elements[-1].text
 
     @staticmethod
@@ -162,6 +162,6 @@ def summarise_text(in_path, out_path, processed_path, input_prompt = None):
 tt_prompt = """Generate a summary of this CSV data. list the summary of each course in the form of a paragraph along with its details, making sure the course name is present in the paragraph. DO NOT mention the class timings. Take note of the following abbreviations: COM CODE - Computer code for the course; COURSE NO - Course number; COURSE TITLE - Course title; CREDIT L - Lecture hours per week; CREDIT P - pratical hours per week; CREDIT U - total units of the course; SEC- Section Number; INSTRUCTOR-IN-CHARGE/instructor - Name in CAPITAL LETTERS indicate INSTRUCTOR-IN-CHARGE small letters are other instructors; ROOM - First letter indicates block. Eg: F indicates that the room is in F block First digit of number indicates floor, 1 for ground floor and 2 for first floor; DAYS - M - Monday, T - Tuesday, W - Wednesday, TH - Thursday, F - Friday, S - Saturday; HOURS - 1 stands for 1st hour 2 stands for 2nd hour and so on; COMPRE EXAM (session) - FN: 9.30 AM to 12.30 PM || AN: 2.00 PM to 5.00 PM ;"""
 books_prompt = "Generate a summary of this CSV data. list the course name along with its corresponding books"
 
-summarise_text(in_path, out_path, processed_path, books_prompt)
+summarise_text(in_path, out_path, processed_path, tt_prompt)
 print("Completed with errors: ", errors)
 chatgpt.quit()

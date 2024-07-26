@@ -1,4 +1,0 @@
-
-Course: BITS F111 - THERMODYNAMICS
-Summary:
-The BITS F111 - Thermodynamics course utilizes the textbook "Fundamentals of Thermodynamics" by Borgnakke and Sonntag as the primary text (TB) and "Thermodynamics: An Engineering Approach" by Cengel and Boles as a reference book (RB).

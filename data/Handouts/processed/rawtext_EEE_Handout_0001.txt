@@ -1,5 +1,0 @@
-Transistors
-
-Basic operation of pnp and npn transistors, cutoff and saturation
-
-6. Evaluation Scheme:

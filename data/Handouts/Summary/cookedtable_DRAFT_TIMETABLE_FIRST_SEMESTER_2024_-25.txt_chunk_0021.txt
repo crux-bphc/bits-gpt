@@ -1,0 +1,9 @@
+Here is a summary of each course based on the provided CSV data:
+BEHAVIORAL ECONOMICS (ECON F345) is course number 2184, section 1, taught by DUSHYANT KUMAR. The lectures are held in room J220, and the comprehensive exam is scheduled for the morning session on December 9th.
+DERIVATIVES & RISK MGMT (ECON F354) is course number 1565, section 1, instructed by ACV SUBRAHMANYAM. The lectures take place in room F208, and the comprehensive exam is scheduled for the morning session on December 9th.
+BUSS ANAL & VALUATION (ECON F355) is course number 1547, section 1, led by SRAVANI BHARANDEV. The lectures are conducted in room F208, with additional lectures in room J119. The comprehensive exam is scheduled for the morning session on December 6th.
+LABORATORY PROJECT (ECON F366) is course number 1684, section 1, with ARCHANA SRIVASTAVA as the instructor. Details about the room and comprehensive exam are not provided.
+DESIGN PROJECT (ECON F376) is course number 1690, section 1, taught by ARCHANA SRIVASTAVA. Details about the room and comprehensive exam are not provided.
+SECUR ANAL & PORTFOL MGT (ECON F412) is course number 1566, section 1, instructed by SHREYA BISWAS. The lectures are held in room F208, with additional lectures in room G208. The comprehensive exam is scheduled for the morning session on December 11th.
+NEW VENTURE CREATION (ECON F415) is course number 1553, section 1, led by ARCHANA SRIVASTAVA. The lectures take place in room F101. Details about the comprehensive exam are not provided.
+INTERNATIONAL BUSINESS (ECON F434) is course number 1874, section 1, taught by MINI THOMAS. The lectures are conducted in room J220, and the comprehensive exam is scheduled for the morning session on December 6th.

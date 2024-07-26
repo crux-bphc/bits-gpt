@@ -1,5 +1,0 @@
-Learning Outcomes:
-
-1. Ability to draw free body diagrams with knowledge of constraints and forces and solve the equation of motion.
-
-2. Application of Newton’s laws to planetary motion. 3. Ability to analyze and understand oscillatory mechanical systems which are coupled. 4. To understand Interference and diffraction phenomena

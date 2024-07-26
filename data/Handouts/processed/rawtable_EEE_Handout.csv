@@ -1,55 +1,0 @@
-"",,,,Chapters
-Lect.,,,,
-"",Learning Objectives,,Topics to be covered,in Text
-No.,,,,
-"",,,,Book
-1,Introduction,Introduction,,
-2-5,To study basic circuit," Voltage and current sources, Independent",,1.1 to 1.8
-"",elements and the laws;,"and Dependent sources,",,
-"",," Resistors and Ohm’s law, inductors and",,
-"",,,,Chapters
-Lect.,,,,
-"",Learning Objectives,,Topics to be covered,in Text
-No.,,,,
-"",,,,Book
-"",,,capacitors and their integral relations,
-"",,,ships.,
-"",,,"KCL, KVL; Current divider, Voltage",
-"",,,"divider rule, Instantaneous power",
-6-9,To study circuit analysis,,"Mesh and Nodal Analysis,","2.1 to 2.4,"
-"",techniques and theorems.,,Thevenin’s and Norton’s Theorems,2.5
-"",,,Source transformation and Maximum,
-"",,,"Power Transfer Theorem,",
-10,To study circuit analysis,Linearity and Superposition application in circuit,,2.6
-"",techniques and theorems.,analysis.,,
-11-15,Time Domain Analysis,,First order circuits and natural response;,3.1 to 3.5
-"",,,First order circuits and complete,
-"",,,response.,
-"",,,Second Order Circuits,
-16-20,Alternating current,,"A.C. Voltage & Current,",4.1-4.5 and
-"",circuits,,"Complex numbers,",5.1
-"",,,Frequency and Time Domain analysis.,
-21-23,Alternating current,"Power and Power-factors, Poly-Phase circuits",,4.6 to 4.7
-"",circuits,,,
-24-27,Magnetic Circuits,,Fundamentals of Electromagnetics.,13.1 to 13.7
-"",,,Series and parallel magnetic circuits.,
-"",,,Laws of Electromagnetic induction.,
-"",,,"Principle of a Transformer, ideal",
-"",,,operation with phasor diagram,
-"",,,"Losses calculation, rating, OC and SC",
-"",,,tests.,
-28-32,Electrical Machines,,DC Motors and generators,"15.1, 15.2"
-"",,,AC Motors and generators,
-33-35,Digital Electronics,,"Binary numbers, Binary Arithmetic,",12.1 to 12.4
-"",,,Digital logic circuits and Boolean algebra,
-36-38,Basic Electronics,,"Types of materials, classification of",6.1-6.8
-"",,,"semiconductors, doping, introduction to",
-"",,,semiconductor devices – diodes and,
-"",,,transistors,
-39-42,Bipolar Junction,,Basic operation of pnp and npn,7.1-7.3
-"",Transistors,,"transistors, cutoff and saturation",
-Component,Duration,"Percentageweightage","MaximumMarks","Date & Time(Tentative)",Remarks
-"Daily interaction andassessment",5-10 min,10%,30 M,"Daily, during the lecturesessions",OB
-Quizzes (2),40 min,20%,"2 X 30  =60 M","It will be announced a weekbefore in the class",OB
-Mid-term exam,90 min,30%,90M,"As per the date given inthe Timetable",CB
-"ComprehensiveExamination",3 hours,40%,120M,"As per the date given inthe Timetable",CB

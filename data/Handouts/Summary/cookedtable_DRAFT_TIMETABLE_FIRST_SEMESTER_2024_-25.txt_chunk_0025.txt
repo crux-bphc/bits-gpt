@@ -1,0 +1,11 @@
+Here is a summary of each course based on the provided CSV data:
+BUSINESS COMMUNICATION (GS F221) is course number 1133, section 1, with ARUNA LOLLA as the instructor. The lectures are held in room J119, and the comprehensive exam is scheduled for the afternoon session on December 5th.
+INTRODUCTION TO MASS COMMUNICATION (GS F223) is course number 1135, section 1, with the instructor yet to be announced. The lectures are conducted in room J217, and the comprehensive exam is scheduled for the morning session on December 3rd.
+DYNAMICS OF SOCIAL CHANGE (GS F231) is course number 1169, section 1, taught by SUCHISMITA SATPATHY. The lectures are in room J121, and the comprehensive exam is scheduled for the afternoon session on December 5th.
+INTRODUCTORY PSYCHOLOGY (GS F232) is course number 1170, section 1, with MADHUSHREE CHAKRABARTY as the instructor. The lectures take place in room J206, and the comprehensive exam is scheduled for the morning session on December 9th.
+CREATIVE WRITING (GS F241) is course number 1158, section 1, instructed by TONY SEBASTIAN. The lectures are held in room J120, and the comprehensive exam is scheduled for the afternoon session on December 10th.
+CULTURAL STUDIES (GS F242) is course number 1159, section 1, with SHILPAA ANAND as the instructor. The lectures are conducted in room J120, and the comprehensive exam is scheduled for the afternoon session on December 13th.
+REPORTING AND WRITING FOR MEDIA (GS F244) is course number 1161, section 1, taught by KRISHNANUNNI HARI. The lectures are held in room J121, and the comprehensive exam is scheduled for the afternoon session on December 13th.
+EFFECTIVE PUBLIC SPEAKING (GS F245) is course number 1165, section 1, with SANTOSH MAHAPATRA as the instructor. The lectures are conducted in room J107, and the comprehensive exam is scheduled for the afternoon session on December 5th.
+APPLIED PHILOSOPHY (GS F312) is course number 1174, section 1, taught by JAYESH A K. The lectures are held in room J121, and the comprehensive exam is scheduled for the afternoon session on December 10th.
+CRITICAL ANALYSIS OF LITERATURE & CINEMA (GS F322) is course number 1137, section 1, instructed by MG PRASUNA. The lectures are conducted in room J115, and the comprehensive exam is scheduled for the morning session on December 3rd.

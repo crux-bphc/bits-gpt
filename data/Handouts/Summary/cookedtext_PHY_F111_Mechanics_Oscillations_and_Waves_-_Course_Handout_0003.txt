@@ -1,3 +1,0 @@
-
-Summary:
-The course "Mechanics, Oscillations & Waves" (Course No.: PHY F111) includes specific learning objectives related to wave equations, normal modes of vibration, and energy associated with sinusoidal waves on a stretched string. The text mentions topics such as free vibrations of a stretched string, progressive waves, energy in mechanical waves, phase and group velocity, and the distinction between particle and wave/phase velocity. Additionally, it refers to Chapter 7 (Pages: 201-212) and specific pages (213-215, 230-234, 237-242) in the textbook (TB2) for further study.

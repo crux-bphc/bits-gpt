@@ -1,0 +1,11 @@
+Here's a summary of each course based on the provided CSV data:
+LABORATORY PROJECT (EEE F366) is course number 1731, section 1, with STP SRINIVAS as the instructor. Details about the room and comprehensive exam are not provided.
+LABORATORY PROJECT (EEE F367) is course number 1742, section 1, also taught by STP SRINIVAS. Details about the room and comprehensive exam are not provided.
+DESIGN PROJECT (EEE F376) is course number 1691, section 1, led by SOURAV NANDI. Details about the room and comprehensive exam are not provided.
+DESIGN PROJECT (EEE F377) is course number 1758, section 1, with SOURAV NANDI as the instructor. Details about the room and comprehensive exam are not provided.
+INTERNET OF THINGS (EEE F411) is course number 2288, section 1, taught by RAVIKIRAN YELESWARAPU. The lectures are conducted in room F104, with additional practical sessions in room J105. The comprehensive exam is scheduled for the morning session on December 11th.
+MODERN CONTROL SYSTEMS (EEE F422) is course number 1254, section 1, instructed by ALIVELU MANGA PARIMI. The lectures are held in room I210. The comprehensive exam is scheduled for the afternoon session on December 16th.
+SMART GRID (EEE F424) is course number 2496, section 1, led by STP SRINIVAS. The lectures are conducted in room I210. The comprehensive exam is scheduled for the morning session on December 6th.
+SDUIGSITTAILN SAIBGLNEA ELN PERROGCYESS (EEE F434) is course number 1256, section 1, with RAJESH KUMAR TRIPATHY as the instructor. The lectures take place in room F105, with practical sessions in room I011. The comprehensive exam is scheduled for the afternoon session on December 2nd.
+WIND ELECTRICAL SYSTEM (EEE F473) is course number 1854, section 1, taught by STP SRINIVAS. The lectures are held in room I210. The comprehensive exam is scheduled for the morning session on December 9th.
+RF MICROELECTRONICS (EEE G510) is course number 462, section 1, with PRITESH KUMAR YADAV as the instructor. The lectures are conducted in room G106, with practical sessions in room K125. The comprehensive exam is scheduled for the afternoon session on December 13th.

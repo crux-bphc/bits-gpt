@@ -1,0 +1,11 @@
+Here is a summary of each course based on the provided CSV data:
+FUNDA OF FIN AND ACCOUNT (ECON F212) is course number 1120, section 1, taught by T NAGARAJU. The lectures are held in room F208, and the comprehensive exam is scheduled for the morning session on December 16th.
+MATHEMATIC & STAT METHOD (ECON F213) is course number 1121, section 1, led by SUDATTA BANERJEE. The lectures take place in room F207, with tutorials also conducted in the same room. The comprehensive exam is scheduled for the afternoon session on December 11th.
+ECONOMIC ENV OF BUSINESS (ECON F214) is course number 1145, section 1, instructed by SUDATTA BANERJEE. The course includes lectures in room F207. The comprehensive exam is scheduled for the afternoon session on December 4th.
+ECONOMETRIC METHODS (ECON F241) is course number 1442, section 1, taught by BHEEMESHWAR REDDY A. The lectures are conducted in room J219. The comprehensive exam is scheduled for the morning session on December 9th.
+MICROECONOMICS (ECON F242) is course number 1443, section 1, led by VIVEKANANDA MUKHERJEE. The lectures take place in room J219. The comprehensive exam is scheduled for the morning session on December 11th.
+STUDY PROJECT (ECON F266) is course number 1656, section 1, with ARCHANA SRIVASTAVA as the instructor. Details about the room and comprehensive exam are not provided.
+INTERNATIONAL ECONOMICS (ECON F311) is course number 1446, section 1, taught by ARCHANA SRIVASTAVA. The lectures are held in room F207, with tutorials also conducted in the same room. The comprehensive exam is scheduled for the morning session on December 13th.
+MONEY BANKING & FIN (ECON F312) is course number 1447, section 1, instructed by SUNNY KUMAR SINGH. The lectures are in room F207, and the comprehensive exam is scheduled for the afternoon session on December 10th.
+ISSUES IN ECONOMIC DEV (ECON F313) is course number 1448, section 1, led by DURGESH C PATHAK. The lectures are held in room F207. The comprehensive exam is scheduled for the morning session on December 2nd.
+FINANCIAL MANAGEMENT (ECON F315) is course number 1923, section 1, with NIVEDITA SINHA as the instructor. The lectures take place in room F207, with additional sessions in room J115. The comprehensive exam is scheduled for the afternoon session on December 16th.

@@ -1,3 +1,0 @@
-Objective is how to exploit the relationship between two or more variables introducing by predictive models.
-
-5. Evaluation Scheme: Evaluation Component
