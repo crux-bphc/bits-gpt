@@ -1,4 +1,0 @@
-
-Course: BITS F110_ENGINEERING_GRAPHICS
-Summary:
-This course introduces students to AutoCAD commands, covering topics like simple drawings, orthographic projections, and isometric projections. Led by Instructor Anasua Guha Ray, the team of instructors includes Vasan A., Abhishek Sarkar, and others. The primary focus is on developing and communicating design concepts through Engineering Graphics, emphasizing AutoCAD usage. The course follows the latest ISI code of practice, incorporating computerized drawing for accurate, modifiable graphics. The recommended textbook is "Engineering Graphics with AutoCAD" by D.M. Kulkarni et al., with additional references for further study.

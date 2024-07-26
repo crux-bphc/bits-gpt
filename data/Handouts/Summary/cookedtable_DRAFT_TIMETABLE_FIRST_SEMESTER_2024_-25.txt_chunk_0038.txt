@@ -1,0 +1,20 @@
+PHY F212: Electromagnetic Theory I
+PHY F212: Electromagnetic Theory I is a 3-unit course led by Sashideep Gutti in room G201. This course also includes sections instructed by VSN Murthy, Rahul Nigam, Swastik Bhattacharya, and Asrarul Haque in various rooms. Tutorials are conducted by the same instructors in their respective rooms. The comprehensive exam is on 11th December in the AN session.
+PHY F213: Optics
+PHY F213: Optics is a 3-unit course taught by Meenakshi V in room G202. Tutorials are also conducted by Meenakshi V. The comprehensive exam is scheduled for 4th December in the AN session.
+PHY F214: Electromagnetics and Optics Laboratory
+The PHY F214: Electromagnetics and Optics Laboratory is a 2-unit course overseen by Subhash N. Karbelkar in room A210. Practical sessions are held in different sections with assistance from K V Shiv Chaitanya.
+PHY F266: Study Project
+PHY F266: Study Project is a 3-unit course supervised by Swastik Bhattacharya.
+PHY F311: Quantum Mechanics II
+PHY F311: Quantum Mechanics II is a 3-unit course conducted by Prasant Samantray in room I113. Tutorials are also managed by Prasant Samantray in room G202. The comprehensive exam is on 2nd December in the FN session.
+PHY F312: Statistical Mechanics
+PHY F312: Statistical Mechanics is a 3-unit course led by Sarmistha Banik in room G202. Tutorials are also conducted by Sarmistha Banik with assistance from Debanjan Guha Roy and Suraj Kumar Maurya. The comprehensive exam is scheduled for 13th December in the FN session.
+PHY F313: Computational Physics
+PHY F313: Computational Physics is a 3-unit course managed by Subhadeep Roy in room G202. Tutorials are also handled by Subhadeep Roy with assistance from ViswaKannan R K. The comprehensive exam is on 10th December in the AN session.
+PHY F316: Musical Acoustics
+PHY F316: Musical Acoustics is a 3-unit course taught by K V Shiv Chaitanya in room G203. The comprehensive exam is scheduled for 6th December in the FN session.
+PHY F345: Quantum Mechanics for Engineers
+PHY F345: Quantum Mechanics for Engineers is a 3-unit course led by Kannan Ramaswamy in room G106. The comprehensive exam is on 11th December in the FN session.
+PHY F346: Materials Science and Engineering
+PHY F346: Materials Science and Engineering is a 3-unit course managed by Aranya Bhuti Bhattacherjee in room G106. The comprehensive exam is scheduled for 6th December in the FN session.

@@ -14,7 +14,7 @@ def tt_chunker(input_path, output_path, chunk_size):
     with open(input_path, 'r', encoding="utf-8") as handle:
         for line in handle: #line by line read of csv file
             values = line.strip().split(",") #converts the line into a list of values
-            if values[0] == 'COM COD': #checks if the first element is not empty
+            if values[0] != '': #checks if the first element is not empty
                 count += 1
                 print(values)
 
@@ -60,5 +60,5 @@ def books_chunker(input_path, output_path):
         
 
 if __name__ == "__main__":
-    tt_chunker(r"data\Handouts\rawdata\rawtable_TIMETABLE_II_SEMESTER_2023_-24_0001.csv", r"data\Handouts\CSV", 10)
-    books_chunker(r"data\Handouts\rawdata\rawtable_TIMETABLE_II_SEMESTER_2023_-24_0003.csv", r"data\Handouts\CSV")
+    tt_chunker(r"data\Handouts\rawdata\rawtable_DRAFT_TIMETABLE_FIRST_SEMESTER_2024_-25.csv", r"data\Handouts\CSV", 10)
+    #books_chunker(r"data\Handouts\rawdata\rawtable_TIMETABLE_II_SEMESTER_2023_-24_0003.csv", r"data\Handouts\CSV")
