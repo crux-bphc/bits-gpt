@@ -66,6 +66,9 @@ def generate_data_store():
     documents = load_documents("pdf")
     chunks.extend(split_text(documents))
 
+    documents = load_documents("txt")
+    chunks.extend(split_text(documents))
+
     print("Loading web documents...")
     web_documents = load_web_documents()
     web_chunks = split_text(web_documents)
