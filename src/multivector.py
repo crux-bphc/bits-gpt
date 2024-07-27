@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-raw_data_path = "data\\Handouts\\tt_processed"
+raw_data_path = "data\\Handouts\\processed"
 summaries_path = "data\\Handouts\\Summary"
 
 table_summaries = []
