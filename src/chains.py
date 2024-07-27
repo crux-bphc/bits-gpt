@@ -1,5 +1,6 @@
 from langchain.prompts import ChatPromptTemplate
 from langchain_openai.chat_models import ChatOpenAI
+from langchain_groq import ChatGroq
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableParallel, RunnablePassthrough
 from src.query_db import get_retriever
@@ -10,7 +11,19 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-model = ChatOpenAI(model="gpt-3.5-turbo")
+if os.getenv("GROQ_API_KEY") is not None:
+    model_name = os.getenv("GROQ_MODEL_NAME") or "mixtral-8x7b-32768"
+    print(f"Using GROQ: {model_name} model")
+    model = ChatGroq(temperature=0, model_name=model_name)
+
+elif os.getenv("OPENAI_API_KEY") is not None:
+    model_name = os.getenv("OPENAI_MODEL_NAME") or "gpt-3.5-turbo"
+    print(f"Using OpenAI: {model_name} model")
+    model = ChatOpenAI(model=model_name)
+
+else:
+    raise ValueError("No API key found for GROQ or OpenAI in environment variables")
+
 vectorstore_retriever = get_retriever()
 
 
@@ -29,7 +42,9 @@ Answer the question without using the word context: {question}
 Also at the end link the source(s) of your answer, if they are related to the question.
 """
 
-ensemble_retriever = EnsembleRetriever(retrievers=[vectorstore_retriever, MV_retriever], weights=[0.6, 0.4])
+ensemble_retriever = EnsembleRetriever(
+    retrievers=[vectorstore_retriever, MV_retriever], weights=[0.6, 0.4]
+)
 
 prompt = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
 setup_and_retrieval = RunnableParallel(
