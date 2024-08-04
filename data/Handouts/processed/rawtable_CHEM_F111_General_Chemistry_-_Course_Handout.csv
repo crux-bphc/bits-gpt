@@ -1,0 +1,115 @@
+Lec.,Learning,Topics to be Covered,Learning Outcomes of the Lectures,,,Chapter in the Text Book
+No.,Objectives,,,,,
+1-3,Quantum Theory,Origin of quantum mechanics; Black,Relate the need for quantum theory. Define and,,,"T1 12.1-12.7, 12.9"
+"",,"body radiation, Wavefunction,",consolidate new concepts to be used in quantum,,,"(7A, 7B, 7C, 7E)"
+"",,"Uncertainty principle, Schrodinger",mechanics. Apply quantization of states and zero-point,,,
+"",,equation - Simple Applications,energy in simple systems.,,,
+"",,,,,,
+4-8,Atomic Structure,Hydrogenic Atoms: Energy levels,Identify the atomic orbital picture of H-atom from,,,"T1 13.1-13.11, 13.17-"
+"",and Spectra,"and Wavefunctions, Orbitals,",quantum mechanics; spin orbit coupling and atomic term,,,13.19.
+"",,"spectral transitions, many-electron",symbols. Identify spin as another coordinate.,,,"(8A, 8B, 8D)"
+"",,"atoms: orbital approximation, Pauli",,,,
+"",,"principle, Aufbau principle, term",,,,13.15-13.16 (8C)
+"",,"symbols, (simple systems only),",,,,
+"",,selection rule,,,,
+9-12,Chemical,"VB Theory: electron pair bond,",Demonstrate successful description of chemical bond;,,,T1 14.1-14.14
+"",Bonding: Valence,"hybridization, resonance, MO theory:",examine the application of molecular orbital theory to,,,"(9A, 9B, 9C)"
+"",Bond and,"LCAO, bonding and antibonding",diatomic molecules. Recall Lewis theory and VSEPR,,,
+"",Molecular Orbital,"orbitals, homonuclear and",model.,,,
+"",Theories,heteronuclear diatomic molecules.,,,,
+"",,Lewis theory and VSEPR model,,,,
+"",,(self-study),,,,
+13,Thermodynamics:,"Thermodynamic systems, state",Comprehend the concept of energy; compare reversible,,,T1 2.1-2.9
+"","the First Law,","functions, thermal equilibrium and","and irreversible processes (work done), classify and",,,"(2A, 2B, 2C, 2D)"
+"",Internal Energy,"temperature, work, internal energy","compare thermodynamic functions, influence of",,,
+"",and Enthalpy,"and heat transfer, heat capacity.","temperature and pressure on thermodynamic functions,",,,
+"",,,illustrate bomb type calorimeter.,,,
+14-15,Thermodynamics:,"Natural and reversible processes,",Demonstrate understanding of key concepts related to,,,T1 4.1-4.13
+"","the Second Law,","entropy and second Law, Calculation","the second law of thermodynamics, including alternative",,,"(3A, 3B, 3C, 3D)"
+"","Entropy, Gibbs","of entropy changes, absolute",statements of the second law. Discuss energy transfer in,,,
+"",Energy,"entropies, Gibbs energy.","the context of thermodynamics, differentiate between",,,
+"",,,"the entropy of system, surroundings and universe,",,,
+"",,,calculate the changes. Compare reversible and,,,
+"",,,irreversible processes (heat); evaluate entropy changes,,,
+"",,,"accompanying expansion, heating, phase transition,",,,
+"",,,"define third law of thermodynamics, estimate the",,,
+"",,,"standard reaction entropy and statistical entropy,",,,
+"",,,spontaneity of a process in a closed system - concept of,,,
+"",,,Gibbs free energy,,,
+16,Spontaneity and,Applications of entropy and Gibbs,Calculate the,change,in,free,energy,for,a,chemical,,"T1 5.1 – 5.3, 7.1-7.4"
+"",Equilibrium,free energy in chemical reactions,change from tabulated thermodynamic data; predict the,,,,,,,,,"(4A, 5A)"
+"",,,"spontaneity of a reaction, determine how temperature",,,,,,,,,"7.5-7.6, 7.8 (5B, 5C) (SS)"
+"",,,effects spontaneity of physical & chemical change based,,,,,,,,,
+"",,,on H and S. Relate and apply concept of chemical,,,,,,,,,
+"",,,equilibrium and,response,,of,chemical,equilibria,,to,,
+"",,,temperature and pressure.,,,,,,,,,
+17,Chemical,"Rate laws, order, rate constants,","Define the rate and order of reactions, write the general",,,,,,,,,"T1 10.1-10.9,"
+(partial,Kinetics:,Arrhenius equation; rate-determining,"form of the rate law, practical determination of order and",,,,,,,,,T1 11.4-11.7
+portion,Experimental,"step, reaction mechanisms; steady-",rate constants from the available concentration values of,,,,,,,,,"(6A, 6B, 6C, 6D-1, 6F)"
+is S.S.),"Methods,",state approximation.,reactants/products,as,a function,,of time.,,Usage,of,,
+"","Reaction Rates,",(except the steady-state,"""methods of initial rates"", ""isolation method"", half- life""",,,,,,,,,
+"",Temperature,"approximation, remaining portions",concepts. Effect of temperature on the rates of reaction.,,,,,,,,,
+"",Dependence,are self-study).,Using steady,state approximation,,,to,derive rate,,law,,
+"",,,theoretically for a possible mechanism.,,,,,,,,,
+18-20,Vibrational and,"General features, vibrational energy","Relating the interaction between light and matter, apply",,,,,,,,,"T1 12.9, 19.6 – 19.8; 19.11;"
+"",Electronic,levels and spectra; electronic spectra:,knowledge of detailed understanding of vibrational and,,,,,,,,,20.1 – 20.4
+"",Spectroscopy,"Franck-Condon principle, types of",electronic spectra,of small,,"molecules,",,"isotope shifts,",,,,"(7E, 13A, 13C.1-13C.3,"
+"",,transitions,detailed understanding,,of,electronic,states,,of,"atoms,",,"13C.5, 13D)"
+"",,,"molecules, Franck-Condon",,,,principle;,predict,,the,,T3: 2.15 – 2.16
+"",,,possible vibrational,,frequencies,,and,,electronic,,,
+"",,,transitions,,,,,,,,,
+21-24,Nuclear Magnetic,"Principles, chemical shift, fine",Understand the,basic,principles,,and,techniques,,of,,T1 21.1 – 21.4
+"",Resonance,"structure, applications (identification",nuclear magnetic,resonance,,spectroscopy;,,,apply,the,,"(14A, 14B.1-14B.2)"
+"",Spectroscopy,of organic compounds).,knowledge gained,for,,identification,,,of,organic,,
+"",,,molecules.,,,,,,,,,T2: 9.1-9.8
+25-26,Conformations,"Rotation around sigma bonds,","Classify structural and constitutional isomers, explain",,,,,,,,,"T2: 4.8-4.9, 4.10 (SS), 4.11-4.14"
+"",,"conformational analysis of butane,","the terms torsional energy, torsional strain, angle strain.",,,,,,,,,
+"",,"cyclohexane, and substituted","Judge the stabilities, identify cis and trans relationship",,,,,,,,,
+"",,cyclohexanes.,"for the substituents on cyclohexanes, draw chair form of",,,,,,,,,
+"",,,cyclohexane with unambiguous representation of axial,,,,,,,,,
+"",,,and equatorial,"substituents,",,reason,for,the,,stability,,
+"",,,between the two isomers.,,,,,,,,,
+27-28,Stereochemistry,"Isomerism, chirality, origin of optical","Define stereochemistry,",outline,different types,of,,,"T2: 5.1-5.13, 5.15-5.18, 7.2"
+"",,"activity, stereochemistry of cyclic","isomerism, differentiate",between,configurational,and,,,
+"",,"compounds, resolution.","conformational isomers, enantiomers, chirality, specific",,,,,,
+"",,,"rotation, optical activity,","diastereomers,",meso,,,,
+"",,,"compounds and racemic mixtures, designate the R and S",,,,,,
+"",,,"configurations, explain geometrical isomerism, optical",,,,,,
+"",,,resolution.,,,,,,
+29-30,Substitution,Nucleophilic substitution reactions,List the types of substitution reactions (mechanism).,,,,,,T2: 6.2-6.13
+"",reactions,(both SN1 and SN2) of alkyl halides.,"Analyse the role of substrate, solvent and nucleophile.",,,,,,
+31-32,Elimination,Elimination reactions of alkyl,Outline the types of elimination reactions. Explain the,,,,,,"T2: 6.15-6.19, 7.5-7.8, 20.12"
+"",reactions,halides; Hoffmann and Cope,difference between Hoffman,vs,Zeitsev product.,,,,
+"",,elimination.,"Identify the importance of substrate, solvent and base.",,,,,,
+"",,,Examine difference between,nucleophile,and base;,,,,
+"",,,Hoffman and Cope elimination mechanism. Compare,,,,,,
+"",,,substitution and elimination reactions.,,,,,,
+33-34,Electrocyclic,Introduction to pericyclic reactions,Identifying pericyclic reactions,and various types,,of,,,Lecture notes
+"",reactions,with emphasis on electrocyclic,pericyclic reactions. Electrocyclic reaction types and,,,,,,
+"",,reactions,conditions. Understanding the outcome of electrocyclic,,,,,,
+"",,,reactions by FMO approach.,,,,,,
+S.S.,Introduction to,Double salts and coordination,Demonstrate comprehensive,,and well-founded,,,,T3: p194-201 (S.S.)
+"",coordination,compounds. Werner’s work;,knowledge of structure and bonding theories relevant to,,,,,,
+"",compounds,identification of structure by isomer,inorganic molecular compounds.,,Interpret Werner’,,,,
+"",,counting. Effective atomic no.,"theory, coordination compound,",,"ligand and valency,",,,,
+"",,concept. (Self-study),"describe coordination compounds, deduct the effective",,,,,,
+"",,,atomic number.,,,,,,
+35-36,VB theory and,Explanation for the stability of,Explain and measure the stabilities of complexes using,,,,,,T3: p203-213
+"",Crystal field,complexes according to crystal field,the crystal field splitting theory.,,,,,,
+"",theory for,theory.,,,,,,,
+"",octahedral,,,,,,,,
+"",complexes,,,,,,,,
+37-39,Jahn-Teller,How do geometrical distortions,Interpret Jahn-Teller distortion.  Formulate the crystal,,,,,,T3: p214-222
+"",distortions; square,stabilize the system? Stability in other,field theory to understand square planar and tetrahedral,,,,,,
+"",planar and,geometries.,complexes.,,,,,,
+"",tetrahedral,,,,,,,,
+"",complexes,,,,,,,,
+40,Chelates &,Different types,of ligands,,and,,Distinguish various types of ligands and isomerism in,"T3: p222-224, 307, 351-352, 389,"
+"",Isomerism,stabilization due,to entropy,,factors,,co-ordination compounds.,"793, 807; p232-236"
+"",,and electron,delocalization,,in the,,,
+"",,rings.,,,,,,
+Component,Duration,Weightage (%),Date and Time,Nature of component
+Midsem,90 min,30,14/03 - 11.00 - 12.30PM,Closed Book
+Class Tests#,-,20,To be announced,Open Book
+Class Interaction**,-,10,Continuous,Open Book
+Comprehensive Examination,180 min,40,13/05 AN,Closed Book

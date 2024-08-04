@@ -1,0 +1,30 @@
+
+Course: CP_Handout
+Summary:
+The CP_Handout course covers foundational computer science concepts, algorithms, and programming in C. Topics include computer structure, data representation, algorithms, and hands-on programming. Assessment components include a mid-semester exam, continuous lab quizzes, class interactions/quizzes, a lab exam, and a comprehensive final exam.
+Details:
+Lecture Topics:
+1-2. Introduction to Computers: Historical perspective, basic structure, operations, programming languages.
+3-4. Numeric Data Representation: Number systems, binary arithmetic, complement representations.
+5-6. Algorithm Design: Concept, flowcharts.
+7-8. Transition to Programming: Concept of a program.
+9-10. Problem Solving and Programming in C: Programming language 'C', data representation, specific constructs.
+Evaluation of Expressions: Operations on simple data.
+12-13. Input and Output Operations: Formatting.
+14-15. Sequential and Conditional Evaluation: Statements.
+16-18. Iterative/Repetitive Constructs.
+19-20. Programming using Iterative/Repetitive Constructs.
+21-23. Arrays.
+24-26. Strings.
+27-30. Modular Programming: User-defined functions.
+31-33. Pointers.
+34-36. Structures & Unions.
+37-38. Dynamic Memory Allocation in C: malloc, calloc, realloc, free, linked lists, etc.
+39-40. File Management in C.
+Evaluation Components:
+Mid-Semester Exam: 90 minutes, 30%, 15/03 - 2.00 - 3.30 PM, Closed Book.
+Continuous Lab Quiz: Lab-based, 10%, In Lab (best 10/13), Open Book.
+Class Interaction/Quiz: In-class, 10%, In class (best 10/15), Open Book.
+Lab Exam: 60 minutes, 10%, To be announced, Open Book.
+Comprehensive Exam: 180 minutes, 40%, 17/05 FN, Closed Book.
+Immerse yourself in computer science fundamentals and programming skills with hands-on labs and assessments, including a mid-semester exam, lab quizzes, class interactions, a lab exam, and a comprehensive final exam in CP_Handout.

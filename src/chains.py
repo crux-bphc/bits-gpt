@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 if os.getenv("GROQ_API_KEY") is not None:
-    model_name = os.getenv("GROQ_MODEL_NAME") or "mixtral-8x7b-32768"
+    model_name = os.getenv("GROQ_MODEL_NAME") or "llama3-70b-8192"
     print(f"Using GROQ: {model_name} model")
     model = ChatGroq(temperature=0, model_name=model_name)
 

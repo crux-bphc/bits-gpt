@@ -1,9 +1,0 @@
-Here's a summary of each course based on the provided CSV data:
-COMMUNICATION SYSTEMS (ECE F311) is course number 1389, section 1, instructed by PRASANT KUMAR P. The lectures take place in room F105, with practical sessions in room H106. The comprehensive exam is scheduled for the afternoon session on December 12th.
-EM FIELDS & MICRO ENGG (ECE F314) is course number 1388, section 1, led by HARISH VIJAY DIXIT. The lectures are conducted in room F104. The comprehensive exam is scheduled for the morning session on December 4th.
-ANALOG ELECTRONICS (ECE F341) is course number 1391, section 1, taught by AMIT KUMAR PANDA. The course includes lectures in room I212 and practical sessions in the LAB. The comprehensive exam is scheduled for the morning session on December 4th.
-LABORATORY PROJECT (ECE F366) is course number 1702, section 1, instructed by STP SRINIVAS. Specific details regarding room assignments and comprehensive exam scheduling are not available.
-DESIGN PROJECT (ECE F376) is course number 1703, section 1, led by SOURAV NANDI. Specific details regarding room assignments and comprehensive exam scheduling are not available.
-SMART GRID FOR (ECE F424) is course number 2492, section 1, instructed by STP SRINIVAS. The lectures are held in room I210. The comprehensive exam is scheduled for the morning session on December 6th.
-SDUIGSITTAILN SAIBGLNEA ELN PERROGCYESS (ECE F434) is course number 1392, section 1, with RAJESH KUMAR TRIPATHY as the instructor. The lectures are conducted in room F105. The comprehensive exam is scheduled for the afternoon session on December 2nd.
-PRINCIPLES OF ECONOMICS (ECON F211) is course number 1023, section 1, led by DUSHYANT KUMAR. The lectures are held in room F107, with additional sessions in rooms F207 and F103. The comprehensive exam is scheduled for the afternoon session on December 9th.

@@ -1,0 +1,19 @@
+
+Course: CHEM F111 - General Chemistry
+Instructor: Amit Nag
+Instructors (Prof./Dr.): Balaji Gopalan, Manab Chakravarty, Himanshu Aggarwal, Chanchal Chakraborty, KVG Chandrasekhar, N Rajesh, Subit Kumar Saha, Sourav Bag, and Amit Nag.
+Scope and Objective:
+Comprehensive study of electronic structure in atoms, molecules, and chemical reactions.
+Introduction to quantum chemistry, spectroscopy, thermodynamics, chemical equilibrium, and chemical kinetics.
+Survey of conformations, stereochemistry, functional groups, reaction mechanisms, and coordination chemistry.
+Text Books:
+T1: P.W. Atkins & Julio de Paula, 'The Elements of Physical Chemistry' (5th/International edition, Oxford University Press, 2017).
+T2: T. W. Graham Solomons and Craig B. Fryhle, 'Organic Chemistry' (10th Edition, John Wiley & Sons, Inc., 2011).
+T3: J. D. Lee, 'Concise Inorganic Chemistry' (5th Edition, Blackwell Science, Oxford, 1999).
+Reference Books:
+R1: L. G. Wade, Jr. and M. S. Singh, 'Organic Chemistry' (6th Edition, Pearson Education Inc., 2006).
+R2: D. W. Ball, 'Physical Chemistry' (First Edition, India Edition, Thomson, 2007).
+Course Plan (SS stands for 'self study'):
+Syllabus includes lectures, tutorial class notes, and sections of chapters based on the 5th Edition of T1.
+This course covers a broad spectrum of chemistry, including physical, organic, and inorganic aspects, providing students with a comprehensive understanding of fundamental principles and applications.
+1 / 2

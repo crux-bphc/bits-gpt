@@ -1,0 +1,22 @@
+
+Course: BITS_F112_Technical_Report_Writing_Course_Handout
+Summary:
+BITS_F112 focuses on technical report writing, covering elements of effective writing, various report types, formal reports, data sources, illustrations, oral presentations, and globalized professional communication. Evaluation includes a mid-semester test, assignments, class participation, and a comprehensive examination.
+Details:
+Lecture Topics:
+Course Overview: Importance, objectives, topics, assessment.
+Overview of Technical Communication: Attributes of technical writing, writing process.
+3-6. Elements of Effective Writing: Technical sentences, paragraphs, correspondence, definitions, instructions, punctuation, and grammar.
+7-10. Types of Reports: Past events, ongoing tasks, future actions, standards, lab reports.
+11-14. Formal Reports: Parts, pagination, references, citations.
+15-17. Process of Writing and Revising Parts of a Formal Report: Planning, drafting, revising.
+18-20. Sources of Data: Interviewing, surveying, observing, testing, published information.
+21-24. Use of Illustrations: Putting graphics into reports, rules, avoiding misrepresentation.
+25-27. Dos and Don'ts of Technical Presentation: Planning, speech notes, slides, overcoming stage fright.
+28-30. Professional Communication Challenges: Intercultural communication, collaborative writing, document control, job application packages.
+Evaluation Components:
+Mid-Semester Test: 90 minutes, 30%, 13/03 - 4.00 - 5.30 PM, Closed Book.
+Assignments: To be announced, 20% + 10%, To be announced, Open Book.
+Class Participation: Varying, 10%, Distributed throughout the semester, Open Book/Closed Book.
+Comprehensive Examination: 3 hours, 30%, 15/05 AN, Closed Book.
+Enhance your technical writing skills, understand various report types, and navigate globalized professional communication through assessments including a mid-semester test, assignments, participation, and a comprehensive exam in BITS_F112.

@@ -1,0 +1,59 @@
+
+Summary for PHY F111 Mechanics, Oscillations, and Waves Course:
+The PHY F111 course delves into the principles of mechanics, oscillations, and wave phenomena. Here are the key elements of the course:
+Lecture Topics:
+Introduction:
+Spirit of Newtonian Mechanics
+Plane Polar Coordinates
+2-3. Vectors and Kinematics:
+Velocity, Acceleration, Motion
+Angular Momentum, Torque, Fixed Axis Rotation
+4-8. Central Force Motion:
+Energy Diagrams, Planetary Motion
+Kepler’s Laws
+9-14. Small Oscillations:
+Introduction and Review of SHM
+Energy Diagrams, Bound System
+17-18. Damped Harmonic Oscillator:
+Lightly Damped, Heavily Damped Oscillations
+Critically Damped Oscillations, Q Factor
+19-20. Forced Harmonic Oscillator:
+Undamped Forced Oscillator
+Resonance, Forced Damped Oscillator, Q Factor
+21-23. Superposed Vibrations:
+Superposed Vibrations in 1D
+Beats, Lissajous Figures
+24-25. Coupled Harmonic Oscillators:
+Coupled Oscillators, Normal Modes
+Forced Coupled Oscillators
+26-28. Matrix Method for Coupled Pendulums:
+Finding Normal Mode Frequencies
+Matrices, Eigenvalues, Eigenvectors
+29-32. Waves and Vibrations:
+Free Vibrations of Stretched String
+Progressive Waves, Wave Energy
+33-34. Wave Equations:
+Superposition of Waves
+Energy in Mechanical Waves, Phase Velocity
+35-40. Interference and Diffraction:
+Reflection of Waves
+Interference, Diffraction, Grating
+Evaluation Components:
+Mid Semester Test:
+Duration: 90 mins
+Weightage: 30%
+Date & Time: 12/03 - 2.00 - 3.30 PM
+Nature: Open Book
+Quizzes:
+Duration: 50 mins
+Weightage: 20%
+Nature: Closed Book
+Classroom Participation:
+Weightage: 10%
+Nature: Open Book
+Comprehensive Examination:
+Duration: 3 hours
+Weightage: 40%
+Date & Time: 08/05 AN
+Nature: Closed Book
+The course encompasses theoretical foundations, practical applications, and assessments that include mid-semester tests, quizzes, classroom participation, and a comprehensive examination.
